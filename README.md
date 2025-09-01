@@ -426,6 +426,8 @@ For people who want a list with more miscellaneous YouTubers who aren't just off
 
 [**Warner Bros Entertainment**](https://www.youtube.com/@warnerbrosentertainment)
 
+[**Warner Bros. Rewind**](https://www.youtube.com/@WarnerBrosRewind)
+
 [**Walt Disney Animation Studios**](https://www.youtube.com/@disneyanimation/) (Clips, songs, Behind The Scenes and extra content)
 
 [**Walt Disney Imagineering**](https://www.youtube.com/@waltdisneyimagineering/featured)
