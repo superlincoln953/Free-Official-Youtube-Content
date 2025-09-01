@@ -489,7 +489,7 @@ For people who want a list with more miscellaneous YouTubers who aren't just off
 
 [**WTvF! - Digital Grindhouse & Drive-In**](https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) (Exploitation)
 
-[**Wu Tang Collection**](https://www.youtube.com/channel/UCUpbgPbDccjoB9PxI-nI7oA)
+[**Wu Tang Collection**](https://www.youtube.com/channel/UCUpbgPbDccjoB9PxI-nI7oA) (Classic Martial Arts Films/ [Website](https://www.thewutangcollection.com/))
 
 ### TV Shows
 [**2 Broke Girls**](https://www.youtube.com/@2brokegirls) (Clips and some compilations)
