@@ -7,7 +7,7 @@ And I wanted to make a list with as many of them as possible
 
 This list will only focus on official YouTube channels who have the rights to post the content online, no unofficial uploaders are allowed
 
-Originally made by Gordon Feetman, now maintained by Superlincoln
+[Originally](https://rentry.co/Free-Official-Youtube-Content) made by [Gordon Feetman](https://github.com/GordonFeetman0), now maintained by Superlincoln
 
 💜A big thanks to [FMHY](https://fmhy.net/) for adding my page to [their list](https://fmhy.net/video#free-w-ads)💜
 
@@ -19,8 +19,13 @@ I don't add region locked channels that require [a VPN](https://fmhy.net/privacy
 
 For people who want a list with more miscellaneous YouTubers who aren't just official channels, check out this [Google Sheet page](https://docs.google.com/spreadsheets/d/1xZm5BcQTYJx8sfSuqHExHtIOPtSfod8beHKtYzp8DxE)
 
+[Original list on Rentry](https://rentry.co/Free-Official-Youtube-Content)
 
-### ---
+---
+**Small Message**: Hi, I'm [Gordon Feetman](https://github.com/GordonFeetman0), the maker of this list, and I'm writing this short message to let y'all know that I'll no longer be maintaining this list, as it was taking a lot of my time and focus from uni, so i wanted to let all you know that I'm passing this list onto Superlincoln, which was already the biggest contributor for this list. The way this list is maintained will remain the same, or even be improved, since I'm not too good at organizing stuff.
+That's all, I'll be removing all my personal comments from the list, except the few useful ones
+
+---
 
 
 ### Table Of Contents
