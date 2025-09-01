@@ -655,7 +655,7 @@ Breakdown and BTS of VFX in movies and TV, maybe with some interviews and podcas
 
 [**ScanlineVFX**](https://youtube.com/@scanline_vfx)
 
-[**Sony Pictures Imageworks - VFX **](https://www.youtube.com/@ImageworksVFX/)
+[**Sony Pictures Imageworks - VFX**](https://www.youtube.com/@ImageworksVFX/)
 
 [**Storm Studios**](https://www.youtube.com/@stormstudios357)
 
