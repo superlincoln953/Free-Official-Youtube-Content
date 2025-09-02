@@ -127,6 +127,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Disney Jr.**](https://www.youtube.com/@disneyjr) (Mostly clips and compilations but some full episodes)
 
+[**Disney Kids**](https://www.youtube.com/@disneykids) (clips and compilations)
+
 [**Dora & Friends**](https://www.youtube.com/@DoraOfficial) (Clips and full episodes)
 
 [**Kung fu Panda**](https://www.youtube.com/@kungfupanda) (Trailers, clips, some extra stuff, mostly inactive)
