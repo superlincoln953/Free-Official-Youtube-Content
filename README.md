@@ -13,6 +13,12 @@ This list will only focus on official YouTube channels who have the rights to po
 
 Also a big thanks to [all the members of the FMHY Discord server](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) for suggesting me most of these channels
 
+This list will only focus on official YouTube channels who have the rights to post the content online, no unofficial uploaders are allowed
+
+Don't add YouTubers to the list, unless they focus on restoring and/or uploading public domain content like old movies and documentaries
+
+Don't add region locked channels that require [a VPN](https://fmhy.net/privacy#vpn) to look at their content, I've had many suggested channels with lots of playlists which were hidden because they were region locked to a certain area. These are outside the scope of my list, mainly because if you need [a VPN](https://fmhy.net/privacy#vpn) just to access them [you might as well just pirate the thing entirely](https://fmhy.net/beginners-guide) or [watch it legally](https://fmhy.net/video#free-w-ads)
+
 For people who want a list with more miscellaneous YouTubers who aren't just official channels, check out this [Google Sheet page](https://docs.google.com/spreadsheets/d/1xZm5BcQTYJx8sfSuqHExHtIOPtSfod8beHKtYzp8DxE)
 
 [Original list on Rentry](https://rentry.co/Free-Official-Youtube-Content)
