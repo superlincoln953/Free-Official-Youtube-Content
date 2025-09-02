@@ -738,6 +738,6 @@ There are (probably) never gonna be full live matches, maybe full replays of old
 [**Short of the Week**](https://www.youtube.com/@shortoftheweek/)
 
 ---
-# [**Archive Page**](https://web.archive.org/save/https://rentry.co/Free-Official-Youtube-Content)
-# [**View Archived Page**](https://web.archive.org/https://rentry.co/Free-Official-Youtube-Content)
+# [**Archive Page**](https://web.archive.org/save/https://github.com/superlincoln953/Free-Official-Youtube-Content)
+# [**View Archived Page**](https://web.archive.org/https://github.com/superlincoln953/Free-Official-Youtube-Content)
 ---
