@@ -439,9 +439,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Warner Bros. Rewind**](https://www.youtube.com/@WarnerBrosRewind)
 
-[**Walt Disney Animation Studios**](https://www.youtube.com/@disneyanimation/) (Clips, songs, Behind The Scenes and extra content)
+[**Walt Disney Animation Studios**](https://www.youtube.com/@disneyanimation/) (Trailers, Featurettes, Clips, songs, Behind The Scenes and extra content)
 
-[**Walt Disney Imagineering**](https://www.youtube.com/@waltdisneyimagineering/featured)
+[**Walt Disney Imagineering**](https://www.youtube.com/@waltdisneyimagineering/featured) (BTS Videos of Disney's parks)
 
 ### Movies
 [**A Touch of Evil**](https://www.youtube.com/channel/UCHgm6IUmnTV2aAMMCSPq8zA/featured) (Horror)
