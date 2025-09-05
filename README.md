@@ -274,6 +274,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Retro Space HD**](https://www.youtube.com/@RetroSpaceHD) (Old documentaries restored and reformatted for modern devices)
 
+[**Rick88888888**](ttps://www.youtube.com/@Rick88888888) (Restored documentaries from old films)
+
 [**Sen**](https://www.youtube.com/@Sen) (4K Livestream of Earth from Space | Live Views from ISS)
 
 [**Space Oral History**](https://www.youtube.com/@spaceoralhistory8448/) 
