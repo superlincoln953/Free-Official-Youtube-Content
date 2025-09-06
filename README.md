@@ -395,7 +395,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Paramount Plus**](https://www.youtube.com/@paramountplus) (Clips and compilations)
 
-[**Pixar**](https://www.youtube.com/@pixar/) (Clips, Behind The Scenes and extra content)
+[**Pixar**](https://www.youtube.com/@pixar/) (Trailers, Featurettes, Clips, Behind The Scenes and extra content)
 
 [**PeriscopeFilm**](https://www.youtube.com/@PeriscopeFilm) (Old educational films)
 
