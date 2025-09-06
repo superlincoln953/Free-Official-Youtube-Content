@@ -359,6 +359,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**HBO Max**](https://www.youtube.com/@hbomax) (Podcast episodes, clips, exclusive/extra content)
 
+[**Hong Kong Disneyland**](https://youtube.com/@hkdisneylandresort) 
+
 [**HOY 免費電視77台及78台**](https://www.youtube.com/@hkhoy) (Free HK TV channel)
 
 [**ITN Archive**](https://www.youtube.com/@ITNArchive) (Archive of old TV Transmissions, news, documentaries, movies...)
