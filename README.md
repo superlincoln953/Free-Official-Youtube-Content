@@ -347,7 +347,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Disney Movies Hong Kong**](https://www.youtube.com/@DisneyMoviesHongKong/) (BTS, Clips and Trailers)
 
-[**Disney On Broadway**](https://www.youtube.com/@disneymusicals) (Clips, songs and special features from Disney musicals on Broadway (except Hamilton because it has its own YT channel))
+[**Disney On Broadway**](https://www.youtube.com/@disneymusicals) (Clips, songs and special features from Disney musicals on Broadway ([except Hamilton because it has its own YT channel](https://www.youtube.com/@HamiltonMusical)))
 
 [**Disney Parks**](https://www.youtube.com/@DisneyParks) 
 
