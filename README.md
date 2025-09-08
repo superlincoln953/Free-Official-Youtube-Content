@@ -202,6 +202,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Bloomberg Originals**](https://www.youtube.com/bloomberg) (full Documentaries and some documentary-like shows)
 
+[**Canadian Space Agency**](https://www.youtube.com/@canadianspaceagency)
+
 [**Cartoons On Film**](https://www.youtube.com/@cartoonsonfilm) (Restored old cartoons from films with documentaries on their makings and more)
 
 [**Computer History Archives Project ("CHAP")**](https://www.youtube.com/@ComputerHistoryArchivesProject) (Archive of old films about computer history)
