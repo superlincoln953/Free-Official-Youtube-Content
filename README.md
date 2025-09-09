@@ -3,7 +3,7 @@
 
 There's many official YouTube channels that upload full content for free, be it Movies, TV Shows, Cartoons, Anime...
 
-And I wanted to make a list with as many of them as possible
+And I wanted to make a awesome list with as many of them as possible
 
 This list will only focus on official YouTube channels who have the rights to post the content online, no unofficial uploaders are allowed
 
