@@ -401,6 +401,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**PeriscopeFilm**](https://www.youtube.com/@PeriscopeFilm) (Old educational films)
 
+[**Rochester TV Archive**](https://www.youtube.com/@RochesterTVArchive) (
+
 [**SBS On Demand**](https://www.youtube.com/@SBSOnDemand) (Trailers, movie and content from the SBS Australian channel, not related to the Korean one)
 
 [**SBS Entertainment**](https://www.youtube.com/@SBSenter.official) (Clips and content from the SBS South Korean Channel, not related to the Australian one)
