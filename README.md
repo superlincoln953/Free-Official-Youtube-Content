@@ -76,8 +76,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Cartoon Network UK**](https://www.youtube.com/@cartoonnetworkuk) (Some full episodes, mostly clips and compilations)
 
-[**CBBC**](https://www.youtube.com/CBBC) (Clips and compilations)
-
 [**Code Lyoko English Official**](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) (Full episodes and compilations, in English)
 
 [**Code Lyoko Officiel**](https://www.youtube.com/@codelyokoofficiel7410) (Full episodes and compilations, French only)
@@ -122,6 +120,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Bluey**](https://www.youtube.com/@BlueyOfficialChannel)
 
 [**Cartoonito**](https://www.youtube.com/@cartoonito) (Mostly clips, some full episodes)
+
+[**CBBC**](https://www.youtube.com/CBBC) (Clips and compilations)
 
 [**Clifford the Big Red Dog Classic-Scholastic**](https://www.youtube.com/@CliffordtheBigRedDogClassic) (Full episodes, clips and compilations from various classic Clifford cartoons)
 
