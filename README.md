@@ -684,6 +684,8 @@ Breakdown and BTS of VFX in movies and TV, maybe with some interviews and podcas
 ### Sport
 There are (probably) never gonna be full live matches, maybe full replays of old matches, but mostly clips
 
+[**beIN SPORTS Asia**](https://www.youtube.com/@beINSPORTSAsia/)
+
 [**Concaf**](https://www.youtube.com/@concacaf) (Football streams, highlights and more, go to the "Live" page for streams)
 
 [**DAZN Canada**](https://www.youtube.com/@dazncanada)
