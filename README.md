@@ -746,6 +746,8 @@ There are (probably) never gonna be full live matches, maybe full replays of old
 
 [**WWE on Netflix**](https://youtube.com/@wweonnetflix)
 
+[**WWE Vault**](https://www.youtube.com/@WWEVault) 
+
 ### Short Films
 [**Alter**](https://www.youtube.com/@WatchALTER) (short horror films) (owned by [Gunpowder & Sky](https://en.wikipedia.org/wiki/Gunpowder_%26_Sky) )
 
