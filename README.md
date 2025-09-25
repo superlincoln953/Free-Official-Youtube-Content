@@ -244,6 +244,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Kinolibrary**](https://www.youtube.com/@thekinolibrary) (Archival and restoring of high quality public domain footage)
 
+[**Look in The Past War Archives**](https://www.youtube.com/@LookinThePastWarArchives) 
+
 [**Machina**](https://www.youtube.com/@Machina_Official)
 
 [**Mercury 7 Films**](https://www.youtube.com/@mercury7films) (Documentaries about the Apollo mission and the space race)
