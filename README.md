@@ -139,7 +139,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Mr. Bean**](https://www.youtube.com/@MrBean) (Both the Live Action and the Cartoon version, but not the movies)
 
-[**National Geographic Kids**](https://www.youtube.com/@natgeokids)
+[**My Little Pony - Official Channel**](https://www.youtube.com/@MyLittlePonyOfficial) 
+
+[**National Geographic Kids**](https://www.youtube.com/@natgeokids) (Clips ,full episodes and compilations)
 
 [**Netflix Family**](https://www.youtube.com/@netflixfamily) (Clips, compilations and extra content)
 
