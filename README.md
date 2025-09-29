@@ -98,7 +98,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Marvel H.Q.**](https://www.youtube.com/@MarvelHQ) (Multiple cartoons, both clips and full episodes)
 
-[**麥兜Mcdull**](https://www.youtube.com/@mylifeasmcdull) 
+[**麥兜Mcdull**](https://www.youtube.com/@mylifeasmcdull) (Clips)
 
 [**Miraculous Ladybug**](https://www.youtube.com/@Miraculous) (Clips, compilations and full episodes)
 
