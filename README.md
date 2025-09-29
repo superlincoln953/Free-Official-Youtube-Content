@@ -98,6 +98,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Marvel H.Q.**](https://www.youtube.com/@MarvelHQ) (Multiple cartoons, both clips and full episodes)
 
+[**麥兜Mcdull**](https://www.youtube.com/@mylifeasmcdull) 
+
 [**Miraculous Ladybug**](https://www.youtube.com/@Miraculous) (Clips, compilations and full episodes)
 
 [**Nickelodeon**](https://www.youtube.com/@Nickelodeon) (Mostly clips, some full episodes)
@@ -324,6 +326,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Animation World Network**](https://www.youtube.com/@AWN-AnimationWorldNetwork) (Trailers, clips and Featurettes from upcoming animated movies (including fully animated movies and CG animated movies/movies who use a lot of CGI constantly))
 
 [**Avatar**](https://www.youtube.com/@AvatarOfficial) (Content related to the Avatar movies, including Blu-Ray extras and YT original extras)
+
+[**ATV 亞洲電視**](https://www.youtube.com/@atvhongkong) (Old Free Hong Kong TV)
 
 [**BBC**](https://www.youtube.com/@BBC)
 
