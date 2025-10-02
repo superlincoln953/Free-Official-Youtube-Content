@@ -484,6 +484,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Flix For Free**](https://www.youtube.com/@FlixForFree) (Uncork'd Entertainment)
 
+[**FPJ Productions**](https://www.youtube.com/@fpjproductions) (Full Tagalog/Filipino classic movies)
+
 [**GEM: Film Library**](https://www.youtube.com/@gem-filmlibrary) (Full Movies)
 
 [**Goldmines Bollywood**](https://www.youtube.com/@GoldminesBollywood) (Full movies and clips)
