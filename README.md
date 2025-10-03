@@ -702,9 +702,9 @@ There are (probably) never gonna be full live matches, maybe full replays of old
 
 [**ESPN**](https://www.youtube.com/@espn)
 
-[**FIA World Endurance Championship**](https://www.youtube.com/@FIAWEC) 
+[**FIA World Endurance Championship**](https://www.youtube.com/@FIAWEC) (Live, clips, highlights and extras)
 
-[**FIA World Rally Championship**](https://www.youtube.com/@wrc) (Clips, highlights and extras)
+[**FIA World Rally Championship**](https://www.youtube.com/@wrc) (Live, clips, highlights and extras)
  
 [**FIFA**](https://www.youtube.com/@fifa)
 
@@ -712,7 +712,7 @@ There are (probably) never gonna be full live matches, maybe full replays of old
 
 [**FOX Sports**](https://www.youtube.com/@foxsports) (Highlights, commentaries and analysis)
 
-[**GTWorld**](https://www.youtube.com/@gtworld) (Clips and highlights)
+[**GTWorld**](https://www.youtube.com/@gtworld) (Live, clips, highlights and extras)
 
 [**INDYCAR on FOX**](https://www.youtube.com/@indycaronfox) (Highlights, clips, interviews and extras)
 
