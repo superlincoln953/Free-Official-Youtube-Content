@@ -419,7 +419,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**SBS Entertainment**](https://www.youtube.com/@SBSenter.official) (Clips and content from the SBS South Korean Channel, not related to the Australian one)
 
-[**Shadow Pine Studios**](https://www.youtube.com/@shadowpineinc) (Various media: animated shows, documentaries...)
+[**Shadow Pine Studios**](https://www.youtube.com/@shadowpineinc) (Various media: animated shows, documentaries like [Greatest Tank Battles Season 1-3](https://www.youtube.com/playlist?list=PLmlOlokCCWI_KkzCUXSsuo11PolRWGPiq)...)
 
 [**SHOWTIME**](https://www.youtube.com/@Showtime) (Clips, trailers, a few full episodes, connected to Paramount+)
 
@@ -463,7 +463,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Walt Disney Animation Studios**](https://www.youtube.com/@disneyanimation/) (Trailers, Featurettes, Clips, songs, Behind The Scenes and extra content)
 
-[**Walt Disney Imagineering**](https://www.youtube.com/@waltdisneyimagineering/featured) (BTS Videos of Disney's parks)
+[**Walt Disney Imagineering**](https://www.youtube.com/@waltdisneyimagineering/featured) (BTS Videos of Disney's parks/[Inside look at Walt Disney Imagineering](https://www.youtube.com/playlist?list=PLZuKWjoQGMP5LFHVnDn-sxggnJCZi3d9H))
 
 ### Movies
 [**A Touch of Evil**](https://www.youtube.com/channel/UCHgm6IUmnTV2aAMMCSPq8zA/featured) (Horror)
