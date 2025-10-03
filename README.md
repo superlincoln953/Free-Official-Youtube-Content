@@ -463,7 +463,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Walt Disney Animation Studios**](https://www.youtube.com/@disneyanimation/) (Trailers, Featurettes, Clips, songs, Behind The Scenes and extra content)
 
-[**Walt Disney Imagineering**](https://www.youtube.com/@waltdisneyimagineering/featured) (BTS Videos of Disney's parks/[Inside look at Walt Disney Imagineering](https://www.youtube.com/playlist?list=PLZuKWjoQGMP5LFHVnDn-sxggnJCZi3d9H))
+[**Walt Disney Imagineering**](https://www.youtube.com/@waltdisneyimagineering/featured) (BTS Videos of Disney's parks/ [Inside look at Walt Disney Imagineering](https://www.youtube.com/playlist?list=PLZuKWjoQGMP5LFHVnDn-sxggnJCZi3d9H))
 
 ### Movies
 [**A Touch of Evil**](https://www.youtube.com/channel/UCHgm6IUmnTV2aAMMCSPq8zA/featured) (Horror)
