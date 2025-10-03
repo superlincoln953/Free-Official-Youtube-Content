@@ -80,8 +80,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Code Lyoko Officiel**](https://www.youtube.com/@codelyokoofficiel7410) (Full episodes and compilations, French only)
 
-[**Disney Channel**](https://www.youtube.com/@disneychannel) (Mostly clips and compilations but some full episodes)
-
 [**Disney Channel Animation**](https://www.youtube.com/@disneychannelanimation) (Mostly Clips, compilations and extras but some full seasons like [Tangled: The Series/Rapunzel's Tangled Adventure Season 1](https://www.youtube.com/playlist?list=PLiv1IUQDVSNIqxjX4rzvIMw7EjwGspqGt) (Underrated Animated Series with some great songs) and [The Owl House Season 3](https://www.youtube.com/watch?v=Jg2i4vqSFxM) and some full episodes)
 
 [**Disney XD**](https://www.youtube.com/@disneyxd) (Mostly clips and compilations but some full episodes, might not be available in every country)
@@ -126,6 +124,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**CBBC**](https://www.youtube.com/CBBC) (Clips and compilations)
 
 [**Clifford the Big Red Dog Classic-Scholastic**](https://www.youtube.com/@CliffordtheBigRedDogClassic) (Full episodes, clips and compilations from various classic Clifford cartoons)
+
+[**Disney Channel**](https://www.youtube.com/@disneychannel) (Mostly clips and compilations but some full episodes)
 
 [**Disney Jr.**](https://www.youtube.com/@disneyjr) (Mostly clips and compilations but some full episodes)
 
