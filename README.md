@@ -482,6 +482,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Cinema No.8 - HK Movie**](https://www.youtube.com/@8-hkmovie) (Full Chinese (HK) movies)
 
+[**CineMo**](https://www.youtube.com/@CineMoChannel) (Full Tagalog/Filipino classic and dubbed movies)
+
 [**CineRings Productions**](https://www.youtube.com/@CineRingsproductions)
 
 [**Fastbreak Films**](https://www.youtube.com/@FastbreakFilms)
