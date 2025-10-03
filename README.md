@@ -284,7 +284,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Rick88888888**](https://www.youtube.com/@Rick88888888) (Restored documentaries from old films)
 
-[**Sen**](https://www.youtube.com/@Sen) (4K Livestream of Earth from Space | Live Views from ISS)
+[**Sen**](https://www.youtube.com/@Sen) (Earth from space in 4K | 4K Livestream of Earth from Space | Live Views from ISS)
 
 [**Space Oral History**](https://www.youtube.com/@spaceoralhistory8448/) 
 
