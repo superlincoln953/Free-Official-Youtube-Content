@@ -82,7 +82,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Disney Channel**](https://www.youtube.com/@disneychannel) (Mostly clips and compilations but some full episodes)
 
-[**Disney Channel Animation**](https://www.youtube.com/@disneychannelanimation) (Mostly Clips, compilations and extras but some full episodes)
+[**Disney Channel Animation**](https://www.youtube.com/@disneychannelanimation) (Mostly Clips, compilations and extras but some full episodes and seasons, for example, Tangled: The Series/Rapunzel's Tangled Adventure Season 1 and The Owl House Season 3)
 
 [**Disney XD**](https://www.youtube.com/@disneyxd) (Mostly clips and compilations but some full episodes, might not be available in every country)
 
@@ -129,7 +129,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Disney Jr.**](https://www.youtube.com/@disneyjr) (Mostly clips and compilations but some full episodes)
 
-[**Disney Kids**](https://www.youtube.com/@disneykids) (clips and compilations)
+[**Disney Kids**](https://www.youtube.com/@disneykids) (Clips , compilations and short films like [Frozen Fever (2015)](https://www.youtube.com/watch?v=Lqv0nxlbFcQ) and [Olaf's Frozen Adventure (2017)](https://www.youtube.com/watch?v=F6zol6WA6Ps) 
 
 [**Dora & Friends**](https://www.youtube.com/@DoraOfficial) (Clips and full episodes)
 
