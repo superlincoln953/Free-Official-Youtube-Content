@@ -131,7 +131,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Disney Jr.**](https://www.youtube.com/@disneyjr) (Mostly clips and compilations but some full episodes)
 
-[**Disney Kids**](https://www.youtube.com/@disneykids) (Clips , compilations and short films like [Frozen Fever (Short 2015)](https://www.youtube.com/watch?v=Lqv0nxlbFcQ) and [Olaf's Frozen Adventure (Short 2017)](https://www.youtube.com/watch?v=F6zol6WA6Ps))
+[**Disney Kids**](https://www.youtube.com/@disneykids) (Clips, compilations and short films like [Frozen Fever (Short 2015)](https://www.youtube.com/watch?v=Lqv0nxlbFcQ) and [Olaf's Frozen Adventure (Short 2017)](https://www.youtube.com/watch?v=F6zol6WA6Ps))
 
 [**Dora & Friends**](https://www.youtube.com/@DoraOfficial) (Clips and full episodes)
 
