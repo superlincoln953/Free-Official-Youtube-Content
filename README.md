@@ -306,7 +306,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Upscaled History**](https://www.youtube.com/@UpscaledHistory) (Restored documentaries from old films, some dubbed in other languages or recolored)
 
-[**USCSB**](https://www.youtube.com/@USCSB) (Informative videos)
+[**USCSB**](https://www.youtube.com/@USCSB) (Informative videos made by U.S. Chemical Safety and Hazard Investigation Board)
 
 [**War Stories**](https://www.youtube.com/@WarStoriesChannel)
 
