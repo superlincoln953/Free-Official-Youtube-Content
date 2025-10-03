@@ -104,10 +104,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Nickelodeon**](https://www.youtube.com/@Nickelodeon) (Mostly clips, some full episodes)
 
-[**The Powerpuff Girls**](https://www.youtube.com/@ThePowerpuffGirls) (Clips and compilations)
-
-[**Thomas & Friends**](https://www.youtube.com/@thomasandfriends) (Clips, compilations and full episodes)
-
 [**Retro Rerun TV**](https://www.youtube.com/@RetroRerunTV) (Miscellaneous cartoons, TV shows and anime)
 
 [**Shaun the Sheep Official**](https://www.youtube.com/@ShauntheSheepOfficial) (Full episode compilations and live streaming episodes)
@@ -115,6 +111,10 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Spongebob**](https://www.youtube.com/@SpongeBobOfficial) (Mostly clips but also full episode marathons)
 
 [**Teenage Mutant Ninja Turtles**](https://www.youtube.com/@tmnt) (Mostly clips and unrelated videos, but also has some episodes)
+
+[**The Powerpuff Girls**](https://www.youtube.com/@ThePowerpuffGirls) (Clips and compilations)
+
+[**Thomas & Friends**](https://www.youtube.com/@thomasandfriends) (Clips, compilations and full episodes)
 
 [**Vivziepop/SpindleHorse**](https://www.youtube.com/@SpindleHorse) (Not suitable for kids, full episodes and related content)
 
