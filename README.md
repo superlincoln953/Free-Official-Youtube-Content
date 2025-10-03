@@ -90,6 +90,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Foot 2 Rue**](https://www.youtube.com/@foot2rueextreme/videos) (All full episodes, French only)
 
+[GLITCH](https://www.youtube.com/@GLITCH) (ALL Full seasons and episodes)
+
 [**Johnny Test**](https://www.youtube.com/@JohnnyTest) (Multiple languages)
 
 [**Keep It Weird**](https://www.youtube.com/@KeepItWeird) (Miscellaneous cartoons from Nickelodeon)
