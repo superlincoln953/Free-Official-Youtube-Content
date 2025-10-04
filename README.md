@@ -427,7 +427,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Sony Pictures Animation**](https://www.youtube.com/@SonyAnimation) (Clips, songs, Behind The Scenes and extra content)
 
-[**Sony Pics at Home**](https://www.youtube.com/@sonypicsathome/)
+[**Sony Pictures at Home**](https://www.youtube.com/@sonypicsathome/)
 
 [**Star Wars**](https://www.youtube.com/@StarWars) (Go watch Andor. It is great and is worth your time!)
 
