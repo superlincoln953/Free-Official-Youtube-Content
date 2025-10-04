@@ -391,8 +391,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Marvel**](https://www.youtube.com/@marvel)
 
-[**Marvel HQ**](https://www.youtube.com/c/MarvelHQ) (Marvel Shows & Shorts)
-
 [**MTV UK**](https://www.youtube.com/@MTVUK)
 
 [**NBC**](https://www.youtube.com/@NBC) (TV show clips, extras and clips outside of tv shows)
