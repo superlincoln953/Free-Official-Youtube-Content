@@ -238,7 +238,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Homemade Documentaries**](https://www.youtube.com/@JacksonTyler) (Old restored documentaries)
 
-[**History**](https://www.youtube.com/@HISTORY) (Clips and full episodes of History Channel Documentary Series)
+[**History**](https://www.youtube.com/@HISTORY) (Clips and full episodes of History Channel Documentary Series like [Dogfights](https://www.youtube.com/playlist?list=PLob1mZcVWOaiQyIGLr2HAuCaY3SP-cHcL))
 
 [**History Hit**](https://www.youtube.com/@HistoryHit)
 
