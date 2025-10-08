@@ -716,7 +716,7 @@ There are (probably) never gonna be full live matches, maybe full replays of old
  
 [**FIFA**](https://www.youtube.com/@fifa)
 
-[**Formula 1**](https://youtube.com/@formula1) (Highlights) (Du du du du Max Verstappen)
+[**Formula 1**](https://youtube.com/@formula1) (Highlights) (Du du du du [Max Verstappen](https://www.youtube.com/@MaxVerstappen1))
 
 [**FOX Sports**](https://www.youtube.com/@foxsports) (Highlights, commentaries and analysis)
 
