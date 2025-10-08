@@ -672,7 +672,7 @@ Breakdown and BTS of VFX in movies and TV, maybe with some interviews and podcas
 
 [**Hybride VFX**](https://youtube.com/@hybridevfx)
 
-[**Industrial Light & Magic**](https://www.youtube.com/@ILMVFX) (Podcasts and videos discussing the technical part of VFX in movies)
+[**Industrial Light & Magic**](https://www.youtube.com/@ILMVFX) (Podcasts and videos discussing the technical part of VFX in movies made by ILM)
 
 [**Ingenuity Studios**](https://www.youtube.com/@ingenuitystudios)
 
