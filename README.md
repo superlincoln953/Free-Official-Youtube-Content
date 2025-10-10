@@ -19,7 +19,7 @@ For people who want to suggest content, I don't add YouTubers to the list, unles
 
 I don't add region locked channels that require [a VPN](https://fmhy.net/privacy#vpn) to look at their content, I've had many suggested channels with lots of playlists which were hidden because they were region locked to a certain area. These are outside the scope of my list.
 
-Buy second hand Blu-rays and DVDs of the movies and shows you love, they are cheap af, often have extra content, you can keep and watch it forever and no one can take it away.
+Buy second hand Blu-rays and DVDs of the movies and shows you love and will watch more than once, they are cheap af, often have extra content, you can keep and watch it forever and no one can take it away.
 
 For people who want a list with more miscellaneous YouTubers who aren't just official channels, check out this [Google Sheet page](https://docs.google.com/spreadsheets/d/1xZm5BcQTYJx8sfSuqHExHtIOPtSfod8beHKtYzp8DxE)
 
