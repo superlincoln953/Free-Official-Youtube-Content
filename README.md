@@ -179,6 +179,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Thomas & Friends**](https://www.youtube.com/@thomasandfriends) (Clips, compilations and full episodes)
 
+[**Universal Kids**](https://www.youtube.com/@UniversalKids) (Clips and compilations)
+
 [**WildBrain Kids**](https://www.youtube.com/@WildBrainKids) (Compilations and full episodes)
 
 [**Winx Club Official**](https://youtube.com/@winxclub) (Full Episodes, clips and compilations)
