@@ -12,5 +12,5 @@ lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cl
 polar: # Replace with a single Polar username
 buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
 thanks_dev: # Replace with a single thanks.dev username
-custom: ['http://real-debrid.com/?id=15299096', 'https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3']
+custom: ['http://real-debrid.com/?id=15299096']
 # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
