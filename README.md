@@ -100,6 +100,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Kung fu Panda**](https://www.youtube.com/@kungfupanda) (Trailers, clips, some extra stuff, mostly inactive)
 
+[**LACKADAISY**](https://www.youtube.com/@LackadaisyComic) (Full episodes)
+
 [**Marvel H.Q.**](https://www.youtube.com/@MarvelHQ) (Multiple cartoons, both clips and full episodes)
 
 [**麥兜Mcdull**](https://www.youtube.com/@mylifeasmcdull) (Clips)
