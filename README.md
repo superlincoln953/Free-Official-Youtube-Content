@@ -24,8 +24,6 @@ I don't add region locked channels that require [a VPN](https://fmhy.net/privacy
 
 Buy second hand Blu-rays(1080p and lossless audio) and DVDs(480p and audio on par with streaming services) of the movies and shows you love and will watch more than once, they are cheap af, often have extra content, you can keep and watch it forever and no one can take it away.
 
-For people who want a list with more miscellaneous YouTubers who aren't just official channels, check out this [Google Sheet page](https://docs.google.com/spreadsheets/d/1xZm5BcQTYJx8sfSuqHExHtIOPtSfod8beHKtYzp8DxE)
-
 [Original list on Rentry](https://rentry.co/Free-Official-Youtube-Content)
 
 ---
