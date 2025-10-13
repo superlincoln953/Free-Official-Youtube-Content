@@ -199,6 +199,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Arte.tv Documentary**](https://www.youtube.com/@artetvdocumentary) (Full documentaries)
 
+[**Armoured Archivist**](https://www.youtube.com/@ArmouredCarriers/) (Restored Vintage military documentaries and footage)
+
 [**Association of Air Force Missileers (AAFM)**](https://www.youtube.com/@associationofairforcemissi4328) (Documentaries and restored official films)
 
 [**A/V Geeks 16mm Films**](https://www.youtube.com/@avgeeks) (A/V Geeks film archive, very active channel)
