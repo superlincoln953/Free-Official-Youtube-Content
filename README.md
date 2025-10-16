@@ -18,11 +18,9 @@ Also a big thanks to [all the members of the FMHY Discord server](https://github
 
 This list will only focus on official YouTube channels who have the rights to post the content online, no unofficial uploaders are allowed
 
-For people who want to suggest content, I don't add YouTubers to the list, unless they focus on restoring and/or uploading public domain content like old movies and documentaries
-
-I don't add region locked channels that require [a VPN](https://fmhy.net/privacy#vpn) to look at their content, I've had many suggested channels with lots of playlists which were hidden because they were region locked to a certain area. These are outside the scope of my list.
-
 Buy second hand Blu-rays(1080p and lossless audio) and DVDs(480p and audio on par with streaming services) of the movies and shows you love and will watch more than once, they are cheap af, often have extra content, you can keep and watch it forever and no one can take it away.
+
+[If you want me to try out/give me 5 days of Real Debrid, use my referral link next time you renew/buy your Real Debrid subscription !](http://real-debrid.com/?id=15299096)
 
 [Original list on Rentry](https://rentry.co/Free-Official-Youtube-Content)
 
