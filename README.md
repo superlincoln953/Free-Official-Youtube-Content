@@ -380,7 +380,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**HBO Max**](https://www.youtube.com/@hbomax) (Podcast episodes, clips, exclusive/extra content)
 
-[**Hong Kong Disneyland**](https://youtube.com/@hkdisneylandresort) 
+[**Hong Kong Disneyland | 香港迪士尼樂園**](https://youtube.com/@hkdisneylandresort) 
 
 [**HOY 免費電視77台及78台**](https://www.youtube.com/@hkhoy) (Free HK TV channel)
 
