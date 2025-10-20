@@ -111,7 +111,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Shaun the Sheep Official**](https://www.youtube.com/@ShauntheSheepOfficial) (Full episode compilations and live streaming episodes)
 
-[**Spongebob**](https://www.youtube.com/@SpongeBobOfficial) (Mostly clips but also full episode marathons)
+[**SpongeBob SquarePants Official**](https://www.youtube.com/@SpongeBobOfficial) (Mostly clips but also full episode marathons)
 
 [**Teenage Mutant Ninja Turtles**](https://www.youtube.com/@tmnt) (Mostly clips and unrelated videos, but also has some episodes)
 
