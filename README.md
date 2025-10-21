@@ -69,9 +69,17 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 ### Cartoons
 
+### Cartoons
+
 [**Adventure Time**](https://www.youtube.com/@AdventureTime) (Mostly clips and compilations, but some full episodes and marathons)
 
 [**AniDom**](https://www.youtube.com/@AniDom) (Fox animated shows, mostly clips)
+
+[**Boomerang**](https://www.youtube.com/@Boomerang) (Classic cartoons and full episodes like Tom & Jerry, Scooby-Doo)
+
+[**Cartoon Hangover**](https://www.youtube.com/@CartoonHangover) (Adult and general animation, full shorts and series)
+
+[**Cartoon Network Español**](https://www.youtube.com/@CartoonNetworkES) (Clips and episodes in Spanish)
 
 [**Cartoon Network UK**](https://www.youtube.com/@cartoonnetworkuk) (Some full episodes, mostly clips and compilations)
 
@@ -105,37 +113,32 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Miraculous Ladybug**](https://www.youtube.com/@Miraculous) (Clips, compilations and full episodes)
 
+[**Nick Jr.**](https://www.youtube.com/@NickJr) (Full episodes, clips, and educational shows for preschoolers)
+
+[**Nickelodeon Animation**](https://www.youtube.com/@NickAnimation) (Clips, compilations, some full episodes from Nickelodeon shows)
+
 [**Retro Rerun TV**](https://www.youtube.com/@RetroRerunTV) (Miscellaneous cartoons, TV shows and anime)
 
 [**Shaun the Sheep Official**](https://www.youtube.com/@ShauntheSheepOfficial) (Full episode compilations and live streaming episodes)
 
 [**SpongeBob SquarePants Official**](https://www.youtube.com/@SpongeBobOfficial) (Mostly clips but also full episode marathons)
 
+[**Super Simple Songs - Kids Songs**](https://www.youtube.com/@SuperSimpleSongs) (Songs and animated short videos for kids)
+
 [**Teenage Mutant Ninja Turtles**](https://www.youtube.com/@tmnt) (Mostly clips and unrelated videos, but also has some episodes)
+
+[**The Animation Workshop**](https://www.youtube.com/@TheAnimationWorkshop) (Indie and student animation, shorts and series)
+
+[**Toon Goggles**](https://www.youtube.com/@ToonGoggles) (Various animated shows and kids content, some full episodes)
 
 [**Vivziepop/SpindleHorse**](https://www.youtube.com/@SpindleHorse) (Not suitable for kids, full episodes and related content)
 
 [**WildBrain Max**](https://www.youtube.com/@WildBrainMax) (Compilations of full seasons, related channels with extra content)
 
-[**Nickelodeon Animation**](https://www.youtube.com/@NickAnimation) (Clips, compilations, some full episodes from Nickelodeon shows)
-
-[**Cartoon Hangover**](https://www.youtube.com/@CartoonHangover) (Adult and general animation, full shorts and series)
+[**Studio Ghibli Official Clips**](https://www.youtube.com/@StudioGhibliOfficial) (Trailers, clips, some official shorts)
 
 [**PBS Kids**](https://www.youtube.com/@PBSKIDS) (Educational kids shows, full episodes and clips)
 
-[**Boomerang**](https://www.youtube.com/@Boomerang) (Classic cartoons and full episodes like Tom & Jerry, Scooby-Doo)
-
-[**Toon Goggles**](https://www.youtube.com/@ToonGoggles) (Various animated shows and kids content, some full episodes)
-
-[**Super Simple Songs - Kids Songs**](https://www.youtube.com/@SuperSimpleSongs) (Songs and animated short videos for kids)
-
-[**Nick Jr.**](https://www.youtube.com/@NickJr) (Full episodes, clips, and educational shows for preschoolers)
-
-[**The Animation Workshop**](https://www.youtube.com/@TheAnimationWorkshop) (Indie and student animation, shorts and series)
-
-[**Studio Ghibli Official Clips**](https://www.youtube.com/@StudioGhibliOfficial) (Trailers, clips, some official shorts)
-
-[**Cartoon Network Español**](https://www.youtube.com/@CartoonNetworkES) (Clips and episodes in Spanish)
 
 ### Kids Media
 
@@ -490,28 +493,29 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Walt Disney Animation Studios**](https://www.youtube.com/@disneyanimation/) (Trailers, Featurettes, Clips, Songs and shorts like ["Once Upon a Studio"](https://www.youtube.com/watch?v=gB90me0aqSY) )
 
 [**Walt Disney Imagineering**](https://www.youtube.com/@waltdisneyimagineering/featured) (BTS Videos of Disney's parks/ [Inside look at Walt Disney Imagineering](https://www.youtube.com/playlist?list=PLZuKWjoQGMP5LFHVnDn-sxggnJCZi3d9H))
-
 ### Movies
 
 [**A Touch of Evil**](https://www.youtube.com/channel/UCHgm6IUmnTV2aAMMCSPq8zA/featured) (Horror)
 
 [**Air Bud TV**](https://www.youtube.com/@airbudtv) (All Air Bud movies plus other family movies)
 
-[**Artflix - Movie Classics**](https://www.youtube.com/channel/UCNcUc5v0Kt5afE_jcbbZUBQ/featured) (General Movies)
+[**Amazon MGM Studios**](https://www.youtube.com/@AmazonMGMStudios) (Clips and trailers)
 
-[**Amazon MGM Studios**](https://www.youtube.com/@AmazonMGMStudios) (Clips and trailers
+[**Artflix - Movie Classics**](https://www.youtube.com/channel/UCNcUc5v0Kt5afE_jcbbZUBQ/featured) (General Movies)
 
 [**Blockbuster English Movies**](https://www.youtube.com/@blockbusterenglishmovies) (Full movies)
 
 [**Bondlt Media Capital/Buffalo 8**](https://www.youtube.com/@bonditmediacapitalbuffalo8) (Movies, tv shows, documentaries, trailers...)
 
-[**chn classic/經典華語老電影**](https://www.youtube.com/@chnclassic) (Full 1080p chinese movies)
-
-[**Cinema No.8 - HK Movie**](https://www.youtube.com/@8-hkmovie) (Full Chinese (HK) movies)
-
 [**CineMo**](https://www.youtube.com/@CineMoChannel) (Full Tagalog/Filipino classic and dubbed movies)
 
 [**CineRings Productions**](https://www.youtube.com/@CineRingsproductions)
+
+[**chn classic/經典華語老電影**](https://www.youtube.com/@chnclassic) (Full 1080p Chinese movies)
+
+[**Cinema No.8 - HK Movie**](https://www.youtube.com/@8-hkmovie) (Full Chinese (HK) movies)
+
+[**Dangal TV**](https://www.youtube.com/@DangalTV) (Hindi movies and TV shows)
 
 [**Fastbreak Films**](https://www.youtube.com/@FastbreakFilms)
 
@@ -541,28 +545,23 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Movie Central**](https://www.youtube.com/channel/UCGBzBkV-MinlBvHBzZawfLQ)
 
-[**New Castle After Dark**](https://www.youtube.com/channel/UC951AqujycbBI083GmKRY3A/featured) (horror)
+[**New Castle After Dark**](https://www.youtube.com/channel/UC951AqujycbBI083GmKRY3A/featured) (Horror)
 
 [**OSR Digital**](https://www.youtube.com/@OSRDigital) (Nepali movies)
+
+[**Paramount Vault**](https://www.youtube.com/@ParamountVault) (Full movies officially from Paramount Pictures)
 
 [**Public Domain Movies**](https://youtube.com/@publicdomainmovies379)
 
 [**Spider-Man**](https://www.youtube.com/spiderman) (Clips, extras and Movie tie-ins like "the spider within")
 
-[**Vulture**](https://www.youtube.com/channel/UC9z4J-1s1B3ekSbpeFdO75A/videos) (horror)
+[**Vulture**](https://www.youtube.com/channel/UC9z4J-1s1B3ekSbpeFdO75A/videos) (Horror)
+
+[**Warner Bros. Movies**](https://www.youtube.com/@WB) (Full-length films from Warner Bros., classics and new releases)
 
 [**WTvF! - Digital Grindhouse & Drive-In**](https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) (Exploitation)
 
 [**Wu Tang Collection**](https://www.youtube.com/channel/UCUpbgPbDccjoB9PxI-nI7oA) (Classic Martial Arts Films/ [Website](https://www.thewutangcollection.com/))
-
-[**Paramount Vault**](https://www.youtube.com/@ParamountVault) (Full movies officially from Paramount Pictures)
-
-[**Warner Bros. Movies**](https://www.youtube.com/@WB) (Full-length films from Warner Bros., classics and new releases)
-
-[**Dangal TV**](https://www.youtube.com/@DangalTV) (Hindi movies and TV shows)
-
-[**FPJ Productions**](https://www.youtube.com/@fpjproductions) (Full Tagalog/Filipino classic movies)
-
 
 ### TV Shows
 
