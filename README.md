@@ -89,7 +89,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Muse Asia**](https://www.youtube.com/@MuseAsia) (English Subtitles)
 
-[**Muse木棉花-HK**](https://www.youtube.com/@Muse_HK) (Cantonese dubbed anime and other content)
+[**Muse木棉花-HK**](https://www.youtube.com/channel/UCOsFUU8EtJGDd6-AouF_MwQ) (Cantonese dubbed anime and other content)
 
 [**Nippon Columbia**](https://www.youtube.com/@NipponColumbia) (Music videos and official anime songs)
 
