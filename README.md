@@ -351,8 +351,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**유용원TV/Bemil_TV**](https://www.youtube.com/@Bemil_TV) (Clips from Korean military documentaries)
 
-[**VICE**](https://www.youtube.com/@VICE) (Full-length investigative documentaries on culture, crime, and world events)
-
 [**War Stories**](https://www.youtube.com/@WarStoriesChannel)
 
 [**Wonder**](https://www.youtube.com/@WonderDocs) (Full documentaries and full episodes from Documentary-TV shows)
