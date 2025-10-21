@@ -22,6 +22,7 @@ Look for issues labeled `hacktoberfest` in the [issues section](https://github.c
 * Suggesting new categories for content.
 * Fixing typos or formatting issues in the `README.md`.
 
+Made with ❤️ by awesome people like [vighneshb04](https://github.com/vighneshb04) and many more!
 ---
 **Follow the Markdown format**
 
