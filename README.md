@@ -1127,6 +1127,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**PGA TOUR**](https://www.youtube.com/@PGATour) (Tournament highlights, player features, and iconic shots)
 
+[**PPA Asia Tour**](https://www.youtube.com/@PPATourAsia) (The premier series of pro pickleball events in Asia)
+
 [**Premier League**](https://www.youtube.com/@premierleague)
 
 [**Red Bull**](https://www.youtube.com/@redbull) (Extreme sports documentaries and clips)
