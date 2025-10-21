@@ -117,6 +117,26 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**WildBrain Max**](https://www.youtube.com/@WildBrainMax) (Compilations of full seasons, related channels with extra content)
 
+[**Nickelodeon Animation**](https://www.youtube.com/@NickAnimation) (Clips, compilations, some full episodes from Nickelodeon shows)
+
+[**Cartoon Hangover**](https://www.youtube.com/@CartoonHangover) (Adult and general animation, full shorts and series)
+
+[**PBS Kids**](https://www.youtube.com/@PBSKIDS) (Educational kids shows, full episodes and clips)
+
+[**Boomerang**](https://www.youtube.com/@Boomerang) (Classic cartoons and full episodes like Tom & Jerry, Scooby-Doo)
+
+[**Toon Goggles**](https://www.youtube.com/@ToonGoggles) (Various animated shows and kids content, some full episodes)
+
+[**Super Simple Songs - Kids Songs**](https://www.youtube.com/@SuperSimpleSongs) (Songs and animated short videos for kids)
+
+[**Nick Jr.**](https://www.youtube.com/@NickJr) (Full episodes, clips, and educational shows for preschoolers)
+
+[**The Animation Workshop**](https://www.youtube.com/@TheAnimationWorkshop) (Indie and student animation, shorts and series)
+
+[**Studio Ghibli Official Clips**](https://www.youtube.com/@StudioGhibliOfficial) (Trailers, clips, some official shorts)
+
+[**Cartoon Network Español**](https://www.youtube.com/@CartoonNetworkES) (Clips and episodes in Spanish)
+
 ### Kids Media
 
 [**Bluey**](https://www.youtube.com/@BlueyOfficialChannel) (Clips and compilations)
@@ -534,6 +554,15 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**WTvF! - Digital Grindhouse & Drive-In**](https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) (Exploitation)
 
 [**Wu Tang Collection**](https://www.youtube.com/channel/UCUpbgPbDccjoB9PxI-nI7oA) (Classic Martial Arts Films/ [Website](https://www.thewutangcollection.com/))
+
+[**Paramount Vault**](https://www.youtube.com/@ParamountVault) (Full movies officially from Paramount Pictures)
+
+[**Warner Bros. Movies**](https://www.youtube.com/@WB) (Full-length films from Warner Bros., classics and new releases)
+
+[**Dangal TV**](https://www.youtube.com/@DangalTV) (Hindi movies and TV shows)
+
+[**FPJ Productions**](https://www.youtube.com/@fpjproductions) (Full Tagalog/Filipino classic movies)
+
 
 ### TV Shows
 
