@@ -367,8 +367,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**ABC Science**](https://youtube.com/@abcscience) (Full Documentaries and some documentary-like shows)
 
-[**Al Jazeera English**](https://www.youtube.com/@aljazeeraenglish) (In-depth documentaries and news features from around the world)
-
 [**American Experience | PBS**](https://www.youtube.com/@AmericanExperiencePBS) (Full-length documentaries on American history)
 
 [**Apollo 11 - Apollo Flight Journal**](https://www.youtube.com/@Apollo11ApolloFlightJournal) (Restored films of the Apollo 11 Mission journals. there's channels for Apollo Flight Journals from 8 to 17 at least, i'm just gonna list this one, but their names are very similar, you can just look them up yourself)
@@ -397,10 +395,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Cartoons On Film**](https://www.youtube.com/@cartoonsonfilm) (Restored old cartoons from films with documentaries on their makings and more)
 
-[**CNBC**](https://www.youtube.com/@CNBC) (Documentaries about business, finance, and entrepreneurship)
-
-[**ColdFusion**](https://www.youtube.com/@ColdFusion) (Documentaries on technology, business, and history)
-
 [**Computer History Archives Project ("CHAP")**](https://www.youtube.com/@ComputerHistoryArchivesProject) (Archive of old films about computer history)
 
 [**Curiosity Stream**](https://www.youtube.com/@CuriosityStreaming) (Trailers, parts of, and full, documentaries)
@@ -412,8 +406,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Druid Workd**](https://www.youtube.com/@druid_works) (War documentaries from interviews with veterans and restored and enhanced old footage and audio recordings)
 
 [**DW Documentary**](https://www.youtube.com/@DWDocumentary)
-
-[**Encounter**](https://www.youtube.com/@Encounter) (Documentaries on unexplained phenomena and UFOs)
 
 [**European Space Agency, ESA**](https://www.youtube.com/@EuropeanSpaceAgency) (live, Informative videos and footage recorded from rockets in space)
 
@@ -477,8 +469,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**NOVA PBS Official**](https://www.youtube.com/@NOVApbs) (Full episodes and clips from the renowned science documentary series)
 
-[**Only Human**](https://www.youtube.com/@OnlyHuman) (Documentaries about the human condition and unique life stories)
-
 [**PBS America**](https://www.youtube.com/@PBSAmerica/) (Full documentaries)
 
 [**PBS Eons**](https://www.youtube.com/@PBSEons) (Documentaries about the history of life on Earth)
@@ -497,29 +487,17 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Sen**](https://www.youtube.com/@Sen) (Earth from space in 4K | 4K Livestream of Earth from Space | Live Views from ISS)
 
-[**Simple History**](https://www.youtube.com/@Simplehistory) (Animated history documentaries)
-
 [**Smithsonian Channel**](https://www.youtube.com/@SmithsonianChannel)
 
 [**Space Oral History**](https://www.youtube.com/@spaceoralhistory8448/)
 
 [**Standart**](https://www.youtube.com/channel/UCZUkQij64MCMH-3b1ycUGjg/featured) (Full documentaries)
 
-[**The B1M**](https://www.youtube.com/@TheB1M) (Documentaries about construction and architecture)
-
-[**The Dodo**](https://www.youtube.com/@TheDodo) (Short documentaries about animals)
-
 [**The Emulsion Alchemist**](https://www.youtube.com/@theemulsionalchemist5688) (Restored old, obscure, informational films)
 
 [**The Film Gate**](https://www.youtube.com/@Thefilmgate) (Stock Footage from historical films)
 
-[**The Infographics Show**](https://www.youtube.com/@TheInfographicsShow) (Animated educational documentaries)
-
 [**The Modern Age**](https://www.youtube.com/@TheModernAgeHistoryChannel)
-
-[**The New York Times**](https://www.youtube.com/@nytimes) (High-quality short documentaries and visual investigations)
-
-[**The School of Life**](https://www.youtube.com/@theschooloflife) (Documentaries on psychology, philosophy, and self-improvement)
 
 [**Timeline**](https://www.youtube.com/@TimelineChannel)
 
@@ -529,8 +507,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**USCSB**](https://www.youtube.com/@USCSB) (Informative videos made by U.S. Chemical Safety and Hazard Investigation Board)
 
-[**VICE**](https://www.youtube.com/@VICE) (Full-length investigative documentaries on culture, crime, and world events)
-
 [**War Stories**](https://www.youtube.com/@WarStoriesChannel)
 
 [**Wonder**](https://www.youtube.com/@WonderDocs) (Full documentaries and full episodes from Documentary-TV shows)
@@ -538,8 +514,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**WWII US Bombers**](https://www.youtube.com/@WWIIUSBombers) (Documentaries about WWII Bombers made in the USA)
 
 [**ZenosWarbirds**](https://www.youtube.com/@ZenosWarbirds) (Vintage military documentaries, not just on planes like the title implies)
-
-[**유용원TV/Bemil_TV**](https://www.youtube.com/@Bemil_TV) (Clips from Korean military documentaries)
 
 [**유용원TV/Yoo Yong-won TV**](https://www.youtube.com/@Bemil_TV) (Clips from Korean military documentaries)
 
@@ -845,8 +819,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**All3Media**](https://www.youtube.com/@All3Media) (Full episodes, dead channel)
 
-[**America's Got Talent**](https://www.youtube.com/@AGT) (Auditions and performances)
-
 [**Bar Rescue**](https://www.youtube.com/@BarRescue) (Clips)
 
 [**Baywatch**](https://www.youtube.com/@Baywatch) (Full episodes of the classic series)
@@ -958,8 +930,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**The Bob Ross Channel**](https://www.youtube.com/@BobRoss) (Full episodes of "The Joy of Painting")
 
 [**The Carol Burnett Show**](https://www.youtube.com/@TheCarolBurnettShow) (Official clips and sketches)
-
-[**The Ellen Show**](https://www.youtube.com/@TheEllenShow) (Clips and full segments from the talk show)
 
 [**The F Word**](https://www.youtube.com/@theFword) (Big clips, full episodes and extras)
 
