@@ -29,18 +29,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 ---
 
-## ✨ Contributors
-
-A big thank you to everyone who has contributed to making this list awesome! Your contributions are invaluable.
-
-<a href="https://github.com/vighneshb04/Free-Official-Youtube-Content/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vighneshb04/Free-Official-Youtube-Content" />
-</a>
-
-Made with ❤️ by awesome people like [vighneshb04](https://github.com/vighneshb04) and many more!
-
----
-
 ### Table Of Contents
 
 [Anime](#Anime)
@@ -808,3 +796,15 @@ There are (probably) never gonna be full live matches, maybe full replays of old
 ---
 
 [If you want me to try out/give me 5 days of Real Debrid, use my referral link next time you renew/buy your Real Debrid subscription !](http://real-debrid.com/?id=15299096)
+
+## ✨ Contributors
+
+A big thank you to everyone who has contributed to making this list awesome! Your contributions are invaluable.
+
+<a href="https://github.com/vighneshb04/Free-Official-Youtube-Content/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vighneshb04/Free-Official-Youtube-Content" />
+</a>
+
+Made with ❤️ by awesome people
+
+---
