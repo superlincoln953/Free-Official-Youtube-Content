@@ -213,6 +213,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Simon's Cat**](https://www.youtube.com/@SimonsCat) (Full episodes of the popular animated web series)
 
+[**Slugterra**](https://www.youtube.com/@Slugterra) (Full episodes and movies of the animated series)
+
 [**SpongeBob SquarePants Official**](https://www.youtube.com/@SpongeBobOfficial) (Mostly clips but also full episode marathons)
 
 [**Teenage Mutant Ninja Turtles**](https://www.youtube.com/@tmnt) (Mostly clips and unrelated videos, but also has some episodes)
