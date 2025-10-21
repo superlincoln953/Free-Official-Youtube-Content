@@ -29,6 +29,44 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 ---
 
+## Contributing to this List (Hacktoberfest Friendly! 🎃)
+
+We welcome contributions to expand and improve this list! This project is also a great way to contribute to **Hacktoberfest**.
+
+### General Contribution Guidelines:
+
+* **Follow the Markdown format.**
+* If a channel is in any way linked to something that you normally have to pay to see, and the channel is active and posts related content to it, then **do not add it**. This list focuses on genuinely free content.
+* **Fix valid issues** by opening an issue or submitting a pull request.
+* This list will **only focus on official YouTube channels** who have the rights to post the content online; **no unofficial uploaders are allowed.**
+* Feel free to send links to other official channels that post Movies, TV Shows, Cartoons, or Kids content. **Specify the language** if it's not an English channel.
+* Try to keep the links in the format: `https://www.youtube.com/@ChannelName`.
+* If you know of any YouTube channels that fit the description but don't have a description on this list, you can add one. You can also fix inaccurate descriptions or typos via a pull request.
+* For content suggestions, **do not add YouTubers** to the list unless they focus on restoring and/or uploading public domain content like old movies and documentaries.
+* **Do not add region-locked channels** that require a VPN to view their content. These are outside the scope of this list.
+
+### For Hacktoberfest:
+
+Look for issues labeled `hacktoberfest` in the [issues section](https://github.com/vighneshb04/Free-Official-Youtube-Content/issues) or contribute by:
+* Adding new official YouTube channels that provide free content.
+* Improving existing channel descriptions or correcting broken links.
+* Suggesting new categories for content.
+* Fixing typos or formatting issues in the `README.md`.
+
+---
+
+## ✨ Contributors
+
+A big thank you to everyone who has contributed to making this list awesome! Your contributions are invaluable.
+
+<a href="https://github.com/vighneshb04/Free-Official-Youtube-Content/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vighneshb04/Free-Official-Youtube-Content" />
+</a>
+
+Made with ❤️ by awesome people like [vighneshb04](https://github.com/vighneshb04) and many more!
+
+---
+
 ### Table Of Contents
 
 [Anime](#Anime)
@@ -59,11 +97,17 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Cartoon PowerUP**](https://www.youtube.com/@CartoonPowerUp) (Inactive, mostly anime, some cartoons)
 
+[**Crunchyroll Collection**](https://www.youtube.com/@crunchyroll) (Clips, trailers, and openings/endings from popular anime)
+
 [**Gundaminfo**](https://www.youtube.com/@gundaminfo) (Trailers, special contents...)
 
 [**Muse Asia**](https://www.youtube.com/@MuseAsia) (English Subtitles)
 
 [**Pokemon**](https://www.youtube.com/@OfficialPoke%CC%81monTV) (Multiple languages, actively posting)
+
+[**TMS ANIME**](https://www.youtube.com/@tmsanime) (Full episodes of classic anime series like Lupin the 3rd and Case Closed)
+
+[**Toei Animation US**](https://www.youtube.com/@ToeiAnimationUS) (Clips and episodes from their classic and current catalog)
 
 [**Viz Media**](https://www.youtube.com/@vizmedia) (Mini-anime, trailers and clips)
 
@@ -73,11 +117,15 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**AniDom**](https://www.youtube.com/@AniDom) (Fox animated shows, mostly clips)
 
+[**Boomerang Official**](https://www.youtube.com/@BoomerangOfficial) (Clips and compilations from classic cartoons like Tom & Jerry, Scooby-Doo)
+
 [**Cartoon Network UK**](https://www.youtube.com/@cartoonnetworkuk) (Some full episodes, mostly clips and compilations)
 
 [**Code Lyoko English Official**](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) (Full episodes and compilations, in English)
 
 [**Code Lyoko Officiel**](https://www.youtube.com/@codelyokoofficiel7410) (Full episodes and compilations, French only)
+
+[**Comedy Central Animated**](https://www.youtube.com/@ccanimated) (Clips and shorts from their animated series)
 
 [**Disney Channel Animation**](https://www.youtube.com/@disneychannelanimation) (Mostly Clips, compilations and extras but some full seasons like [Tangled: The Series/Rapunzel's Tangled Adventure Season 1 (TTS/RTA)](https://www.youtube.com/playlist?list=PLiv1IUQDVSNIqxjX4rzvIMw7EjwGspqGt) (Underrated Animated Series with some great songs, basically it is Tangled 2, but beware its hour-long pilot episode is Tangled: Before Ever After (TV Movie 2017) and not its episode 1 "What the Hair?!" | [TTS/RTA Episode Guide](https://www.reddit.com/r/Tangled/comments/ekn533/rapunzels_tangled_adventure_episode_guide/)) and [The Owl House Season 3](https://www.youtube.com/watch?v=Jg2i4vqSFxM) and some full episodes)
 
@@ -119,6 +167,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 ### Kids Media
 
+[**Blippi - Educational Videos for Kids**](https://www.youtube.com/@Blippi) (Full episodes of the popular kids show)
+
 [**Bluey**](https://www.youtube.com/@BlueyOfficialChannel) (Clips and compilations)
 
 [**Cartoonito**](https://www.youtube.com/@cartoonito) (Mostly clips, some full episodes)
@@ -134,6 +184,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Disney Kids**](https://www.youtube.com/@disneykids) (Clips, compilations and short films like [Frozen Fever](https://www.youtube.com/watch?v=Lqv0nxlbFcQ) and [Olaf's Frozen Adventure](https://www.youtube.com/watch?v=F6zol6WA6Ps))
 
 [**Dora & Friends**](https://www.youtube.com/@DoraOfficial) (Clips and full episodes)
+
+[**LEGO**](https://www.youtube.com/@LEGO) (Full episodes of LEGO series like Ninjago, music videos, and product content)
 
 [**Masha and The Bear**](https://www.youtube.com/@MashaBearEN) (Full episodes and compilations)
 
@@ -161,6 +213,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Power Rangers Kids**](https://www.youtube.com/@PowerRangersKidsOfficial) (Full episodes and extra content)
 
+[**Sesame Street**](https://www.youtube.com/@sesamestreet) (Full episodes, classic clips, and songs)
+
 [**Spookiz**](https://www.youtube.com/@spookiz) (Marathons, Full episodes, shorts and the official Movie)
 
 [**Star Wars Kids**](https://www.youtube.com/@StarWarsKids) (Mostly clips but some full episodes)
@@ -173,11 +227,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Pink Panther**](https://www.youtube.com/@PinkPanther) (Clips and compilations)
 
-[**Treehouse Direct**](https://www.youtube.com/@TreehouseDirect) (Multiple cartoons)
-
 [**The Powerpuff Girls**](https://www.youtube.com/@ThePowerpuffGirls) (Clips and compilations)
 
 [**Thomas & Friends**](https://www.youtube.com/@thomasandfriends) (Clips, compilations and full episodes)
+
+[**Treehouse Direct**](https://www.youtube.com/@TreehouseDirect) (Multiple cartoons)
 
 [**Universal Kids**](https://www.youtube.com/@UniversalKids) (Clips and compilations)
 
@@ -189,29 +243,29 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 ### Documentaries
 
+[**Absolute History**](https://www.youtube.com/@AbsoluteHistory) (History documentaries from various eras)
+
 [**ABC News In-depth**](https://www.youtube.com/@ABCNewsIndepth) (Full Documentaries and some documentary-like shows)
 
 [**ABC Science**](https://youtube.com/@abcscience) (Full Documentaries and some documentary-like shows)
 
 [**Apollo 11 - Apollo Flight Journal**](https://www.youtube.com/@Apollo11ApolloFlightJournal) (Restored films of the Apollo 11 Mission journals. there's channels for Apollo Flight Journals from 8 to 17 at least, i'm just gonna list this one, but their names are very similar, you can just look them up yourself)
 
-[**Arte.tv Documentary**](https://www.youtube.com/@artetvdocumentary) (Full documentaries)
-
 [**Armoured Archivist**](https://www.youtube.com/@ArmouredCarriers/) (Restored Vintage military documentaries and footage)
+
+[**Arte.tv Documentary**](https://www.youtube.com/@artetvdocumentary) (Full documentaries)
 
 [**Association of Air Force Missileers (AAFM)**](https://www.youtube.com/@associationofairforcemissi4328) (Documentaries and restored official films)
 
 [**A/V Geeks 16mm Films**](https://www.youtube.com/@avgeeks) (A/V Geeks film archive, very active channel)
 
-[**유용원TV/Bemil_TV**](https://www.youtube.com/@Bemil_TV) (Clips from Korean military documentaries)
-
 [**Banijay Science**](https://www.youtube.com/@banijayscience)
 
 [**BBC Earth**](https://www.youtube.com/@bbcearth) (Nature documentaries and clips from them)
 
-[**BBC Earth Science**](https://www.youtube.com/@BBCEarthScience)
-
 [**BBC Earth Explore**](https://www.youtube.com/@BBCEarthExplore)
+
+[**BBC Earth Science**](https://www.youtube.com/@BBCEarthScience)
 
 [**Bloomberg Originals**](https://www.youtube.com/bloomberg) (full Documentaries and some documentary-like shows)
 
@@ -241,13 +295,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Grow**](https://www.youtube.com/channel/UCCYhvWD88Mbd2M14GqpPM9A/featured) (Full documentaries)
 
-[**Homemade Documentaries**](https://www.youtube.com/@JacksonTyler) (Old restored documentaries)
-
 [**History**](https://www.youtube.com/@HISTORY) (Clips and full episodes of History Channel Documentary Series like [Dogfights](https://www.youtube.com/playlist?list=PLob1mZcVWOaiQyIGLr2HAuCaY3SP-cHcL))
 
 [**History Hit**](https://www.youtube.com/@HistoryHit)
 
-[**lunarmodule5**](https://www.youtube.com/@lunarmodule5) (Historical footage related to the space program)
+[**Homemade Documentaries**](https://www.youtube.com/@JacksonTyler) (Old restored documentaries)
 
 [**Indian Space Research Organisation**](https://youtube.com/@isroofficial5866) (Videos by ISRO)
 
@@ -259,6 +311,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Look in The Past War Archives**](https://www.youtube.com/@LookinThePastWarArchives)
 
+[**lunarmodule5**](https://www.youtube.com/@lunarmodule5) (Historical footage related to the space program)
+
 [**Machina**](https://www.youtube.com/@Machina_Official)
 
 [**Mercury 7 Films**](https://www.youtube.com/@mercury7films) (Documentaries about the Apollo mission and the space race)
@@ -267,13 +321,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Military Heroes**](https://www.youtube.com/@MilitaryHeroes/)
 
-[**National Geographic**](https://www.youtube.com/@NatGeo) (Full episodes and clips)
-
-[**National Geographic Animals**](https://www.youtube.com/@NatGeoAnimals)
-
 [**NASA**](https://www.youtube.com/@NASA) (live, Informative videos and some full original documentaries)
-
-[**NASA's Ames Research Center**](https://www.youtube.com/@NASAAmes) (Clips from documentaries and tests)
 
 [**NASA Goddard**](https://www.youtube.com/@NASAGoddard) (Videos about researches and generally interesting stuff by the NASA Goddard Space Flight Center team)
 
@@ -281,13 +329,23 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**NASA Video**](https://www.youtube.com/@nasagovvideo) (Videos from NASA, not all in English)
 
+[**NASA's Ames Research Center**](https://www.youtube.com/@NASAAmes) (Clips from documentaries and tests)
+
+[**National Geographic**](https://www.youtube.com/@NatGeo) (Full episodes and clips)
+
+[**National Geographic Animals**](https://www.youtube.com/@NatGeoAnimals)
+
+[**National Transportation Safety Board**](https://www.youtube.com/@NTSBgov) (Videos from National Transportation Safety Board)
+
 [**NFB**](https://www.youtube.com/@nfb) (Full documentaries and trailers)
 
 [**North One**](https://www.youtube.com/@NorthOne)
 
-[**National Transportation Safety Board**](https://www.youtube.com/@NTSBgov) (Videos from National Transportation Safety Board)
+[**NOVA PBS Official**](https://www.youtube.com/@NOVApbs) (Full episodes and clips from the renowned science documentary series)
 
 [**PBS America**](https://www.youtube.com/@PBSAmerica/) (Full documentaries)
+
+[**Real Wild**](https://www.youtube.com/@RealWild) (Full-length nature and wildlife documentaries)
 
 [**Retro Space HD**](https://www.youtube.com/@RetroSpaceHD) (Old documentaries restored and reformatted for modern devices)
 
@@ -295,13 +353,13 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Ross Kemp Extreme World**](https://www.youtube.com/@rosskempextremeworld) (Clips and full episodes)
 
-[**Sen**](https://www.youtube.com/@Sen) (Earth from space in 4K | 4K Livestream of Earth from Space | Live Views from ISS)
-
-[**Space Oral History**](https://www.youtube.com/@spaceoralhistory8448/)
-
 [**Science Channel**](https://youtube.com/@sciencechannel) (Includes many programs and clips)
 
+[**Sen**](https://www.youtube.com/@Sen) (Earth from space in 4K | 4K Livestream of Earth from Space | Live Views from ISS)
+
 [**Smithsonian Channel**](https://www.youtube.com/@SmithsonianChannel)
+
+[**Space Oral History**](https://www.youtube.com/@spaceoralhistory8448/)
 
 [**Standart**](https://www.youtube.com/channel/UCZUkQij64MCMH-3b1ycUGjg/featured) (Full documentaries)
 
@@ -318,6 +376,10 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Upscaled History**](https://www.youtube.com/@UpscaledHistory) (Restored documentaries from old films, some dubbed in other languages or recolored)
 
 [**USCSB**](https://www.youtube.com/@USCSB) (Informative videos made by U.S. Chemical Safety and Hazard Investigation Board)
+
+[**유용원TV/Bemil_TV**](https://www.youtube.com/@Bemil_TV) (Clips from Korean military documentaries)
+
+[**VICE**](https://www.youtube.com/@VICE) (Full-length investigative documentaries on culture, crime, and world events)
 
 [**War Stories**](https://www.youtube.com/@WarStoriesChannel)
 
@@ -337,9 +399,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Animation World Network**](https://www.youtube.com/@AWN-AnimationWorldNetwork) (Trailers, clips and Featurettes from upcoming animated movies (including fully animated movies and CG animated movies/movies who use a lot of CGI constantly))
 
-[**Avatar**](https://www.youtube.com/@AvatarOfficial) (Content related to the Avatar movies, including Blu-Ray extras and YT original extras)
-
 [**ATV 亞洲電視**](https://www.youtube.com/@atvhongkong) (Old Free Hong Kong TV)
+
+[**Avatar**](https://www.youtube.com/@AvatarOfficial) (Content related to the Avatar movies, including Blu-Ray extras and YT original extras)
 
 [**BBC**](https://www.youtube.com/@BBC)
 
@@ -385,15 +447,15 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**HOY 免費電視 77 台及 78 台**](https://www.youtube.com/@hkhoy) (Free HK TV channel)
 
-[**ITN Archive**](https://www.youtube.com/@ITNArchive) (Archive of old TV Transmissions, news, documentaries, movies...)
-
 [**I Mostly Blame Myself**](https://youtube.com/@imostlyblamemyself) (Clips)
+
+[**ITN Archive**](https://www.youtube.com/@ITNArchive) (Archive of old TV Transmissions, news, documentaries, movies...)
 
 [**Jbuck's Retro Rewnd**](https://www.youtube.com/@jbuckretrorewind) (Retro Saturday morning cartoons and TV shows, with retro commercials)
 
-[**KBS WORLD TV**](https://www.youtube.com/@kbsworldtv) (Free Korean TV channel, has english and chinese sub)
-
 [**KBS Entertain**](https://www.youtube.com/@kbsent) (Clips, only in Korean, no English)
+
+[**KBS WORLD TV**](https://www.youtube.com/@kbsworldtv) (Free Korean TV channel, has english and chinese sub)
 
 [**Lionsgate Movies**](https://www.youtube.com/@LionsgateMovies) (Trailers and some extra content)
 
@@ -405,25 +467,25 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**NHK WORLD-JAPAN**](https://www.youtube.com/@NHKWORLDJAPAN) (News, live and clips)
 
+[**Paramount Movies**](https://www.youtube.com/@paramountmovies) (Only clips, i don't think it'd fit in Movies)
+
+[**Paramount Plus**](https://www.youtube.com/@paramountplus) (Clips and compilations)
+
 [**PepperboxTV**](https://www.youtube.com/@PepperboxTV) (Exclusive clips)
+
+[**PeriscopeFilm**](https://www.youtube.com/@PeriscopeFilm) (Old educational films)
+
+[**Pixar**](https://www.youtube.com/@pixar/) (Trailers, Featurettes, Clips, Behind The Scenes and extra content)
 
 [**Prime Video**](https://www.youtube.com/@PrimeVideo)
 
 [**PublicResourceOrg**](https://www.youtube.com/@PublicResourceOrg) (Public domain)
 
-[**Paramount Movies**](https://www.youtube.com/@paramountmovies) (Only clips, i don't think it'd fit in Movies)
-
-[**Paramount Plus**](https://www.youtube.com/@paramountplus) (Clips and compilations)
-
-[**Pixar**](https://www.youtube.com/@pixar/) (Trailers, Featurettes, Clips, Behind The Scenes and extra content)
-
-[**PeriscopeFilm**](https://www.youtube.com/@PeriscopeFilm) (Old educational films)
-
 [**Rochester TV Archive**](https://www.youtube.com/@RochesterTVArchive)
 
-[**SBS On Demand**](https://www.youtube.com/@SBSOnDemand) (Trailers, movie and content from the SBS Australian channel, not related to the Korean one)
-
 [**SBS Entertainment**](https://www.youtube.com/@SBSenter.official) (Clips and content from the SBS South Korean Channel, not related to the Australian one)
+
+[**SBS On Demand**](https://www.youtube.com/@SBSOnDemand) (Trailers, movie and content from the SBS Australian channel, not related to the Korean one)
 
 [**Shadow Pine Studios**](https://www.youtube.com/@shadowpineinc) (Various media: animated shows, documentaries like [Greatest Tank Battles Season 1-3](https://www.youtube.com/playlist?list=PLmlOlokCCWI_KkzCUXSsuo11PolRWGPiq)...)
 
@@ -459,7 +521,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**ViuTV World by MakerVille**](https://www.youtube.com/@ViuTVWorld) (Same as ViuTV but with full content)
 
-[**Warner bros Classics**](https://www.youtube.com/@warnerbrosclassics/) (Clips, compilations, remasters, from the older eras of WB)
+[**Walt Disney Animation Studios**](https://www.youtube.com/@disneyanimation/) (Trailers, Featurettes, Clips, Songs and shorts like ["Once Upon a Studio"](https://www.youtube.com/watch?v=gB90me0aqSY) )
+
+[**Walt Disney Imagineering**](https://www.youtube.com/@waltdisneyimagineering/featured) (BTS Videos of Disney's parks/ [Inside look at Walt Disney Imagineering](https://www.youtube.com/playlist?list=PLZuKWjoQGMP5LFHVnDn-sxggnJCZi3d9H))
 
 [**Warner Bros Entertainment**](https://www.youtube.com/@warnerbrosentertainment)
 
@@ -467,9 +531,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Warner Bros. TV**](https://www.youtube.com/@warnerbrostv)
 
-[**Walt Disney Animation Studios**](https://www.youtube.com/@disneyanimation/) (Trailers, Featurettes, Clips, Songs and shorts like ["Once Upon a Studio"](https://www.youtube.com/watch?v=gB90me0aqSY) )
-
-[**Walt Disney Imagineering**](https://www.youtube.com/@waltdisneyimagineering/featured) (BTS Videos of Disney's parks/ [Inside look at Walt Disney Imagineering](https://www.youtube.com/playlist?list=PLZuKWjoQGMP5LFHVnDn-sxggnJCZi3d9H))
+[**Warner bros Classics**](https://www.youtube.com/@warnerbrosclassics/) (Clips, compilations, remasters, from the older eras of WB)
 
 ### Movies
 
@@ -477,9 +539,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Air Bud TV**](https://www.youtube.com/@airbudtv) (All Air Bud movies plus other family movies)
 
-[**Artflix - Movie Classics**](https://www.youtube.com/channel/UCNcUc5v0Kt5afE_jcbbZUBQ/featured) (General Movies)
-
 [**Amazon MGM Studios**](https://www.youtube.com/@AmazonMGMStudios) (Clips and trailers
+
+[**Artflix - Movie Classics**](https://www.youtube.com/channel/UCNcUc5v0Kt5afE_jcbbZUBQ/featured) (General Movies)
 
 [**Blockbuster English Movies**](https://www.youtube.com/@blockbusterenglishmovies) (Full movies)
 
@@ -527,7 +589,13 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Public Domain Movies**](https://youtube.com/@publicdomainmovies379)
 
+[**SCREAM FACTORY**](https://www.youtube.com/@ScreamFactoryTV) (Full-length classic horror and sci-fi films)
+
+[**Shout! Factory TV**](https://www.youtube.com/@ShoutFactoryTV) (Officially licensed full movies and TV shows from various genres)
+
 [**Spider-Man**](https://www.youtube.com/spiderman) (Clips, extras and Movie tie-ins like "the spider within")
+
+[**Timeless Classic Movies**](https://www.youtube.com/@TimelessClassicMovies) (Public domain classic movies from the Golden Age of Hollywood)
 
 [**Vulture**](https://www.youtube.com/channel/UC9z4J-1s1B3ekSbpeFdO75A/videos) (horror)
 
@@ -555,9 +623,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Best of TV Realite**](https://www.youtube.com/@BestOfTVRealite) (French reality TV shows, clips and full episodes)
 
-[**Billions**](https://www.youtube.com/@BillionsOnShowtime) (Clips, compilations and trailers)
-
 [**Big Bang Theory**](https://www.youtube.com/@bigbangtheory) (Clips and compilations)
+
+[**Billions**](https://www.youtube.com/@BillionsOnShowtime) (Clips, compilations and trailers)
 
 [**Blue Mountain State**](https://www.youtube.com/@bluemountainstateofficial) (Clips)
 
@@ -607,11 +675,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**One Chicago**](https://www.youtube.com/@nbconechicago) (Clips)
 
+[**Parks and Recreation**](https://www.youtube.com/@ParksandRecreation) (Clips and compilations)
+
 [**Pawn Stars**](https://www.youtube.com/pawnstars) (Clips and compilations)
 
 [**Peaky Blinders**](https://www.youtube.com/@PeakyBlinders) (Clips and compilations)
-
-[**Parks and Recreation**](https://www.youtube.com/@ParksandRecreation) (Clips and compilations)
 
 [**Power Rangers Official**](https://www.youtube.com/@PowerRangersOfficial) (Full episodes, lives, mini movies and recaps)
 
@@ -621,9 +689,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Shark Tank Global**](https://www.youtube.com/SharkTankGlobal) (Clips and some compilations)
 
-[**Sherlock**](https://www.youtube.com/@Sherlock221B/featured) (Clips and exclusive/extra content)
-
 [**Sharpe**](https://www.youtube.com/@sharpeofficial) (Long clips and compilations)
+
+[**Sherlock**](https://www.youtube.com/@Sherlock221B/featured) (Clips and exclusive/extra content)
 
 [**Sony Pictures Television**](https://www.youtube.com/@SPTV) (Clips)
 
@@ -635,7 +703,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Taskmaster**](https://www.youtube.com/@Taskmaster) (Clips, full episodes, trailers and single tasks)
 
+[**The Bob Ross Channel**](https://www.youtube.com/@BobRoss) (Full episodes of "The Joy of Painting")
+
 [**The F Word**](https://www.youtube.com/@theFword) (Big clips, full episodes and extras)
+
+[**The Graham Norton Show**](https://www.youtube.com/@TheGNShow) (Clips and compilations from the popular talk show)
 
 [**The Grand Tour**](https://youtube.com/@thegrandtour) (Clips)
 
@@ -644,6 +716,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**The Office**](https://www.youtube.com/@TheOffice) (Clips and Compilation)
 
 [**The Resident**](https://www.youtube.com/@TheResidentonFOX) (Clips)
+
+[**This Old House**](https://www.youtube.com/@thisoldhouse) (Full episodes and clips from the home improvement series)
 
 [**Top Gear**](https://www.youtube.com/@TopGear) (Clips)
 
@@ -673,33 +747,33 @@ Breakdown and BTS of VFX in movies and TV, maybe with some interviews and podcas
 
 [**Crafty Apes**](https://www.youtube.com/@CraftyApesVFX)
 
-[**DNEG**](https://www.youtube.com/@DNEGVFX)
-
 [**Digital Domain**](https://www.youtube.com/@DigitalDomainDD)
+
+[**DNEG**](https://www.youtube.com/@DNEGVFX)
 
 [**Framestore**](https://www.youtube.com/@FramestoreOfficial) (Videos describing how VFX are made in movies as well as some BTS and interviews)
 
 [**Hybride VFX**](https://youtube.com/@hybridevfx)
 
+[**ImageEngineVFX**](https://youtube.com/@imageengine)
+
 [**Industrial Light & Magic**](https://www.youtube.com/@ILMVFX) (Podcasts and videos discussing the technical part of VFX in movies made by ILM)
 
 [**Ingenuity Studios**](https://www.youtube.com/@ingenuitystudios)
 
-[**ImageEngineVFX**](https://youtube.com/@imageengine)
-
 [**Iniflex FX**](https://www.youtube.com/@Iniflex_Fx)
 
-[**PIXOMONDO**](https://youtube.com/@pixomondo)
-
 [**MPC**](https://www.youtube.com/@mpcvfx)
+
+[**PIXOMONDO**](https://youtube.com/@pixomondo)
 
 [**ReDefine**](https://www.youtube.com/@thisisredefine/featured)
 
 [**RISE | Visual Effects Studios**](https://www.youtube.com/@RISE_FX)
 
-[**RSP VFX**](https://youtube.com/@rspvfx1500)
-
 [**Rodeo FX**](https://youtube.com/@rodeo_fx)
+
+[**RSP VFX**](https://youtube.com/@rspvfx1500)
 
 [**ScanlineVFX**](https://youtube.com/@scanline_vfx)
 
@@ -743,6 +817,8 @@ There are (probably) never gonna be full live matches, maybe full replays of old
 
 [**MLB**](https://www.youtube.com/@MLB)
 
+[**MotoGP**](https://www.youtube.com/@motogp) (Race highlights, clips, and full classic races)
+
 [**NASCAR**](https://www.youtube.com/@nascar) (Clips, highlights, interviews and extras)
 
 [**NBA**](https://www.youtube.com/@NBA)
@@ -757,6 +833,8 @@ There are (probably) never gonna be full live matches, maybe full replays of old
 
 [**Olympics**](https://www.youtube.com/Olympics) (Clips, small documentaries and Live events)
 
+[**PGA TOUR**](https://www.youtube.com/@PGATour) (Tournament highlights, player features, and iconic shots)
+
 [**Premier League**](https://www.youtube.com/@premierleague)
 
 [**Serie A**](https://www.youtube.com/@seriea) (Clips, highlights and extras)
@@ -766,6 +844,8 @@ There are (probably) never gonna be full live matches, maybe full replays of old
 [**Sky Sports Premiere League**](https://www.youtube.com/@skysportspremierleague) (Highlights)
 
 [**The Emirates FA Cup**](https://www.youtube.com/@thefacup)
+
+[**UFC - Ultimate Fighting Championship**](https://www.youtube.com/@ufc) (Fight highlights, full fight replays, interviews, and press conferences)
 
 [**Ultimate Pool UK**](https://www.youtube.com/@UltimatePool) (8-Ball Pool)
 
@@ -796,44 +876,3 @@ There are (probably) never gonna be full live matches, maybe full replays of old
 ---
 
 [If you want me to try out/give me 5 days of Real Debrid, use my referral link next time you renew/buy your Real Debrid subscription !](http://real-debrid.com/?id=15299096)
-
----
-
-## Contributing to this List (Hacktoberfest Friendly! 🎃)
-
-We welcome contributions to expand and improve this list! This project is also a great way to contribute to **Hacktoberfest**.
-
-### General Contribution Guidelines:
-
-* **Follow the Markdown format.**
-* If a channel is in any way linked to something that you normally have to pay to see, and the channel is active and posts related content to it, then **do not add it**. This list focuses on genuinely free content.
-* **Fix valid issues** by opening an issue or submitting a pull request.
-* This list will **only focus on official YouTube channels** who have the rights to post the content online; **no unofficial uploaders are allowed.**
-* Feel free to send links to other official channels that post Movies, TV Shows, Cartoons, or Kids content. **Specify the language** if it's not an English channel.
-* Try to keep the links in the format: `https://www.youtube.com/@ChannelName`.
-* If you know of any YouTube channels that fit the description but don't have a description on this list, you can add one. You can also fix inaccurate descriptions or typos via a pull request.
-* For content suggestions, **do not add YouTubers** to the list unless they focus on restoring and/or uploading public domain content like old movies and documentaries.
-* **Do not add region-locked channels** that require a VPN to view their content. These are outside the scope of this list.
-
-### For Hacktoberfest:
-
-Look for issues labeled `hacktoberfest` in the [issues section](https://github.com/vighneshb04/Free-Official-Youtube-Content/issues) or contribute by:
-* Adding new official YouTube channels that provide free content.
-* Improving existing channel descriptions or correcting broken links.
-* Suggesting new categories for content.
-* Fixing typos or formatting issues in the `README.md`.
-
----
-
-## ✨ Contributors
-
-A big thank you to everyone who has contributed to making this list awesome! Your contributions are invaluable.
-
-<a href="https://github.com/vighneshb04/Free-Official-Youtube-Content/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vighneshb04/Free-Official-Youtube-Content" />
-</a>
-
-Made with ❤️ by awesome people like [vighneshb04](https://github.com/vighneshb04) and many more!
-
----
-
