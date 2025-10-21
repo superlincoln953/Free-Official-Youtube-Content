@@ -315,8 +315,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Power Rangers Kids**](https://www.youtube.com/@PowerRangersKidsOfficial) (Full episodes and extra content)
 
-[**Ryan's World**](https://www.youtube.com/@RyansWorld) (Vlogs, science experiments, and challenges for kids)
-
 [**SciShow Kids**](https://www.youtube.com/@SciShowKids) (Videos explaining scientific concepts for young learners)
 
 [**Sesame Street**](https://www.youtube.com/@sesamestreet) (Full episodes, classic clips, and songs)
@@ -561,8 +559,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Comedy Central**](https://www.youtube.com/@ComedyCentral) (Stand-up specials, show clips, and sketches)
 
-[**Corridor Crew**](https://www.youtube.com/@CorridorCrew) ("VFX Artists React" series and other filmmaking content)
-
 [**DC**](https://www.youtube.com/@dcofficial) (Trailers, clips, full Podcast episodes and extra content)
 
 [**Disney**](https://www.youtube.com/@Disney/)(Clips and Trailers)
@@ -633,8 +629,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Rochester TV Archive**](https://www.youtube.com/@RochesterTVArchive)
 
-[**Saturday Night Live**](https://www.youtube.com/@saturdaynightlive) (Sketches and behind-the-scenes content)
-
 [**SBS Entertainment**](https://www.youtube.com/@SBSenter.official) (Clips and content from the SBS South Korean Channel, not related to the Australian one)
 
 [**SBS On Demand**](https://www.youtube.com/@SBSOnDemand) (Trailers, movie and content from the SBS Australian channel, not related to the Korean one)
@@ -662,8 +656,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**The Best Film Archives**](https://www.youtube.com/@TheBestFilmArchives) (Old films, documentaries, movies...)
 
 [**The Criterion Collection**](https://www.youtube.com/@criterioncollection) (Clips, interviews, and video essays about classic and contemporary films)
-
-[**The Late Show with Stephen Colbert**](https://www.youtube.com/@TheLateShow) (Full interviews, monologues, and sketches)
 
 [**The Royal Family Channel**](https://www.youtube.com/@royalchannel)
 
@@ -944,6 +936,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**The Resident**](https://www.youtube.com/@TheResidentonFOX) (Clips)
 
 [**The Tonight Show Starring Jimmy Fallon**](https://www.youtube.com/@fallontonight) (Full interviews, sketches, and games)
+
+[**The Late Show with Stephen Colbert**](https://www.youtube.com/@TheLateShow) (Full interviews, monologues, and sketches)
 
 [**The Walking Dead**](https://www.youtube.com/@thewalkingdead) (Clips, trailers, and behind-the-scenes content)
 
