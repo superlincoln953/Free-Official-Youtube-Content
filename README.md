@@ -864,6 +864,7 @@ We welcome contributions to expand and improve this list! This project is also a
 * If you know of any YouTube channels that fit the description but don't have a description on this list, you can add one. You can also fix inaccurate descriptions or typos via a pull request.
 * For content suggestions, **do not add YouTubers** to the list unless they focus on restoring and/or uploading public domain content like old movies and documentaries.
 * **Do not add region-locked channels** that require a VPN to view their content. These are outside the scope of this list.
+* **Each channel removal must be backed by a good reason in the PR, or else any PR with any channel removal not backed by a good reason will not be merged**
 
 ### For Hacktoberfest:
 
