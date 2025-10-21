@@ -233,8 +233,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Clifford the Big Red Dog Classic-Scholastic**](https://www.youtube.com/@CliffordtheBigRedDogClassic) (Full episodes, clips and compilations from various classic Clifford cartoons)
 
-[**Cocomelon - Nursery Rhymes**](https://www.youtube.com/@Cocomelon) (Popular nursery rhymes and educational videos)
-
 [**Daniel Tiger's Neighborhood**](https://www.youtube.com/@danieltiger) (Full episodes and clips from the PBS Kids show)
 
 [**Disney Channel**](https://www.youtube.com/@disneychannel) (Mostly clips and compilations but some full episodes)
