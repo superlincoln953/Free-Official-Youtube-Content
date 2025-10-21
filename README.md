@@ -827,8 +827,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Impractical Jokers**](https://www.youtube.com/@impracticaljokers) (Clips and compilations from the truTV series)
 
-[**Inside Edition**](https://www.youtube.com/@InsideEdition) (Full segments from the newsmagazine show)
-
 [**Jail**](https://www.youtube.com/@JailTVShow) (Multiple languages, some clips)
 
 [**Kitchen Nightmares**](https://www.youtube.com/@KitchenNightmares) (Clips, full episodes and full seasons)
