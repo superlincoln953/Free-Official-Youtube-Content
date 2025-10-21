@@ -391,6 +391,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Indian Space Research Organisation**](https://youtube.com/@isroofficial5866) (Videos by ISRO)
 
+[**India Today**](https://youtube.com/@indiatoday)(India's leading English news channel)
+
 [**JAXA | 宇宙航空研究開発機構/Japan Aerospace Exploration Agency**](https://www.youtube.com/@JAXA-HQ) (live, Informative videos, interviews, recordings from conventions, only in Japanese)
 
 [**KFN**](https://www.youtube.com/@kfnmaniagoon) (Documentaries, performances and other content from the South Korea’s official defense media agency)
