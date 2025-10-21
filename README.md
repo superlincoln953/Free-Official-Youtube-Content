@@ -179,6 +179,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Marvel H.Q.**](https://www.youtube.com/@MarvelHQ) (Multiple cartoons, both clips and full episodes)
 
+[**麥兜 Mcdull**](https://www.youtube.com/@mylifeasmcdull) (Clips)
+
 [**Mickey Mouse (Official)**](https://www.youtube.com/@MickeyMouseOfficial) (Official shorts and classic cartoons)
 
 [**Miraculous Ladybug**](https://www.youtube.com/@Miraculous) (Clips, compilations and full episodes)
@@ -210,8 +212,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Vivziepop/SpindleHorse**](https://www.youtube.com/@SpindleHorse) (Not suitable for kids, full episodes and related content)
 
 [**WildBrain Max**](https://www.youtube.com/@WildBrainMax) (Compilations of full seasons, related channels with extra content)
-
-[**麥兜 Mcdull**](https://www.youtube.com/@mylifeasmcdull) (Clips)
 
 ### Kids Media
 
