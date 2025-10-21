@@ -681,8 +681,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Vogue**](https://www.youtube.com/@vogue) ("73 Questions" series and other fashion/celebrity content)
 
-[**Walt Disney Animation Studios**](https://www.youtube.com/@disneyanimation/) (Trailers, Featurettes, Clips, Songs and shorts like ["Once Upon a Studio"](https://www.youtube.com/watch?v=gB90me0aqSY) )
-
 [**Walt Disney Imagineering**](https://www.youtube.com/@waltdisneyimagineering/featured) (BTS Videos of Disney's parks/ [Inside look at Walt Disney Imagineering](https://www.youtube.com/playlist?list=PLZuKWjoQGMP5LFHVnDn-sxggnJCZi3d9H))
 
 [**Warner Bros Entertainment**](https://www.youtube.com/@warnerbrosentertainment)
@@ -1222,6 +1220,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Vimeo Staff Picks**](https://www.youtube.com/@VimeoStaffPicks) (A curated collection of top short films from Vimeo)
 
 [**We Are The People**](https://www.youtube.com/@WeAreThePeople) (A platform for diverse and socially conscious short films)
+
+[**Walt Disney Animation Studios**](https://www.youtube.com/@disneyanimation/) (Trailers, Featurettes, Clips, Songs and animated shorts like ["Once Upon a Studio"](https://www.youtube.com/watch?v=gB90me0aqSY))
 
 [**Z-shorts**](https://www.youtube.com/@Z-shorts) (Independent animated shorts)
 
