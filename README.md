@@ -123,15 +123,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**AniDom**](https://www.youtube.com/@AniDom) (Fox animated shows, mostly clips)
 
-[**Animaniacs**](https://www.youtube.com/@Animaniacs) (Clips and songs from the classic and new series)
-
-[**Avatar: The Last Airbender**](https://www.youtube.com/@TheLastAirbender) (Official clips, compilations, and full episodes)
-
-[**Boomerang Official**](https://www.youtube.com/@BoomerangOfficial) (Clips and compilations from classic cartoons like Tom & Jerry, Scooby-Doo)
+[**Avatar: The Last Airbender**](https://www.youtube.com/@avatarthelastairbender) (Official clips, compilations, and full episodes)
 
 [**Bugs Bunny**](https://www.youtube.com/@looneytunes) (Classic Looney Tunes shorts and clips)
-
-[**Butch Hartman**](https://www.youtube.com/@butchhartman) (Behind-the-scenes and shorts from the creator of Fairly OddParents)
 
 [**Cartoon Hangover**](https://www.youtube.com/@CartoonHangover) (Home of Bravest Warriors and other indie animations)
 
@@ -140,8 +134,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Code Lyoko English Official**](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) (Full episodes and compilations, in English)
 
 [**Code Lyoko Officiel**](https://www.youtube.com/@codelyokoofficiel7410) (Full episodes and compilations, French only)
-
-[**Comedy Central Animated**](https://www.youtube.com/@ccanimated) (Clips and shorts from their animated series)
 
 [**Cyanide & Happiness**](https://www.youtube.com/@ExplosmEntertainment) (Official shorts and compilations)
 
@@ -153,17 +145,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**DreamWorks Madagascar**](https://www.youtube.com/@DreamWorksMadagascar) (Short clips from the movies and long clips or even full episodes from the kids cartoon)
 
-[**Family Guy**](https://www.youtube.com/@familyguy) (Clips and compilations from the show)
-
 [**Foot 2 Rue**](https://www.youtube.com/@foot2rueextreme/videos) (All full episodes, French only)
 
 [**Garfield & Friends**](https://www.youtube.com/@GarfieldAndFriends) (Full episodes of the classic cartoon)
 
 [**GLITCH**](https://www.youtube.com/@GLITCH) (ALL Full seasons and episodes)
-
-[**Happy Tree Friends**](https://www.youtube.com/@happytreefriends) (Official full episodes of the infamous cartoon)
-
-[**Hanna-Barbera**](https://www.youtube.com/@HannaBarbera) (Clips from classic shows like The Flintstones and The Jetsons)
 
 [**Johnny Test**](https://www.youtube.com/@JohnnyTest) (Multiple languages)
 
@@ -172,8 +158,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Kung fu Panda**](https://www.youtube.com/@kungfupanda) (Trailers, clips, some extra stuff, mostly inactive)
 
 [**LACKADAISY**](https://www.youtube.com/@LackadaisyComic) (Full episodes)
-
-[**Looney Tunes**](https://www.youtube.com/@LooneyTunes) (Official clips and full shorts)
 
 [**Marvel H.Q.**](https://www.youtube.com/@MarvelHQ) (Multiple cartoons, both clips and full episodes)
 
@@ -185,15 +169,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Oddbods**](https://www.youtube.com/@oddbods) (Full episodes and compilations of the 3D animated comedy)
 
-[**Pinky and the Brain**](https://www.youtube.com/@PinkyandtheBrain) (Official clips and shorts)
-
-[**Popeye And Friends Official**](https://www.youtube.com/@PopeyeandFriends) (Classic Popeye cartoons)
+[**Popeye And Friends Official**](https://www.youtube.com/@PopeyeAndFriendsOfficial) (Classic Popeye cartoons)
 
 [**Retro Rerun TV**](https://www.youtube.com/@RetroRerunTV) (Miscellaneous cartoons, TV shows and anime)
 
 [**Rick and Morty**](https://www.youtube.com/@adultswim) (Clips, behind the scenes, and sometimes full episodes via Adult Swim)
-
-[**Rocko's Modern Life**](https://www.youtube.com/@RockosModernLife) (Official channel with clips and compilations)
 
 [**Shaun the Sheep Official**](https://www.youtube.com/@ShauntheSheepOfficial) (Full episode compilations and live streaming episodes)
 
@@ -205,13 +185,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Teenage Mutant Ninja Turtles**](https://www.youtube.com/@tmnt) (Mostly clips and unrelated videos, but also has some episodes)
 
-[**The Fairly OddParents**](https://www.youtube.com/@TheFairlyOddParents) (Clips, shorts, and full episodes from the Nickelodeon series)
+[**The Fairly OddParents**](https://www.youtube.com/@TheFairlyOddParentsOfficial) (Clips, shorts, and full episodes from the Nickelodeon series)
 
 [**The Simpsons**](https://www.youtube.com/@TheSimpsons) (Official clips, compilations, and shorts)
-
-[**Tiny Toon Adventures**](https://www.youtube.com/@TinyToonAdventures) (Official clips from the classic series)
-
-[**Tom and Jerry**](https://www.youtube.com/@TomAndJerry) (Classic shorts and clips)
 
 [**Transformers Official**](https://www.youtube.com/@TransformersOfficial) (Clips and full episodes from various Transformers series)
 
@@ -221,7 +197,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**WildBrain Max**](https://www.youtube.com/@WildBrainMax) (Compilations of full seasons, related channels with extra content)
 
-[**Zig & Sharko**](https://www.youtube.com/@ZigSharko) (Full episodes of the slapstick animated series)
+[**Zig & Sharko**](https://www.youtube.com/@ZigandSharko) (Full episodes of the slapstick animated series)
 
 ### Kids Media
 
@@ -242,8 +218,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**CBBC**](https://www.youtube.com/CBBC) (Clips and compilations)
 
 [**Clifford the Big Red Dog Classic-Scholastic**](https://www.youtube.com/@CliffordtheBigRedDogClassic) (Full episodes, clips and compilations from various classic Clifford cartoons)
-
-[**Cocomelon - Nursery Rhymes**](https://www.youtube.com/@Cocomelon) (Popular nursery rhymes and educational videos)
 
 [**Cosmic Kids Yoga**](https://www.youtube.com/@CosmicKidsYoga) (Yoga, mindfulness, and relaxation for kids)
 
