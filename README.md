@@ -1213,27 +1213,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 We welcome contributions to expand and improve this list! This project is also a great way to contribute to **Hacktoberfest**.
 
-### General Contribution Guidelines:
-
-* **Follow the Markdown format.**
-* If a channel is in any way linked to something that you normally have to pay to see, and the channel is active and posts related content to it, then add it and write a short description of the type of content. 
-* **Fix valid issues** by opening an issue or submitting a pull request.
-* This list will **only focus on official YouTube channels** who have the rights to post the content online; **no unofficial uploaders are allowed.**
-* Feel free to send links to other official channels that post Movies, TV Shows, Cartoons, or Kids content. **Specify the language** if it's not an English channel.
-* Try to keep the links in the format: `https://www.youtube.com/@ChannelName`.
-* If you know of any YouTube channels that fit the description but don't have a description on this list, you can add one. You can also fix inaccurate descriptions or typos via a pull request.
-* For content suggestions, **do not add YouTubers** to the list unless they focus on restoring and/or uploading **public domain content** like old movies and documentaries.
-* **Do not add region-locked channels** that require a VPN to view their content. These are outside the scope of this list.
-* **Each channel removal must be backed by a good reason in the PR, or else any PR with any channel removal not backed by a good reason will not be merged**
-
-### For Hacktoberfest:
-
-Look for issues labeled `hacktoberfest` in the [issues section](https://github.com/vighneshb04/Free-Official-Youtube-Content/issues) or contribute by:
-* Adding new official YouTube channels that provide free content.
-* Improving existing channel descriptions or correcting broken links.
-* Suggesting new categories for content.
-* Fixing typos or formatting issues in the `README.md`.
-
 ---
 
 ## ✨ Contributors
