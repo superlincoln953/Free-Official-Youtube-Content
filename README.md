@@ -1105,31 +1105,21 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 ### Short Films
 
-[**A-Space**](https://www.youtube.com/@A-Space) (Curated sci-fi short films)
-
 [**Alter**](https://www.youtube.com/@WatchALTER) (short horror films) (owned by [Gunpowder & Sky](https://en.wikipedia.org/wiki/Gunpowder_%26_Sky) )
 
-[**Animation Festivals**](https://www.youtube.com/@AnimationFestivals) (A collection of animated shorts from various festivals)
-
-[**CalArts**](https://www.youtube.com/@CalArts) (Student animated shorts from the famous art school)
+[**CalArts**](https://www.youtube.com/@calartsofficial) (Student animated shorts from the famous art school)
 
 [**CGMeetup**](https://www.youtube.com/@CGMeetup) (A large collection of CGI and animated short films)
-
-[**CGI Shorts**](https://www.youtube.com/@CGIshorts) (Collection of animated shorts from around the world)
 
 [**Directors Notes**](https://www.youtube.com/@directorsnotes) (Interviews and short films from independent filmmakers)
 
 [**DUST**](https://www.youtube.com/@watchdust/) (sci-fi short films) (owned by [Gunpowder & Sky](https://en.wikipedia.org/wiki/Gunpowder_%26_Sky) )
 
-[**Encounters Film Festival**](https://www.youtube.com/@EncountersFilmFestival) (Shorts from the UK film festival)
+[**Encounters Film Festival**](https://www.youtube.com/@EncountersFestival) (Shorts from the UK film festival)
 
 [**Film School Shorts**](https://www.youtube.com/@filmschoolshorts) (Short films produced by students at top film schools)
 
-[**Future Shorts**](https://www.youtube.com/@FutureShorts) (A global pop-up film festival channel)
-
 [**Gobelins**](https://www.youtube.com/@gobelins) (World-renowned student animated shorts from the Parisian school)
-
-[**Indie Film Hustle TV**](https://www.youtube.com/@indiefilmhustletv) (Short films and filmmaking tutorials)
 
 [**Labocine**](https://www.youtube.com/@Labocine) (Short films that blend science and cinema)
 
@@ -1137,15 +1127,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**NOWNESS**](https://www.youtube.com/@nowness) (High-end cultural short films and documentaries)
 
-[**NQV Media**](https://www.youtube.com/@NQVMedia) (A collection of curated international LGBTQ+ short films)
-
 [**Omeleto**](https://www.youtube.com/@Omeleto/)
 
-[**RE:ANIME**](https://www.youtube.com/@REANIME) (Live-action short film adaptations of popular anime scenes)
-
 [**Rodeo FX**](https://www.youtube.com/@RodeoFX) (VFX studio that also produces original animated shorts)
-
-[**Screencraft**](https://www.youtube.com/@Screencraft) (Short films from screenwriting competition winners)
 
 [**Short of the Week**](https://www.youtube.com/@shortoftheweek/)
 
@@ -1158,12 +1142,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Tribeca**](https://www.youtube.com/@tribeca) (Short films and content from the Tribeca Film Festival)
 
 [**Viddsee**](https://www.youtube.com/@viddsee) (A large platform showcasing short films from across Asia)
-
-[**Vimeo Staff Picks**](https://www.youtube.com/@VimeoStaffPicks) (A curated collection of top short films from Vimeo)
-
-[**We Are The People**](https://www.youtube.com/@WeAreThePeople) (A platform for diverse and socially conscious short films)
-
-[**Z-shorts**](https://www.youtube.com/@Z-shorts) (Independent animated shorts)
 
 ---
 
