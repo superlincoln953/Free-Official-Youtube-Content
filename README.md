@@ -61,8 +61,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Aniplex USA**](https://www.youtube.com/@AniplexUSA) (Trailers, OPs/EDs, and clips from major series like Demon Slayer and Fate)
 
-[**Bandai Namco Arts Channel**](https://www.youtube.com/@bandainamcoartschannel) (Music videos and promotional clips for anime)
-
 [**Bushiroad Official Channel**](https://www.youtube.com/@bushi_PR) (Promotional content, clips, and sometimes full episodes related to their franchises)
 
 [**Cartoon PowerUP**](https://www.youtube.com/@CartoonPowerUp) (Inactive, mostly anime, some cartoons)
@@ -71,15 +69,13 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Crunchyroll Dubs**](https://www.youtube.com/@CrunchyrollDubs) (Clips of English dubbed anime)
 
-[**Discotek Media**](https://www.youtube.com/@discotekmedia) (Trailers for classic and obscure anime releases)
+[**Discotek Media**](https://www.youtube.com/@DiscotekMediaOfficial) (Trailers for classic and obscure anime releases)
 
 [**Funimation**](https://www.youtube.com/@funimation) (Trailers, clips, and full episodes of anime)
 
-[**GKIDS Films**](https://www.youtube.com/@gkidsfilms) (Trailers and clips from acclaimed animated films from around the world)
-
 [**Gundaminfo**](https://www.youtube.com/@gundaminfo) (Trailers, special contents...)
 
-[**HIDIVE**](https://www.youtube.com/@HIDIVEofficial) (Trailers and clips for various anime series)
+[**HIDIVE**](https://www.youtube.com/@HIDIVE) 
 
 [**KADOKAWAanime**](https://www.youtube.com/@KADOKAWAanime) (Trailers and clips from Kadokawa-produced anime)
 
