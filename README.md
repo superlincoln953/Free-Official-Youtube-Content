@@ -75,13 +75,13 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Gundaminfo**](https://www.youtube.com/@gundaminfo) (Trailers, special contents...)
 
-[**HIDIVE**](https://www.youtube.com/@HIDIVE) 
+[**HIDIVE**](https://www.youtube.com/@HIDIVE) (Trailers and clips for various anime series)
 
 [**KADOKAWAanime**](https://www.youtube.com/@KADOKAWAanime) (Trailers and clips from Kadokawa-produced anime)
 
 [**King Records**](https://www.youtube.com/@kingrecords) (Music videos and trailers from their anime productions)
 
-[**Kodansha USA**](https://www.youtube.com/@KodanshaUSA) (Manga trailers and some anime clips)
+[**Kodansha USA**](https://www.youtube.com/@KodanshaUS) (Manga trailers and some anime clips)
 
 [**Manga Entertainment**](https://www.youtube.com/@mangauk) (Trailers and clips from various anime, UK-based)
 
@@ -91,8 +91,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Muse木棉花-HK**](https://www.youtube.com/channel/UCOsFUU8EtJGDd6-AouF_MwQ) (Cantonese dubbed anime and other content)
 
-[**Nippon Columbia**](https://www.youtube.com/@NipponColumbia) (Music videos and official anime songs)
-
 [**Nozomi Entertainment**](https://www.youtube.com/@nozomient) (Clips and trailers for classic anime series)
 
 [**Official Yu-Gi-Oh!**](https://www.youtube.com/@yugioh) (Full episodes of various Yu-Gi-Oh! series)
@@ -101,21 +99,15 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Pokemon**](https://www.youtube.com/@OfficialPoke%CC%81monTV) (Multiple languages, actively posting)
 
-[**RetroCrush TV**](https://www.youtube.com/@retrocrushtv) (Clips and full episodes of classic anime from the 70s, 80s, and 90s)
-
 [**Right Stuf Anime**](https://www.youtube.com/@RightStufAnime) (Promotional content, unboxings, and industry news)
 
-[**Sentai**](https://www.youtube.com/@SentaiOfficial) (Trailers and clips for Sentai Filmworks licensed anime)
-
-[**Shonen Jump**](https://www.youtube.com/@shonenjump) (Promotional videos and trailers for their manga and related anime)
+[**Shonen Jump**](https://www.youtube.com/@jumpchannel) (Promotional videos and trailers for their manga and related anime)
 
 [**Studio Pierrot**](https://www.youtube.com/@studio_pierrot) (Official channel with clips and special content from their shows like Naruto and Bleach)
 
-[**Sunrise**](https://www.youtube.com/@SUNRISE) (Official channel for the studio behind Gundam, Code Geass, and more)
+[**TMS ANIME**](https://www.youtube.com/@AnimeonTMSOfficialChannel) (Full episodes of classic anime series like Lupin the 3rd and Case Closed)
 
-[**TMS ANIME**](https://www.youtube.com/@tmsanime) (Full episodes of classic anime series like Lupin the 3rd and Case Closed)
-
-[**Toei Animation US**](https://www.youtube.com/@ToeiAnimationUS) (Clips and episodes from their classic and current catalog)
+[**Toei Animation**](https://www.youtube.com/@ToeiAnimationOfficial) (Clips and episodes from their classic and current catalog)
 
 [**TOHO animation**](https://www.youtube.com/@TOHOanimation) (Trailers, music, and clips from major anime like Jujutsu Kaisen and My Hero Academia)
 
