@@ -59,6 +59,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**AnimeLog**](https://www.youtube.com/@animelogofficial) (Official channel with a library of classic anime series, mostly Japanese with subs)
 
+
+[**AnimeLab**](https://www.youtube.com/@AnimeLab) (Official Australian anime streaming service channel)
+
 [**Ani-One Asia**](https://www.youtube.com/@AniOneAsia) (Some full shows, mostly clips and ads for events)
 
 [**Aniplex USA**](https://www.youtube.com/@AniplexUSA) (Trailers, OPs/EDs, and clips from major series like Demon Slayer and Fate)
