@@ -179,8 +179,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Mcdull 麥兜**](https://www.youtube.com/@mylifeasmcdull) (Clips)
 
-[**Mickey Mouse (Official)**](https://www.youtube.com/@MickeyMouseOfficial) (Official shorts and classic cartoons)
-
 [**Miraculous Ladybug**](https://www.youtube.com/@Miraculous) (Clips, compilations and full episodes)
 
 [**Mondo Media**](https://www.youtube.com/@MondoMedia) (Original animated series and shorts for mature audiences)
