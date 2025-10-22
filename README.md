@@ -727,6 +727,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Peacock**](https://www.youtube.com/@Peacock) (Sometimes offers full movies for free for a limited time)
 
+[**Pen Multiplex**](https://www.youtube.com/@PenMultiplex) (Content Library containing full-length Bollywood movies and clips)
+
 [**PizzaFlix**](https://www.youtube.com/@PizzaFlix) (Public domain movies, specializing in B-movies and cult classics)
 
 [**Popcornflix**](https://www.youtube.com/@Popcornflix) (Officially licensed full-length movies for free)
