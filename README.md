@@ -711,6 +711,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**SCREAM FACTORY**](https://www.youtube.com/@ScreamFactoryTV) (Full-length classic horror and sci-fi films)
 
+[**Shemaroo Movies**](https://www.youtube.com/@shemaroomovies) (Full-length movies and clips)
+
 [**Shout! Factory TV**](https://www.youtube.com/@ShoutFactoryTV) (Officially licensed full movies and TV shows from various genres)
 
 [**Sony Pictures Classics**](https://www.youtube.com/@sonyclassics) (Trailers for indie, arthouse, and foreign films)
