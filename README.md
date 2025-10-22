@@ -203,6 +203,16 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Zig & Sharko**](https://www.youtube.com/@ZigandSharko) (Full episodes of the slapstick animated series)
 
+[**Discovery Kids India**](https://www.youtube.com/@DiscoveryKidsIN) (Official cartoons & animated movie content for children in multiple Indian languages)
+
+[**WowKidz Movies**](https://www.youtube.com/@WowKidzMovies) (Official kids’ animated movies and popular cartoon characters like Motu Patlu in Hindi)
+
+[**Green Gold TV**](https://www.youtube.com/@GreenGoldTV) (Official Green Gold Animation channel — creators of Chhota Bheem, Mighty Little Bheem & Super Bheem)
+
+[**Zee Kids**](https://www.youtube.com/@ZeeKids) (Official Zee Kids channel featuring Hindi cartoons and animated comedy shows for children)
+
+[**Cartoon Network India**](https://www.youtube.com/@cnindia) (Official Cartoon Network India channel with shows in English and Hindi)
+
 ### Kids Media
 
 [**Alphablocks**](https://www.youtube.com/@officialalphablocks) (Full episodes focused on teaching phonics)
