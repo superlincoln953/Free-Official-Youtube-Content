@@ -71,6 +71,10 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Discotek Media**](https://www.youtube.com/@DiscotekMediaOfficial) (Trailers for classic and obscure anime releases)
 
+[**GACHIAKUTA**](https://www.youtube.com/@gachiakuta_PR) (Trailers, bts, special content for gachiakuta)
+
+[**GONZO**](https://www.youtube.com/@gonzo) (full episodes, clips and more for anime like Kaleido Star and Basilisk : Ouka Ninpouchou)
+
 [**Gundaminfo**](https://www.youtube.com/@gundaminfo) (Trailers, special contents...)
 
 [**GKIDS Films**](https://www.youtube.com/@GKIDStv) (Trailers and clips from acclaimed animated films from around the world)
@@ -139,6 +143,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**DreamWorks Madagascar**](https://www.youtube.com/@DreamWorksMadagascar) (Short clips from the movies and long clips or even full episodes from the kids cartoon)
 
+[**Family guy**](https://www.youtube.com/@FamilyGuyFOX) (clips and playlists of full episodes)
+
 [**Foot 2 Rue**](https://www.youtube.com/@foot2rueextreme/videos) (All full episodes, French only)
 
 [**Garfield & Friends**](https://www.youtube.com/@GarfieldAndFriends) (Full episodes of the classic cartoon)
@@ -163,6 +169,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Oddbods**](https://www.youtube.com/@oddbods) (Full episodes and compilations of the 3D animated comedy)
 
+[**Oggy and the Cockroaches**](https://www.youtube.com/@oggy) (full episodes and live re-runs of seasons)
+
 [**Popeye And Friends Official**](https://www.youtube.com/@PopeyeAndFriendsOfficial) (Classic Popeye cartoons)
 
 [**Retro Rerun TV**](https://www.youtube.com/@RetroRerunTV) (Miscellaneous cartoons, TV shows and anime)
@@ -180,6 +188,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Teenage Mutant Ninja Turtles**](https://www.youtube.com/@tmnt) (Mostly clips and unrelated videos, but also has some episodes)
 
 [**The Fairly OddParents**](https://www.youtube.com/@TheFairlyOddParentsOfficial) (Clips, shorts, and full episodes from the Nickelodeon series)
+
+[**The Powerpuff Girls**](https://www.youtube.com/@ThePowerpuffGirls) (Clips and compilations)
 
 [**The Simpsons**](https://www.youtube.com/@TheSimpsons) (Official clips, compilations, and shorts)
 
