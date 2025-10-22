@@ -779,8 +779,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**House M.D.**](https://www.youtube.com/@HouseM.D.) (Mostly scenes from episodes)
 
-[**Inside Edition**](https://www.youtube.com/@InsideEdition) (Full segments from the newsmagazine show)
-
 [**Jail**](https://www.youtube.com/@JailTVShow) (Multiple languages, some clips)
 
 [**Jimmy Kimmel Live**](https://www.youtube.com/@JimmyKimmelLive) (Full interviews, monologues, and comedy sketches)
