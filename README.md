@@ -55,11 +55,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 ### Anime
 
-[**ANIDO**](https://www.youtube.com/@ANIDO) (Official channel for various anime series, often full episodes)
-
-[**AnimeLog**](https://www.youtube.com/@animelogofficial) (Official channel with a library of classic anime series, mostly Japanese with subs)
-
-
 [**AnimeLab**](https://www.youtube.com/@AnimeLab) (Official Australian anime streaming service channel)
 
 [**Ani-One Asia**](https://www.youtube.com/@AniOneAsia) (Some full shows, mostly clips and ads for events)
