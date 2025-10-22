@@ -1,6 +1,6 @@
 ## Contributing to this List (Hacktoberfest Friendly! 🎃)
 
-We welcome contributions to expand and improve this list! This project is also a great way to contribute to **Hacktoberfest**.
+We welcome contributions to expand and improve this list! This project is also a great way to contribute to **Hacktoberfest**. This project doesn't need any coding skills in order to contribute
 
 ### General Contribution Guidelines:
 
