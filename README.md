@@ -961,7 +961,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**BlueBolt VFX**](https://www.youtube.com/@blueboltvfx)
 
-[**Cinesite**](https://www.youtube.com/@Cinesite) (VFX and animation breakdowns)
+[**Cinesite**](https://www.youtube.com/@Cinesite.) (VFX and animation breakdowns)
 
 [**Crafty Apes**](https://www.youtube.com/@CraftyApesVFX)
 
@@ -973,7 +973,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**FuseFX**](https://www.youtube.com/@FuseFX) (VFX breakdowns for television series like Agents of S.H.I.E.L.D.)
 
-[**Ghost VFX**](https://www.youtube.com/@ghostvfx) (Breakdowns for Star Wars series and other major films)
+[**Ghost VFX**](https://www.youtube.com/@officialghostvfx) (Breakdowns for Star Wars series and other major films)
 
 [**Hybride VFX**](https://youtube.com/@hybridevfx)
 
@@ -988,8 +988,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Luma Pictures**](https://www.youtube.com/@LumaPictures) (VFX breakdowns from Marvel films and others)
 
 [**Maxon**](https://www.youtube.com/@MaxonVFX) (Creators of Cinema 4D, with artist showcases and breakdowns)
-
-[**Method Studios**](https://www.youtube.com/@methodstudios) (High-end VFX breakdowns from blockbuster films)
 
 [**Mikros Animation**](https://www.youtube.com/@mikrosanimation) (Breakdowns for animated films)
 
@@ -1011,13 +1009,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Sony Pictures Imageworks - VFX**](https://www.youtube.com/@ImageworksVFX/)
 
-[**Spin VFX**](https://www.youtube.com/@spinvfx) (Breakdowns for The Umbrella Academy and other shows)
+[**Spin VFX**](https://www.youtube.com/@SpinVFXLife) (Breakdowns for The Umbrella Academy and other shows)
 
 [**Storm Studios**](https://www.youtube.com/@stormstudios357)
 
 [**Tippett Studio**](https://www.youtube.com/@TippettStudio) (Breakdowns from the legendary studio behind Jurassic Park and Starship Troopers)
-
-[**UPP**](https://www.youtube.com/@UPP) (VFX breakdowns for various films)
 
 [**Wētā FX**](https://www.youtube.com/@weta-fx) (Breakdown and BTS of VFX in movies, with some interviews)
 
