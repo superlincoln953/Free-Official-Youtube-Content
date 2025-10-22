@@ -972,15 +972,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 ### VFX Breakdown
 
-[**Animal Logic**](https://www.youtube.com/@animallogic) (VFX breakdowns for films like The LEGO Movie and Peter Rabbit)
-
-[**Atomic Fiction**](https://www.youtube.com/@atomicfiction) (Breakdowns for films like Deadpool and Star Trek Beyond)
-
 [**Autodesk**](https://www.youtube.com/@Autodesk) (Software tutorials that often include professional VFX breakdowns)
 
 [**BlueBolt VFX**](https://www.youtube.com/@blueboltvfx)
-
-[**BUF**](https://www.youtube.com/@bufvfx) (Breakdowns from films like Blade Runner 2049)
 
 [**Cinesite**](https://www.youtube.com/@Cinesite) (VFX and animation breakdowns)
 
@@ -1008,8 +1002,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Luma Pictures**](https://www.youtube.com/@LumaPictures) (VFX breakdowns from Marvel films and others)
 
-[**Mackevision**](https://www.youtube.com/@mackevision) (VFX for Game of Thrones and automotive commercials)
-
 [**Maxon**](https://www.youtube.com/@MaxonVFX) (Creators of Cinema 4D, with artist showcases and breakdowns)
 
 [**Method Studios**](https://www.youtube.com/@methodstudios) (High-end VFX breakdowns from blockbuster films)
@@ -1017,8 +1009,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Mikros Animation**](https://www.youtube.com/@mikrosanimation) (Breakdowns for animated films)
 
 [**MPC**](https://www.youtube.com/@mpcvfx)
-
-[**One of Us**](https://www.youtube.com/@oneofusvfx) (Breakdowns for films like The Crown and Jurassic World)
 
 [**PIXOMONDO**](https://youtube.com/@pixomondo)
 
@@ -1040,15 +1030,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Storm Studios**](https://www.youtube.com/@stormstudios357)
 
-[**The Mill**](https://www.youtube.com/@TheMillChannel) (High-end commercial VFX breakdowns)
-
 [**Tippett Studio**](https://www.youtube.com/@TippettStudio) (Breakdowns from the legendary studio behind Jurassic Park and Starship Troopers)
 
 [**UPP**](https://www.youtube.com/@UPP) (VFX breakdowns for various films)
 
 [**Wētā FX**](https://www.youtube.com/@weta-fx) (Breakdown and BTS of VFX in movies, with some interviews)
-
-[**Zoic Studios**](https://www.youtube.com/@ZoicStudios) (VFX for TV shows and commercials)
 
 ### Sport
 
