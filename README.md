@@ -876,6 +876,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Wipeout**](https://www.youtube.com/@WipeoutWorldwide) (Clips and full episodes)
 
 [**Young Sheldon**](https://www.youtube.com/@YoungSheldonOfficial) (Clips)
+[**Classic TV Channel**](https://www.youtube.com/channel/UCNCAEXQK6M8wU0kOcFa6gng/playlists) (Remastered and restored classic TV shows from the 1940s-1960s, including full episodes of *Bonanza* and *Dragnet*.)
 
 ### VFX Breakdown
 
