@@ -71,8 +71,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Discotek Media**](https://www.youtube.com/@DiscotekMediaOfficial) (Trailers for classic and obscure anime releases)
 
-[**Funimation**](https://www.youtube.com/@funimation) (Trailers, clips, and full episodes of anime)
-
 [**Gundaminfo**](https://www.youtube.com/@gundaminfo) (Trailers, special contents...)
 
 [**GKIDS Films**](https://www.youtube.com/@GKIDStv) (Trailers and clips from acclaimed animated films from around the world)
@@ -84,10 +82,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**King Records**](https://www.youtube.com/@kingrecords) (Music videos and trailers from their anime productions)
 
 [**Kodansha USA**](https://www.youtube.com/@KodanshaUS) (Manga trailers and some anime clips)
-
-[**Manga Entertainment**](https://www.youtube.com/@mangauk) (Trailers and clips from various anime, UK-based)
-
-[**Media Blasters**](https://www.youtube.com/@MediaBlasters) (Trailers and promotional material for their licensed anime)
 
 [**Muse Asia**](https://www.youtube.com/@MuseAsia) (English Subtitles)
 
@@ -253,7 +247,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Peacock jr**](https://www.youtube.com/@peacockjr) (Clips and compilations)
 
-[**Peacock Kids**](https://www.youtube.com/@PeacockKids) (Clips, songs, compilations, including clips from movies)
+[**Peacock Kids/Universal Kids**](https://www.youtube.com/@PeacockKids) (Clips, songs, compilations, including clips from movies)
 
 [**Peppa Pig**](https://www.youtube.com/@PeppaPigOfficial) (Clips and full episodes)
 
@@ -359,8 +353,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Indian Space Research Organisation**](https://youtube.com/@isroofficial5866) (Videos by ISRO)
 
-[**ITN Source**](https://www.youtube.com/@itnsource) (Historical newsreels and archival footage)
-
 [**JAXA | 宇宙航空研究開発機構/Japan Aerospace Exploration Agency**](https://www.youtube.com/@JAXA-HQ) (live, Informative videos, interviews, recordings from conventions, only in Japanese)
 
 [**KFN**](https://www.youtube.com/@kfnmaniagoon) (Documentaries, performances and other content from the South Korea’s official defense media agency)
@@ -403,7 +395,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**PBS America**](https://www.youtube.com/@PBSAmerica/) (Full documentaries)
 
-[**PBS Eons**](https://www.youtube.com/@PBSEons) (Documentaries about the history of life on Earth)
+[**PBS Eons**](https://www.youtube.com/@eons) (Documentaries about the history of life on Earth)
 
 [**Real Stories**](https://www.youtube.com/@RealStories) (Full-length documentaries about incredible true stories)
 
@@ -456,8 +448,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**ABC**](https://www.youtube.com/@ABC) (Clips and trailers)
 
 [**A&E**](https://www.youtube.com/@AETV) (Clips)
-
-[**AMC**](https://www.youtube.com/@amc) (Clips, trailers, and behind-the-scenes for shows like The Walking Dead)
 
 [**Animation World Network**](https://www.youtube.com/@AWN-AnimationWorldNetwork) (Trailers, clips and Featurettes from upcoming animated movies (including fully animated movies and CG animated movies/movies who use a lot of CGI constantly))
 
@@ -633,15 +623,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**A Touch of Evil**](https://www.youtube.com/channel/UCHgm6IUmnTV2aAMMCSPq8zA/featured) (Horror)
 
-[**Adani Cinema**](https://www.youtube.com/@AdaniCinema) (Full Indian movies)
-
 [**Air Bud TV**](https://www.youtube.com/@airbudtv) (All Air Bud movies plus other family movies)
 
 [**Amazon MGM Studios**](https://www.youtube.com/@AmazonMGMStudios) (Clips and trailers)
 
 [**Artflix - Movie Classics**](https://www.youtube.com/channel/UCNcUc5v0Kt5afE_jcbbZUBQ/featured) (General Movies)
-
-[**Barbarella X: The Sci-Fi Queen**](https://www.youtube.com/@BarbarellaX) (Classic sci-fi and exploitation films)
 
 [**Blockbuster English Movies**](https://www.youtube.com/@blockbusterenglishmovies) (Full movies)
 
@@ -654,8 +640,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**CineMo**](https://www.youtube.com/@CineMoChannel) (Full Tagalog/Filipino classic and dubbed movies)
 
 [**CineRings Productions**](https://www.youtube.com/@CineRingsproductions)
-
-[**Classic Cinema Online**](https://www.youtube.com/@ClassicCinemaOnline) (A collection of public domain films)
 
 [**Cult Cinema Classics**](https://www.youtube.com/@CultCinemaClassics) (Full-length cult classic films)
 
@@ -717,17 +701,13 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Shout! Factory TV**](https://www.youtube.com/@ShoutFactoryTV) (Officially licensed full movies and TV shows from various genres)
 
-[**Sony Pictures Classics**](https://www.youtube.com/@sonyclassics) (Trailers for indie, arthouse, and foreign films)
+[**Sony Pictures Classics**](https://www.youtube.com/@SonyPicturesClassics) (Trailers for indie, arthouse, and foreign films)
 
 [**Spider-Man**](https://www.youtube.com/spiderman) (Clips, extras and Movie tie-ins like "the spider within")
 
 [**The Asylum**](https://www.youtube.com/@theasylum) (The official home for trailers of mockbusters and B-movies)
-
-[**The Paramount Vault**](https://www.youtube.com/@TheParamountVault) (Clips from classic Paramount films, occasionally full movies)
-
-[**Timeless Classic Movies**](https://www.youtube.com/@TimelessClassicMovies) (Public domain classic movies from the Golden Age of Hollywood)
-
-[**TromaMovies**](https://www.youtube.com/@Tromamovies) (Official channel for Troma Entertainment's cult B-movies)
+ 
+[**Timeless Classic Movies**](https://www.youtube.com/@TimelessClassicMovies) (Public domain classic movies from the Golden Age of Hollywood
 
 [**Universal Horror**](https://www.youtube.com/@universalhorror) (Clips and compilations from the classic Universal Monsters films)
 
@@ -777,8 +757,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Cops**](https://www.youtube.com/@CopsTV) (Full episodes, clips and best of)
 
-[**Deadliest Catch**](https://www.youtube.com/@DeadliestCatch) (Clips from the Discovery show)
-
 [**Doctor Who**](https://www.youtube.com/@DoctorWho) (Clips, behind-the-scenes, and classic moments)
 
 [**Dr. Phil**](https://www.youtube.com/drphil)
@@ -801,8 +779,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**House M.D.**](https://www.youtube.com/@HouseM.D.) (Mostly scenes from episodes)
 
-[**Impractical Jokers**](https://www.youtube.com/@impracticaljokers) (Clips and compilations from the truTV series)
-
 [**Inside Edition**](https://www.youtube.com/@InsideEdition) (Full segments from the newsmagazine show)
 
 [**Jail**](https://www.youtube.com/@JailTVShow) (Multiple languages, some clips)
@@ -812,8 +788,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Kitchen Nightmares**](https://www.youtube.com/@KitchenNightmares) (Clips, full episodes and full seasons)
 
 [**Law & Order**](https://www.youtube.com/@LawAndOrderNBC) (Long clips and compilations)
-
-[**Little House on the Prairie**](https://www.youtube.com/@LittleHouseonthePrairie) (Clips and full episodes)
 
 [**Master Chef UK**](https://www.youtube.com/@MasterChefUK) (Full episodes and clips)
 
@@ -857,13 +831,13 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Taskmaster**](https://www.youtube.com/@Taskmaster) (Clips, full episodes, trailers and single tasks)
 
-[**The Bob Ross Channel**](https://www.youtube.com/@BobRoss) (Full episodes of "The Joy of Painting")
+[**The Bob Ross Channel**](https://www.youtube.com/@bobross_thejoyofpainting) (Full episodes of "The Joy of Painting")
 
-[**The Carol Burnett Show**](https://www.youtube.com/@TheCarolBurnettShow) (Official clips and sketches)
+[**The Carol Burnett Show**](https://www.youtube.com/@CarolBurnettShow) (Official clips and sketches)
 
 [**The F Word**](https://www.youtube.com/@theFword) (Big clips, full episodes and extras)
 
-[**The Graham Norton Show**](https://www.youtube.com/@TheGNShow) (Clips and compilations from the popular talk show)
+[**The Graham Norton Show**](https://www.youtube.com/@OfficialGrahamNorton) (Clips and compilations from the popular talk show)
 
 [**The Grand Tour**](https://youtube.com/@thegrandtour) (Clips)
 
@@ -875,7 +849,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Tonight Show Starring Jimmy Fallon**](https://www.youtube.com/@fallontonight) (Full interviews, sketches, and games)
 
-[**The Late Show with Stephen Colbert**](https://www.youtube.com/@TheLateShow) (Full interviews, monologues, and sketches)
+[**The Late Show with Stephen Colbert**](https://www.youtube.com/@ColbertLateShow) (Full interviews, monologues, and sketches)
 
 [**The Walking Dead**](https://www.youtube.com/@thewalkingdead) (Clips, trailers, and behind-the-scenes content)
 
@@ -889,7 +863,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Unconventional**](https://www.youtube.com/@Unconventional-Newsweek) (Clips, parts from episodes, exclusive content...)
 
-[**Unsolved Mysteries**](https://www.youtube.com/@UnsolvedMysteries) (Full episodes of the classic series)
+[**Unsolved Mysteries**](https://www.youtube.com/@UnsolvedMysteriesFullEpisodes) (Full episodes of the classic series)
 
 [**Versus**](https://www.youtube.com/@versusshows) (Panel Shows)
 
@@ -899,7 +873,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Who Wants To Be A Millionaire?**](https://www.youtube.com/@millionaireuk) (Clips and Compilations)
 
-[**Whose Line Is It Anyway?**](https://www.youtube.com/@whose_line_is_it_anyway) (Clips from the improv comedy show)
+[**Whose Line Is It Anyway?**](https://www.youtube.com/@WhoseLineIsItAnyway) (Clips from the improv comedy show)
 
 [**Wipeout**](https://www.youtube.com/@WipeoutWorldwide) (Clips and full episodes)
 
@@ -949,7 +923,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**RISE | Visual Effects Studios**](https://www.youtube.com/@RISE_FX)
 
-[**Rodeo FX**](https://youtube.com/@rodeo_fx)
+[**Rodeo FX**](https://www.youtube.com/@Rodeo_FX)
 
 [**RSP VFX**](https://youtube.com/@rspvfx1500)
 
@@ -971,7 +945,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**All Elite Wrestling**](https://www.youtube.com/@AEW) (Clips, highlights, and full matches)
 
-[**BadmintonWorld.tv**](https://www.youtube.com/@bwftv) (Official BWF channel with live matches and highlights)
+[**BWF**](https://www.youtube.com/@BWF) (Official BWF channel with live matches and highlights)
 
 [**beIN SPORTS Asia**](https://www.youtube.com/@beINSPORTSAsia/)
 
@@ -1107,7 +1081,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Omeleto**](https://www.youtube.com/@Omeleto/)
 
-[**Rodeo FX**](https://www.youtube.com/@RodeoFX) (VFX studio that also produces original animated shorts)
+[**Rodeo FX**](https://www.youtube.com/@Rodeo_FX) (VFX studio that also produces original animated shorts)
 
 [**Short of the Week**](https://www.youtube.com/@shortoftheweek/)
 
