@@ -757,6 +757,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Cops**](https://www.youtube.com/@CopsTV) (Full episodes, clips and best of)
 
+[**Classic TV Channel**](https://www.youtube.com/@classictvchannels/) (Remastered and restored classic TV shows from the 1940s-1960s, including full episodes of *Bonanza* and *Dragnet*.)
+
 [**Doctor Who**](https://www.youtube.com/@DoctorWho) (Clips, behind-the-scenes, and classic moments)
 
 [**Dr. Phil**](https://www.youtube.com/drphil)
@@ -876,7 +878,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Wipeout**](https://www.youtube.com/@WipeoutWorldwide) (Clips and full episodes)
 
 [**Young Sheldon**](https://www.youtube.com/@YoungSheldonOfficial) (Clips)
-[**Classic TV Channel**](https://www.youtube.com/channel/UCNCAEXQK6M8wU0kOcFa6gng/playlists) (Remastered and restored classic TV shows from the 1940s-1960s, including full episodes of *Bonanza* and *Dragnet*.)
 
 ### VFX Breakdown
 
