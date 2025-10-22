@@ -1049,7 +1049,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**FIFA**](https://www.youtube.com/@fifa)
 
-[**FIM Ice Speedway Gladiators**](https://www.youtube.com/@FIMicespeedway) (Motorcycle racing on ice)
+[**fim-moto**](https://www.youtube.com/@fim-moto) (Motorcycle racing )
 
 [**Formula 1**](https://youtube.com/@formula1) (Highlights) (Du du du du [Max Verstappen](https://www.youtube.com/@MaxVerstappen1))
 
@@ -1061,17 +1061,15 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**House of Highlights**](https://www.youtube.com/@HouseofHighlights) (Sports clips and compilations)
 
-[**Impact Wrestling**](https://www.youtube.com/@impactwrestling) (Full matches and weekly show episodes)
-
 [**INDYCAR on FOX**](https://www.youtube.com/@indycaronfox) (Highlights, clips, interviews and extras)
 
 [**International Judo Federation**](https://www.youtube.com/@judo) (Live events and highlights)
 
-[**JOY World Heyball Tour**](https://www.youtube.com/@JOYWorldHeyballTour)
+[**World Heyball Tour**](https://www.youtube.com/@WorldHeyballTour)
 
 [**LaLiga**](https://www.youtube.com/@LaLiga) (Official Spanish football league channel)
 
-[**Ligue 1 Uber Eats**](https://www.youtube.com/@Ligue1UberEats) (Official French football league channel)
+[**Ligue 1**](https://www.youtube.com/@Ligue1) (Official French football league channel)
 
 [**Major League Soccer**](https://www.youtube.com/@mls) (Clips, highlights and extras)
 
