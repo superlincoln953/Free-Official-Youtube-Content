@@ -203,25 +203,17 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Alphablocks**](https://www.youtube.com/@officialalphablocks) (Full episodes focused on teaching phonics)
 
-[**BabyBus - Nursery Rhymes & Kids Songs**](https://www.youtube.com/@BabyBus_TV) (Animated nursery rhymes and educational content for toddlers)
-
 [**Barbie**](https://www.youtube.com/@barbie) (Full episodes of Barbie series, movies, and vlogs)
 
 [**Blippi - Educational Videos for Kids**](https://www.youtube.com/@Blippi) (Full episodes of the popular kids show)
 
 [**Bluey**](https://www.youtube.com/@BlueyOfficialChannel) (Clips and compilations)
 
-[**Brave Wilderness**](https://www.youtube.com/@BraveWilderness) (Animal adventure shows for kids and families)
-
 [**Cartoonito**](https://www.youtube.com/@cartoonito) (Mostly clips, some full episodes)
 
 [**CBBC**](https://www.youtube.com/CBBC) (Clips and compilations)
 
 [**Clifford the Big Red Dog Classic-Scholastic**](https://www.youtube.com/@CliffordtheBigRedDogClassic) (Full episodes, clips and compilations from various classic Clifford cartoons)
-
-[**Cosmic Kids Yoga**](https://www.youtube.com/@CosmicKidsYoga) (Yoga, mindfulness, and relaxation for kids)
-
-[**Daniel Tiger's Neighborhood**](https://www.youtube.com/@danieltiger) (Full episodes and clips from the PBS Kids show)
 
 [**Disney Channel**](https://www.youtube.com/@disneychannel) (Mostly clips and compilations but some full episodes)
 
@@ -233,15 +225,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**GoNoodle | Get Moving**](https://www.youtube.com/@GoNoodle) (Movement and mindfulness videos for kids)
 
-[**Hey Duggee Official**](https://www.youtube.com/@HeyDuggee) (Full episodes and clips from the popular CBeebies show)
-
 [**Horrid Henry**](https://www.youtube.com/@HorridHenry) (Full episodes of the British animated series)
 
-[**Kids Diana Show**](https://www.youtube.com/@KidsDianaShow) (Popular kids vlog and pretend play channel)
-
 [**LEGO**](https://www.youtube.com/@LEGO) (Full episodes of LEGO series like Ninjago, music videos, and product content)
-
-[**Little Baby Bum**](https://www.youtube.com/@LittleBabyBum) (3D animated nursery rhymes and songs)
 
 [**Masha and The Bear**](https://www.youtube.com/@MashaBearEN) (Full episodes and compilations)
 
@@ -263,8 +249,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Numberblocks**](https://www.youtube.com/@Numberblocks) (Full episodes that teach math concepts)
 
-[**Paw Patrol**](https://www.youtube.com/@pawpatrol) (Official clips and compilations, sometimes full episodes)
-
 [**PBS Kids**](https://www.youtube.com/@PBSKIDS) (Mostly clips, some full episodes)
 
 [**Peacock jr**](https://www.youtube.com/@peacockjr) (Clips and compilations)
@@ -281,25 +265,17 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Sesame Street**](https://www.youtube.com/@sesamestreet) (Full episodes, classic clips, and songs)
 
-[**Simple Kids Crafts**](https://www.youtube.com/@simplekidscrafts) (DIY craft videos for children)
-
 [**Spookiz**](https://www.youtube.com/@spookiz) (Marathons, Full episodes, shorts and the official Movie)
 
 [**Star Wars Kids**](https://www.youtube.com/@StarWarsKids) (Mostly clips but some full episodes)
-
-[**Storybots**](https://www.youtube.com/@storybots) (Official music videos and clips from the Netflix series)
 
 [**Studio100 KIDS**](https://www.youtube.com/@studio100kids) (Full episodes)
 
 [**Super Simple Songs**](https://www.youtube.com/@SuperSimpleSongs) (Original and classic nursery rhymes for young children)
 
-[**T-Rex Ranch**](https://www.youtube.com/@TRexRanch) (Fun and educational dinosaur adventures for kids)
-
 [**The Backyardigans**](https://www.youtube.com/@TheBackyardigansOfficial) (Mostly clips and full episodes)
 
 [**The Berenstain Bears**](https://www.youtube.com/@OfficialBerenstainBears) (Multiple Languages)
-
-[**The Brain Scoop**](https://www.youtube.com/@thebrainscoop) (Educational videos from The Field Museum in Chicago)
 
 [**The Pink Panther**](https://www.youtube.com/@PinkPanther) (Clips and compilations)
 
@@ -316,8 +292,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**WildBrain Kids**](https://www.youtube.com/@WildBrainKids) (Compilations and full episodes)
 
 [**Winx Club Official**](https://youtube.com/@winxclub) (Full Episodes, clips and compilations)
-
-[**Zoboomafoo**](https://www.youtube.com/@ZoboomafooWildBrain) (Full episodes)
 
 ### Documentaries
 
