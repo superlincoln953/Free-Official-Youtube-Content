@@ -101,8 +101,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Right Stuf Anime**](https://www.youtube.com/@RightStufAnime) (Promotional content, unboxings, and industry news)
 
-[**Studio Ghibli Official**](https://www.youtube.com/@ghibli_channel) (Official Japanese channel posting Studio Ghibli movie clips, behind-the-scenes features, interviews, trailers, and event specials from legendary films like Spirited Away, My Neighbor Totoro, and Princess Mononoke.)
-
 [**Shonen Jump**](https://www.youtube.com/@jumpchannel) (Promotional videos and trailers for their manga and related anime)
 
 [**Studio Pierrot**](https://www.youtube.com/@studio_pierrot) (Official channel with clips and special content from their shows like Naruto and Bleach)
@@ -534,6 +532,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**KBS Entertain**](https://www.youtube.com/@kbsent) (Clips, only in Korean, no English)
 
 [**KBS WORLD TV**](https://www.youtube.com/@kbsworldtv) (Free Korean TV channel, has english and chinese sub)
+
+[**Life Noggin**](https://www.youtube.com/c/LifeNoggin) (Simple quirky animations exploring science and philosophy topics, from human biology to space and existential questions, hosted by the animated character Blocko. This channel is engaging for learners curious about scientific principles and thought-provoking concepts.)
 
 [**Lionsgate Movies**](https://www.youtube.com/@LionsgateMovies) (Trailers and some extra content)
 
