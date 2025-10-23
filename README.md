@@ -129,11 +129,15 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Cartoon Network UK**](https://www.youtube.com/@cartoonnetworkuk) (Some full episodes, mostly clips and compilations)
 
+[**Cartoon Network India**](https://www.youtube.com/@cnindia) (Official Cartoon Network India channel with shows in English and Hindi)
+
 [**Code Lyoko English Official**](https://www.youtube.com/@CODELYOKOENGLISHOFFICIAL) (Full episodes and compilations, in English)
 
 [**Code Lyoko Officiel**](https://www.youtube.com/@codelyokoofficiel7410) (Full episodes and compilations, French only)
 
 [**Cyanide & Happiness**](https://www.youtube.com/@ExplosmEntertainment) (Official shorts and compilations)
+
+[**Discovery Kids India**](https://www.youtube.com/@DiscoveryKidsIN) (Official cartoons & animated movie content for children in multiple Indian languages)
 
 [**Disney Channel Animation**](https://www.youtube.com/@disneychannelanimation) (Mostly Clips, compilations and extras but some full seasons like [Tangled: The Series/Rapunzel's Tangled Adventure Season 1 (TTS/RTA)](https://www.youtube.com/playlist?list=PLiv1IUQDVSNIqxjX4rzvIMw7EjwGspqGt) (Underrated Animated Series with some great songs, basically it is Tangled 2, but beware its hour-long pilot episode is Tangled: Before Ever After (TV Movie 2017) and not its episode 1 "What the Hair?!" | [TTS/RTA Episode Guide](https://www.reddit.com/r/Tangled/comments/ekn533/rapunzels_tangled_adventure_episode_guide/)) and [The Owl House Season 3](https://www.youtube.com/watch?v=Jg2i4vqSFxM) and some full episodes)
 
@@ -150,6 +154,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Garfield & Friends**](https://www.youtube.com/@GarfieldAndFriends) (Full episodes of the classic cartoon)
 
 [**GLITCH**](https://www.youtube.com/@GLITCH) (ALL Full seasons and episodes)
+
+[**Green Gold TV**](https://www.youtube.com/@GreenGoldTV) (Official Green Gold Animation channel — creators of Chhota Bheem, Mighty Little Bheem & Super Bheem)
 
 [**Johnny Test**](https://www.youtube.com/@JohnnyTest) (Multiple languages)
 
@@ -200,6 +206,10 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**WB Kids**](https://www.youtube.com/@WBKids) (A mix of clips and full episodes from the Warner Bros. animation library)
 
 [**WildBrain Max**](https://www.youtube.com/@WildBrainMax) (Compilations of full seasons, related channels with extra content)
+
+[**WowKidz Movies**](https://www.youtube.com/@WowKidzMovies) (Official kids’ animated movies and popular cartoon characters like Motu Patlu in Hindi)
+
+[**Zee Kids**](https://www.youtube.com/@ZeeKids) (Official Zee Kids channel featuring Hindi cartoons and animated comedy shows for children)
 
 [**Zig & Sharko**](https://www.youtube.com/@ZigandSharko) (Full episodes of the slapstick animated series)
 
