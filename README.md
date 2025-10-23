@@ -955,7 +955,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**All Elite Wrestling**](https://www.youtube.com/@AEW) (Clips, highlights, and full matches)
 
-[**Badminton World Federation**](https://www.youtube.com/@BWF) (Official BWF channel with live matches and highlights)
+[**Badminton World Federation TV**](https://www.youtube.com/@BWF) (Official BWF channel with live matches and highlights)
 
 [**beIN SPORTS Asia**](https://www.youtube.com/@beINSPORTSAsia/)
 
