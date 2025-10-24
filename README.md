@@ -1121,29 +1121,29 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Black Hat**](https://www.youtube.com/@BlackHatOfficialYT) (Official channel for Black Hat cybersecurity conferences, featuring full briefings and talks from events)
 
+[**Black Hills Information Security**](https://www.youtube.com/@BlackHillsInformationSecurity) (Official channel for the BHIS penetration testing company, featuring webcasts and talks on current security threats)
+
+[**CrowdStrike**](https://www.youtube.com/@CrowdStrike) (Official channel for the endpoint security company, featuring threat intelligence and security briefs)
+
+[**CISA**](https://www.youtube.com/@CISAgov) (Official channel for the US Cybersecurity and Infrastructure Security Agency, sharing alerts and best practices)
+
 [**DEF CON**](https://www.youtube.com/@DEFCONConference) (Official channel for the DEF CON hacking conference, with full talks and presentations from past events)
+
+[**Hak5**](https://www.youtube.com/@hak5) (Official channel for the Hak5 team, creators of pentesting hardware like the WiFi Pineapple and USB Rubber Ducky)
+
+[**OWASP**](https://www.youtube.com/@OWASPGLOBAL) (The official channel for the Open Web Application Security Project, providing resources and talks on web application security)
+
+[**Offensive Security**](https://www.youtube.com/@OffSecTraining) (Official channel from the creators of Kali Linux and the OSCP certification, with webinars and training content)
+
+[**PortSwigger**](https://www.youtube.com/@PortSwiggerTV) (Official channel from the makers of Burp Suite, featuring tutorials on web application security and bug bounty hunting)
+
+[**Rapid7**](https://www.youtube.com/@OfficialRapid7) (Official channel for the company behind Metasploit, sharing security research, webcasts, and product tutorials)
 
 [**RSA Conference**](https://www.youtube.com/@RSAConference) (Official channel for the RSA Conference, covering a wide range of cybersecurity topics, insights, and keynotes)
 
 [**SANS Institute**](https://www.youtube.com/@SANSInstitute) (The official channel for SANS, a leader in cybersecurity training, sharing webcasts and talks on digital forensics and security)
 
-[**OWASP**](https://www.youtube.com/@OWASPGLOBAL) (The official channel for the Open Web Application Security Project, providing resources and talks on web application security)
-
-[**CISA**](https://www.youtube.com/@CISAgov) (Official channel for the US Cybersecurity and Infrastructure Security Agency, sharing alerts and best practices)
-
-[**Offensive Security**](https://www.youtube.com/@OffSecTraining) (Official channel from the creators of Kali Linux and the OSCP certification, with webinars and training content)
-
-[**Hak5**](https://www.youtube.com/@hak5) (Official channel for the Hak5 team, creators of pentesting hardware like the WiFi Pineapple and USB Rubber Ducky)
-
-[**PortSwigger**](https://www.youtube.com/@PortSwiggerTV) (Official channel from the makers of Burp Suite, featuring tutorials on web application security and bug bounty hunting)
-
-[**Black Hills Information Security**](https://www.youtube.com/@BlackHillsInformationSecurity) (Official channel for the BHIS penetration testing company, featuring webcasts and talks on current security threats)
-
-[**Rapid7**](https://www.youtube.com/@OfficialRapid7) (Official channel for the company behind Metasploit, sharing security research, webcasts, and product tutorials)
-
 [**Tenable**](https://www.youtube.com/@Tenable) (Official channel for the creators of Nessus, focusing on vulnerability management and exposure)
-
-[**CrowdStrike**](https://www.youtube.com/@CrowdStrike) (Official channel for the endpoint security company, featuring threat intelligence and security briefs)
 
 ---
 
