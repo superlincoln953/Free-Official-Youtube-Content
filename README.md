@@ -233,6 +233,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Clifford the Big Red Dog Classic-Scholastic**](https://www.youtube.com/@CliffordtheBigRedDogClassic) (Full episodes, clips and compilations from various classic Clifford cartoons)
 
+[**Crash Course Kids**](https://www.youtube.com/@CrashCourseKids) (Educational videos for kids on science, space, and natural phenomena)  
+
 [**Disney Channel**](https://www.youtube.com/@disneychannel) (Mostly clips and compilations but some full episodes)
 
 [**Disney Jr.**](https://www.youtube.com/@disneyjr) (Mostly clips and compilations but some full episodes)
@@ -291,6 +293,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Super Simple Songs**](https://www.youtube.com/@SuperSimpleSongs) (Original and classic nursery rhymes for young children)
 
+[**StoryBots**](https://www.youtube.com/@StoryBots) (Educational and fun animated videos answering kids’ questions)  
+
 [**The Backyardigans**](https://www.youtube.com/@TheBackyardigansOfficial) (Mostly clips and full episodes)
 
 [**The Berenstain Bears**](https://www.youtube.com/@OfficialBerenstainBears) (Multiple Languages)
@@ -310,6 +314,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**WildBrain Kids**](https://www.youtube.com/@WildBrainKids) (Compilations and full episodes)
 
 [**Winx Club Official**](https://youtube.com/@winxclub) (Full Episodes, clips and compilations)
+
+
+
 
 ### Documentaries
 
