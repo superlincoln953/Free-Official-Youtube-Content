@@ -65,6 +65,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Bushiroad Official Channel**](https://www.youtube.com/@bushi_PR) (Promotional content, clips, and sometimes full episodes related to their franchises)
 
+[**Bandai Namco Filmworks Channel**](https://www.youtube.com/@bandainamcofilmworks/)
+
 [**Cartoon PowerUP**](https://www.youtube.com/@CartoonPowerUp) (Inactive, mostly anime, some cartoons)
 
 [**Crunchyroll Collection**](https://www.youtube.com/@crunchyroll) (Clips, trailers, and openings/endings from popular anime)
