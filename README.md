@@ -1133,6 +1133,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Hak5**](https://www.youtube.com/@hak5) (Official channel for the Hak5 team, creators of pentesting hardware like the WiFi Pineapple and USB Rubber Ducky)
 
+[**Microsoft Security**](https://www.youtube.com/@MicrosoftSecurity) (The official channel from Microsoft, featuring content on their security products (like Microsoft Sentinel, Defender, and Entra ID), threat intelligence reports, and full presentations from security events)
+
 [**Offensive Security**](https://www.youtube.com/@OffSecTraining) (Official channel from the creators of Kali Linux and the OSCP certification, with webinars and training content)
 
 [**OWASP**](https://www.youtube.com/@OWASPGLOBAL) (The official channel for the Open Web Application Security Project, providing resources and talks on web application security)
