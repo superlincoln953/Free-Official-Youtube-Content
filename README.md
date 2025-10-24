@@ -359,7 +359,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**DW Documentary**](https://www.youtube.com/@DWDocumentary)
 
-[**European Space Agency, ESA**](https://www.youtube.com/@EuropeanSpaceAgency) (live, Informative videos and footage recorded from rockets in space)
+[**European Space Agency/ESA**](https://www.youtube.com/@EuropeanSpaceAgency) (live, Informative videos and footage recorded from rockets in space)
 
 [**Free Documentary**](https://youtube.com/@freedocumentary)
 
