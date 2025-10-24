@@ -7,6 +7,7 @@ Don't know how to code? Great! This project is for you! We welcome contributions
 * **Follow the Markdown format.**
 * If a channel is in any way linked to something that you normally have to pay to see, and the channel is active and posts related content to it, then add it and write a short description of the type of content. 
 * **Fix valid issues** by opening an issue or submitting a pull request.
+* **This list is sorted by A-Z**
 * This list will **only focus on official YouTube channels** who have the rights to post the content online; **no unofficial uploaders are allowed.**
 * Feel free to send links to other official channels that post Movies, TV Shows, Cartoons, or Kids content. **Specify the language** if it's not an English channel.
 * Try to keep the links in the format: `https://www.youtube.com/@ChannelName`.
