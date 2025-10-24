@@ -65,6 +65,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Bushiroad Official Channel**](https://www.youtube.com/@bushi_PR) (Promotional content, clips, and sometimes full episodes related to their franchises)
 
+[**Bandai Namco Filmworks Channel**](https://www.youtube.com/@bandainamcofilmworks/)
+
 [**Cartoon PowerUP**](https://www.youtube.com/@CartoonPowerUp) (Inactive, mostly anime, some cartoons)
 
 [**Crunchyroll Collection**](https://www.youtube.com/@crunchyroll) (Clips, trailers, and openings/endings from popular anime)
@@ -1119,31 +1121,31 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 ### Tech & Security
 
-* [**Black Hat**](https://www.youtube.com/@BlackHatOfficialYT) (Official channel for Black Hat cybersecurity conferences, featuring full briefings and talks from events)
+[**Black Hat**](https://www.youtube.com/@BlackHatOfficialYT) (Official channel for Black Hat cybersecurity conferences, featuring full briefings and talks from events)
 
-* [**Black Hills Information Security**](https://www.youtube.com/@BlackHillsInformationSecurity) (Official channel for the BHIS penetration testing company, featuring webcasts and talks on current security threats)
+[**Black Hills Information Security**](https://www.youtube.com/@BlackHillsInformationSecurity) (Official channel for the BHIS penetration testing company, featuring webcasts and talks on current security threats)
 
-* [**CISA**](https://www.youtube.com/@CISAgov) (Official channel for the US Cybersecurity and Infrastructure Security Agency, sharing alerts and best practices)
+[**CISA**](https://www.youtube.com/@CISAgov) (Official channel for the US Cybersecurity and Infrastructure Security Agency, sharing alerts and best practices)
 
-* [**CrowdStrike**](https://www.youtube.com/@CrowdStrike) (Official channel for the endpoint security company, featuring threat intelligence and security briefs)
+[**CrowdStrike**](https://www.youtube.com/@CrowdStrike) (Official channel for the endpoint security company, featuring threat intelligence and security briefs)
 
-* [**DEF CON**](https://www.youtube.com/@DEFCONConference) (Official channel for the DEF CON hacking conference, with full talks and presentations from past events)
+[**DEF CON**](https://www.youtube.com/@DEFCONConference) (Official channel for the DEF CON hacking conference, with full talks and presentations from past events)
 
-* [**Hak5**](https://www.youtube.com/@hak5) (Official channel for the Hak5 team, creators of pentesting hardware like the WiFi Pineapple and USB Rubber Ducky)
+[**Hak5**](https://www.youtube.com/@hak5) (Official channel for the Hak5 team, creators of pentesting hardware like the WiFi Pineapple and USB Rubber Ducky)
 
-* [**Offensive Security**](https://www.youtube.com/@OffSecTraining) (Official channel from the creators of Kali Linux and the OSCP certification, with webinars and training content)
+[**Offensive Security**](https://www.youtube.com/@OffSecTraining) (Official channel from the creators of Kali Linux and the OSCP certification, with webinars and training content)
 
-* [**OWASP**](https://www.youtube.com/@OWASPGLOBAL) (The official channel for the Open Web Application Security Project, providing resources and talks on web application security)
+[**OWASP**](https://www.youtube.com/@OWASPGLOBAL) (The official channel for the Open Web Application Security Project, providing resources and talks on web application security)
 
-* [**PortSwigger**](https://www.youtube.com/@PortSwiggerTV) (Official channel from the makers of Burp Suite, featuring tutorials on web application security and bug bounty hunting)
+[**PortSwigger**](https://www.youtube.com/@PortSwiggerTV) (Official channel from the makers of Burp Suite, featuring tutorials on web application security and bug bounty hunting)
 
-* [**Rapid7**](https://www.youtube.com/@OfficialRapid7) (Official channel for the company behind Metasploit, sharing security research, webcasts, and product tutorials)
+[**Rapid7**](https://www.youtube.com/@OfficialRapid7) (Official channel for the company behind Metasploit, sharing security research, webcasts, and product tutorials)
 
-* [**RSA Conference**](https://www.youtube.com/@RSAConference) (Official channel for the RSA Conference, covering a wide range of cybersecurity topics, insights, and keynotes)
+[**RSA Conference**](https://www.youtube.com/@RSAConference) (Official channel for the RSA Conference, covering a wide range of cybersecurity topics, insights, and keynotes)
 
-* [**SANS Institute**](https://www.youtube.com/@SANSInstitute) (The official channel for SANS, a leader in cybersecurity training, sharing webcasts and talks on digital forensics and security)
+[**SANS Institute**](https://www.youtube.com/@SANSInstitute) (The official channel for SANS, a leader in cybersecurity training, sharing webcasts and talks on digital forensics and security)
 
-* [**Tenable**](https://www.youtube.com/@Tenable) (Official channel for the creators of Nessus, focusing on vulnerability management and exposure)
+[**Tenable**](https://www.youtube.com/@Tenable) (Official channel for the creators of Nessus, focusing on vulnerability management and exposure)
 
 ---
 
