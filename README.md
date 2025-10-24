@@ -219,6 +219,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Clifford the Big Red Dog Classic-Scholastic**](https://www.youtube.com/@CliffordtheBigRedDogClassic) (Full episodes, clips and compilations from various classic Clifford cartoons)
 
+[**Cocomelon**](https://www.youtube.com/@Cocomelon) git stat(Animated music videos of traditional nursery rhymes and original children’s songs)
+
 [**Disney Channel**](https://www.youtube.com/@disneychannel) (Mostly clips and compilations but some full episodes)
 
 [**Disney Jr.**](https://www.youtube.com/@disneyjr) (Mostly clips and compilations but some full episodes)
@@ -532,8 +534,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**KBS Entertain**](https://www.youtube.com/@kbsent) (Clips, only in Korean, no English)
 
 [**KBS WORLD TV**](https://www.youtube.com/@kbsworldtv) (Free Korean TV channel, has english and chinese sub)
-
-[**Life Noggin**](https://www.youtube.com/c/LifeNoggin) (Simple quirky animations exploring science and philosophy topics, from human biology to space and existential questions, hosted by the animated character Blocko. This channel is engaging for learners curious about scientific principles and thought-provoking concepts.)
 
 [**Lionsgate Movies**](https://www.youtube.com/@LionsgateMovies) (Trailers and some extra content)
 
