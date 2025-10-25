@@ -797,8 +797,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Game of Thrones**](https://www.youtube.com/@gameofthrones) (Clips and full podcast episodes)
 
-[**Game Show Central**](https://www.youtube.com/@GameShowCentral) (Official channel from Fremantle, posts full episodes and clips of classic game shows like *Family Feud* and *The Price is Right*)
-
 [**Game Show Network**](https://www.youtube.com/@GameShowNetwork) (Clips from classic and modern game shows)
 
 [**Gordon Ramsay**](https://www.youtube.com/GordonRamsay) (Clips and full episodes from the shows he's in)
