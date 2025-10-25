@@ -455,6 +455,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**USCSB**](https://www.youtube.com/@USCSB) (Informative videos made by U.S. Chemical Safety and Hazard Investigation Board)
 
+[**VICE**](https://www.youtube.com/@VICE) (Clips and full-length documentaries on modern culture, news, and fringe topics)
+
 [**War Stories**](https://www.youtube.com/@WarStoriesChannel)
 
 [**Wonder**](https://www.youtube.com/@WonderDocs) (Full documentaries and full episodes from Documentary-TV shows)
@@ -651,6 +653,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Amazon MGM Studios**](https://www.youtube.com/@AmazonMGMStudios) (Clips and trailers)
 
+[**Arrow Video**](https://www.youtube.com/@ArrowVideo) (Official channel for the cult film distributor, posts trailers, video essays, and behind-the-scenes content)
+
 [**Artflix - Movie Classics**](https://www.youtube.com/channel/UCNcUc5v0Kt5afE_jcbbZUBQ/featured) (General Movies)
 
 [**Blockbuster English Movies**](https://www.youtube.com/@blockbusterenglishmovies) (Full movies)
@@ -795,6 +799,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Game of Thrones**](https://www.youtube.com/@gameofthrones) (Clips and full podcast episodes)
 
+[**Game Show Central**](https://www.youtube.com/@GameShowCentral) (Official channel from Fremantle, posts full episodes and clips of classic game shows like *Family Feud* and *The Price is Right*)
+
 [**Game Show Network**](https://www.youtube.com/@GameShowNetwork) (Clips from classic and modern game shows)
 
 [**Gordon Ramsay**](https://www.youtube.com/GordonRamsay) (Clips and full episodes from the shows he's in)
@@ -870,6 +876,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**The Office**](https://www.youtube.com/@TheOffice) (Clips and Compilation)
 
 [**The Resident**](https://www.youtube.com/@TheResidentonFOX) (Clips)
+
+[**The Shows Must Go On!**](https://www.youtube.com/@TheShowsMustGoOn) (Provides full-length performances of Andrew Lloyd Webber musicals and other official recordings of stage shows and concerts)
 
 [**The Tonight Show Starring Jimmy Fallon**](https://www.youtube.com/@fallontonight) (Full interviews, sketches, and games)
 
