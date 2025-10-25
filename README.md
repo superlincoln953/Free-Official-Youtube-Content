@@ -455,8 +455,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**USCSB**](https://www.youtube.com/@USCSB) (Informative videos made by U.S. Chemical Safety and Hazard Investigation Board)
 
-[**VICE**](https://www.youtube.com/@VICE) (Clips and full-length documentaries on modern culture, news, and fringe topics)
-
 [**War Stories**](https://www.youtube.com/@WarStoriesChannel)
 
 [**Wonder**](https://www.youtube.com/@WonderDocs) (Full documentaries and full episodes from Documentary-TV shows)
@@ -609,6 +607,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Royal Family Channel**](https://www.youtube.com/@royalchannel)
 
+[**The Shows Must Go On!**](https://www.youtube.com/@TheShowsMustGoOn) (Provides full-length performances of Andrew Lloyd Webber musicals and other official recordings of stage shows and concerts)
+
 [**truTV**](https://www.youtube.com/@trutv) (Clips)
 
 [**Universal Orlando Resort**](https://www.youtube.com/@UniversalOrlando)
@@ -652,8 +652,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Air Bud TV**](https://www.youtube.com/@airbudtv) (All Air Bud movies plus other family movies)
 
 [**Amazon MGM Studios**](https://www.youtube.com/@AmazonMGMStudios) (Clips and trailers)
-
-[**Arrow Video**](https://www.youtube.com/@ArrowVideo) (Official channel for the cult film distributor, posts trailers, video essays, and behind-the-scenes content)
 
 [**Artflix - Movie Classics**](https://www.youtube.com/channel/UCNcUc5v0Kt5afE_jcbbZUBQ/featured) (General Movies)
 
@@ -876,8 +874,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**The Office**](https://www.youtube.com/@TheOffice) (Clips and Compilation)
 
 [**The Resident**](https://www.youtube.com/@TheResidentonFOX) (Clips)
-
-[**The Shows Must Go On!**](https://www.youtube.com/@TheShowsMustGoOn) (Provides full-length performances of Andrew Lloyd Webber musicals and other official recordings of stage shows and concerts)
 
 [**The Tonight Show Starring Jimmy Fallon**](https://www.youtube.com/@fallontonight) (Full interviews, sketches, and games)
 
