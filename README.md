@@ -277,6 +277,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**PJ Masks Official**](https://www.youtube.com/@PJMasks) (Full episodes, clips, and music videos)
 
+[**Power Rangers Official**](https://www.youtube.com/@PowerRangersOfficial) (Classic Power Rangers seasons and exclusive content)
+
 [**Power Rangers Kids**](https://www.youtube.com/@PowerRangersKidsOfficial) (Full episodes and extra content)
 
 [**SciShow Kids**](https://www.youtube.com/@SciShowKids) (Videos explaining scientific concepts for young learners)
