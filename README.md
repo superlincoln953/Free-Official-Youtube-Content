@@ -981,6 +981,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**CBS Sports**](https://www.youtube.com/@CBSSports) (Highlights, analysis, and full game replays)
 
+[**ChessBase India**](https://www.youtube.com/@ChessBaseIndiachannel) (Highlights, analysis, and extras)
+
 [**Concaf**](https://www.youtube.com/@concacaf) (Football streams, highlights and more, go to the "Live" page for streams)
 
 [**DAZN Canada**](https://www.youtube.com/@dazncanada)
