@@ -1131,7 +1131,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**DEF CON**](https://www.youtube.com/@DEFCONConference) (Official channel for the DEF CON hacking conference, with full talks and presentations from past events)
 
-[**Hacker One**](https://www.youtube.com/@HackerOneTV) (HackerOne Platform combines AI with the ingenuity of the largest community of security researchers to find and fix security, privacy, and AI vulnerabilities across the software development lifecycle.)
+[**Hacker One**](https://www.youtube.com/@HackerOneTV) (HackerOne Channel with Hacker interviews and Hacking Conferences)
 
 [**Hak5**](https://www.youtube.com/@hak5) (Official channel for the Hak5 team, creators of pentesting hardware like the WiFi Pineapple and USB Rubber Ducky)
 
