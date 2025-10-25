@@ -48,19 +48,19 @@ def main():
     for i, link in enumerate(links, start=1):
         print(f"[{i}/{len(links)}] Checking: {link}")
         if not check_link_status(link):
-            print("❌ Broken / Unavailable")
+            print("Broken / Unavailable")
             broken_links.append(link)
         else:
-            print("✅ Valid")
+            print("Valid")
 
     # Save broken links
     if broken_links:
         with open("broken_links2.txt", "w", encoding="utf-8") as f:
             for link in broken_links:
                 f.write(link + "\n")
-        print(f"\n⚠️ {len(broken_links)} broken links found. Saved to broken_links2.txt")
+        print(f"\n {len(broken_links)} broken links found. Saved to broken_links2.txt")
     else:
-        print("\n🎉 No broken links found!")
+        print("\n No broken links found!")
 
 if __name__ == "__main__":
     main()
