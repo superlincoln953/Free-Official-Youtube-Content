@@ -447,6 +447,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Film Gate**](https://www.youtube.com/@Thefilmgate) (Stock Footage from historical films)
 
+[**The North Face**] (https://www.youtube.com/@TheNorthFace)
+
 [**The Modern Age**](https://www.youtube.com/@TheModernAgeHistoryChannel)
 
 [**Timeline**](https://www.youtube.com/@TimelineChannel)
@@ -528,6 +530,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**FX Networks**](https://www.youtube.com/@FXNetworks) (Trailers and clips from FX shows)
 
 [**GQ**](https://www.youtube.com/@GQ) (Interviews and style content)
+
+[**GOPRO**](https://www.youtube.com/gopro) (Products, POV's and awesome content)
 
 [**HBO**](https://www.youtube.com/@HBO)
 
@@ -973,6 +977,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**All Elite Wrestling**](https://www.youtube.com/@AEW) (Clips, highlights, and full matches)
 
+[**Arcteryx**](https://www.youtube.com/@arcteryx)
+
 [**Badminton World Federation/BWF TV**](https://www.youtube.com/@BWF) (Official BWF channel with live matches and highlights)
 
 [**beIN SPORTS Asia**](https://www.youtube.com/@beINSPORTSAsia/)
@@ -994,6 +1000,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**FIA World Endurance Championship**](https://www.youtube.com/@FIAWEC) (Live, clips, highlights and extras)
 
 [**FIA World Rally Championship**](https://www.youtube.com/@wrc) (Live, clips, highlights and extras)
+
+[**FIDE Chess**](https://www.youtube.com/@FIDE_chess) (Live, clips, highlights and extras)
 
 [**FIFA**](https://www.youtube.com/@fifa)
 
