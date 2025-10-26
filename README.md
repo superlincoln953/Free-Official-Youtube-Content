@@ -967,6 +967,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**ScanlineVFX**](https://youtube.com/@scanline_vfx)
 
+[**SET India**](https://www.youtube.com/@SETIndia)
+
 [**SideFX**](https://www.youtube.com/@sidefx) (Creators of Houdini, with extensive tutorials and breakdowns from pros)
 
 [**Sony Pictures Imageworks - VFX**](https://www.youtube.com/@ImageworksVFX/)
