@@ -531,6 +531,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**GQ**](https://www.youtube.com/@GQ) (Interviews and style content)
 
+[**GOPRO**](https://www.youtube.com/gopro) (Products, POV's and awesome content)
+
 [**HBO**](https://www.youtube.com/@HBO)
 
 [**HBO Max**](https://www.youtube.com/@hbomax) (Podcast episodes, clips, exclusive/extra content)
