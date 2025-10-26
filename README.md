@@ -447,6 +447,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Film Gate**](https://www.youtube.com/@Thefilmgate) (Stock Footage from historical films)
 
+[**The North Face**] (https://www.youtube.com/@TheNorthFace)
+
 [**The Modern Age**](https://www.youtube.com/@TheModernAgeHistoryChannel)
 
 [**Timeline**](https://www.youtube.com/@TimelineChannel)
