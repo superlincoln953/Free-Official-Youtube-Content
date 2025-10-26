@@ -447,6 +447,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Film Gate**](https://www.youtube.com/@Thefilmgate) (Stock Footage from historical films)
 
+[**The North Face**] (https://www.youtube.com/@TheNorthFace)
+
 [**The Modern Age**](https://www.youtube.com/@TheModernAgeHistoryChannel)
 
 [**Timeline**](https://www.youtube.com/@TimelineChannel)
@@ -528,6 +530,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**FX Networks**](https://www.youtube.com/@FXNetworks) (Trailers and clips from FX shows)
 
 [**GQ**](https://www.youtube.com/@GQ) (Interviews and style content)
+
+[**GOPRO**](https://www.youtube.com/gopro) (Products, POV's and awesome content)
 
 [**HBO**](https://www.youtube.com/@HBO)
 
