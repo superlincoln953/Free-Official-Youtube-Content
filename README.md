@@ -1011,6 +1011,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**INDYCAR on FOX**](https://www.youtube.com/@indycaronfox) (Highlights, clips, interviews and extras)
 
+[**Indian Super League**](https://www.youtube.com/@IndianSuperLeague) (HIghlights and Clips of Indian Super League)
+
 [**International Judo Federation**](https://www.youtube.com/@judo) (Live events and highlights)
 
 [**World Heyball Tour**](https://www.youtube.com/@WorldHeyballTour)
