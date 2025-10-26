@@ -181,6 +181,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Oggy and the Cockroaches**](https://www.youtube.com/@oggy) (full episodes and live re-runs of seasons)
 
+[**Peacock**](https://www.youtube.com/@peacock) (Clips of TV shows)
+
 [**Popeye And Friends Official**](https://www.youtube.com/@PopeyeAndFriendsOfficial) (Classic Popeye cartoons)
 
 [**Retro Rerun TV**](https://www.youtube.com/@RetroRerunTV) (Miscellaneous cartoons, TV shows and anime)
