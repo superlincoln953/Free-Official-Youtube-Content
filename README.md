@@ -995,6 +995,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**FIA World Rally Championship**](https://www.youtube.com/@wrc) (Live, clips, highlights and extras)
 
+[**FIDE Chess**](https://www.youtube.com/@FIDE_chess) (Live, clips, highlights and extras)
+
 [**FIFA**](https://www.youtube.com/@fifa)
 
 [**fim-moto**](https://www.youtube.com/@fim-moto) (Motorcycle racing )
