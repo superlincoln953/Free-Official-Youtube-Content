@@ -503,6 +503,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**British Pathé**](https://www.youtube.com/@britishpathe) (archival of very old (some a century old or more) TV transmissions, documentaries and news)
 
+[**CBC**](https://www.youtube.com/@CBC) (Clips and Trailers)
+
 [**CBS**](https://www.youtube.com/@CBS) (Clips and Trailers)
 
 [**Channel 4 Entertainment**](https://www.youtube.com/@Channel4Entertainment) (Clips and Trailers)
@@ -1192,5 +1194,9 @@ Don't know how to code? Great! This project is for you! We welcome contributions
 ## ✨ Contributors
 
 A big thank you to everyone who has contributed to making this list awesome! Your contributions are invaluable.
+
+<a href="https://github.com/superlincoln953/Free-Official-Youtube-Content/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=superlincoln953/Free-Official-Youtube-Content" />
+</a>
 
 Made with ❤️ by awesome people 
