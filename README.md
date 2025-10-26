@@ -863,6 +863,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Taskmaster**](https://www.youtube.com/@Taskmaster) (Clips, full episodes, trailers and single tasks)
 
+[**TBS**](https://www.youtube.com/@TBS) (Friends, Modern Family, Young Sheldon, The Big Bang Theory, Impractical Jokers, American Dad, AEW, Dinner and a Movie, The Cube, Miracle Workers, Friday Night Vibes, Wipeout, movies and more.)
+
 [**The Bob Ross Channel**](https://www.youtube.com/@bobross_thejoyofpainting) (Full episodes of "The Joy of Painting")
 
 [**The Carol Burnett Show**](https://www.youtube.com/@CarolBurnettShow) (Official clips and sketches)
