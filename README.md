@@ -117,6 +117,10 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Viz Media**](https://www.youtube.com/@vizmedia) (Mini-anime, trailers and clips)
 
+[**Funimation**](https://www.youtube.com/@Funimation) (Anime clips, trailers, and dubbed content)
+
+[**Sony Pictures Animation**](https://www.youtube.com/@SonyAnimation) (Clips and trailers from animated movies)
+
 ### Cartoons
 
 [**Adventure Time**](https://www.youtube.com/@AdventureTime) (Mostly clips and compilations, but some full episodes and marathons)
@@ -216,6 +220,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Zee Kids**](https://www.youtube.com/@ZeeKids) (Official Zee Kids channel featuring Hindi cartoons and animated comedy shows for children)
 
 [**Zig & Sharko**](https://www.youtube.com/@ZigandSharko) (Full episodes of the slapstick animated series)
+
+[**Cartoon Network**](https://www.youtube.com/@cartoonnetwork) (Clips and episodes from popular shows like Adventure Time, Steven Universe)
 
 ### Kids Media
 
@@ -753,6 +759,10 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Wu Tang Collection**](https://www.youtube.com/channel/UCUpbgPbDccjoB9PxI-nI7oA) (Classic Martial Arts Films/ [Website](https://www.thewutangcollection.com/))
 
+[**Tubi**](https://www.youtube.com/@tubi) (Full movies and TV shows for free)
+
+[**Crackle**](https://www.youtube.com/@Crackle) (Full movies and original series)
+
 ### TV Shows
 
 [**2 Broke Girls**](https://www.youtube.com/@2brokegirls) (Clips and some compilations)
@@ -916,6 +926,10 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Wipeout**](https://www.youtube.com/@WipeoutWorldwide) (Clips and full episodes)
 
 [**Young Sheldon**](https://www.youtube.com/@YoungSheldonOfficial) (Clips)
+
+[**The Ellen DeGeneres Show**](https://www.youtube.com/@TheEllenShow) (Full interviews, games, and show highlights)
+
+[**The Late Late Show with James Corden**](https://www.youtube.com/@latelateshow) (Carpool Karaoke, interviews, and comedy sketches)
 
 ### VFX Breakdown
 
