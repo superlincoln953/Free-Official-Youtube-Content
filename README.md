@@ -1017,6 +1017,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**House of Highlights**](https://www.youtube.com/@HouseofHighlights) (Sports clips and compilations)
 
+[**Indian Super League**](https://www.youtube.com/@IndianSuperLeague) (HIghlights and Clips of Indian Super League)
+
 [**INDYCAR on FOX**](https://www.youtube.com/@indycaronfox) (Highlights, clips, interviews and extras)
 
 [**International Judo Federation**](https://www.youtube.com/@judo) (Live events and highlights)
