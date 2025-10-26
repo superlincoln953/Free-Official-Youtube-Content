@@ -1073,6 +1073,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Emirates FA Cup**](https://www.youtube.com/@thefacup)
 
+[**The Hundred**](https://www.youtube.com/@thehundred) (Highlights)
+
 [**UFC - Ultimate Fighting Championship**](https://www.youtube.com/@ufc) (Fight highlights, full fight replays, interviews, and press conferences)
 
 [**Ultimate Pool UK**](https://www.youtube.com/@UltimatePool) (8-Ball Pool)
