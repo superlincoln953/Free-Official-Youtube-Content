@@ -1,5 +1,7 @@
 # Free Official YouTube Content: Movies, Anime, Cartoons, Documentaries, TV Shows & More
 
+If you are overwhelmed, just scroll down to read and use the list.
+
 There's many official YouTube channels that upload full content for free, be it Movies, TV Shows, Cartoons, Anime...
 
 And I wanted to make an awesome list with as many of them as possible
@@ -17,8 +19,6 @@ Also a big thanks to [all the members of the FMHY Discord server](https://github
 This list will only focus on official YouTube channels who have the rights to post the content online, no unofficial uploaders are allowed
 
 Buy second hand Blu-rays(1080p and lossless audio) and DVDs(480p and audio on par with streaming services) of the movies and shows you love and will watch more than once, they are cheap af, often have extra content, you can keep and watch it forever and no one can take it away.
-
-[If you want me to try out/give me 5 days of Real Debrid, use my referral link next time you renew/buy your Real Debrid subscription !](http://real-debrid.com/?id=15299096)
 
 [Original list on Rentry](https://rentry.co/Free-Official-Youtube-Content)
 
@@ -53,8 +53,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [Tech & Security](#tech--security)
 
-[Music & Concerts](#music--concerts)
-
 ---
 
 ### Anime
@@ -67,7 +65,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Bushiroad Official Channel**](https://www.youtube.com/@bushi_PR) (Promotional content, clips, and sometimes full episodes related to their franchises)
 
-[**Bandai Namco Filmworks Channel**](https://www.youtube.com/@bandainamcofilmworks/)
+[**Bandai Namco Filmworks Channel**](https://www.youtube.com/@bandainamcofilmworks/) (Official channel featuring trailers, music videos, and promotional content for anime produced by Bandai Namco Filmworks)
 
 [**Cartoon PowerUP**](https://www.youtube.com/@CartoonPowerUp) (Inactive, mostly anime, some cartoons)
 
@@ -257,7 +255,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Mr. Bean**](https://www.youtube.com/@MrBean) (Both the Live Action and the Cartoon version, but not the movies)
 
-[**My Little Pony - Official Channel**](https://www.youtube.com/@MyLittlePonyOfficial)
+[**My Little Pony - Official Channel**](https://www.youtube.com/@MyLittlePonyOfficial) (Full episodes, clips, and music videos from the My Little Pony franchise)
 
 [**National Geographic Kids**](https://www.youtube.com/@natgeokids) (Clips ,full episodes and compilations)
 
@@ -335,19 +333,19 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**A/V Geeks 16mm Films**](https://www.youtube.com/@avgeeks) (A/V Geeks film archive, very active channel)
 
-[**Banijay Science**](https://www.youtube.com/@banijayscience)
+[**Banijay Science**](https://www.youtube.com/@banijayscience) (Science and nature documentaries from the Banijay production company)
 
 [**BBC Earth**](https://www.youtube.com/@bbcearth) (Nature documentaries and clips from them)
 
-[**BBC Earth Explore**](https://www.youtube.com/@BBCEarthExplore)
+[**BBC Earth Explore**](https://www.youtube.com/@BBCEarthExplore) (Extended nature documentaries and wildlife content from BBC Earth)
 
-[**BBC Earth Science**](https://www.youtube.com/@BBCEarthScience)
+[**BBC Earth Science**](https://www.youtube.com/@BBCEarthScience) (Science documentaries and educational content exploring natural phenomena and scientific discoveries)
 
 [**Biography**](https://www.youtube.com/@Biography) (Full episodes and clips from the Biography channel)
 
 [**Bloomberg Originals**](https://www.youtube.com/bloomberg) (full Documentaries and some documentary-like shows)
 
-[**Canadian Space Agency**](https://www.youtube.com/@canadianspaceagency)
+[**Canadian Space Agency**](https://www.youtube.com/@canadianspaceagency) (Official videos, live streams, and educational content about Canada's space program and missions)
 
 [**Cartoons On Film**](https://www.youtube.com/@cartoonsonfilm) (Restored old cartoons from films with documentaries on their makings and more)
 
@@ -355,19 +353,19 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Curiosity Stream**](https://www.youtube.com/@CuriosityStreaming) (Trailers, parts of, and full, documentaries)
 
-[**Discovery**](https://www.youtube.com/@discovery)
+[**Discovery**](https://www.youtube.com/@discovery) (Clips and full episodes from Discovery Channel documentaries and series)
 
 [**Discovery 頻道 / Discovery Channel Taiwan**](https://www.youtube.com/user/TheDiscoveryTaiwan) (Full episodes and clips, most or all have at least english subs, lots have english dub)
 
 [**Druid Workd**](https://www.youtube.com/@druid_works) (War documentaries from interviews with veterans and restored and enhanced old footage and audio recordings)
 
-[**DW Documentary**](https://www.youtube.com/@DWDocumentary)
+[**DW Documentary**](https://www.youtube.com/@DWDocumentary) (Full-length documentaries from Deutsche Welle covering global issues, politics, culture, and current affairs)
 
 [**European Space Agency/ESA**](https://www.youtube.com/@EuropeanSpaceAgency) (live, Informative videos and footage recorded from rockets in space)
 
-[**Free Documentary**](https://youtube.com/@freedocumentary)
+[**Free Documentary**](https://youtube.com/@freedocumentary) (Full-length documentaries covering history, nature, science, and world events)
 
-[**Free Documentary - History**](https://www.youtube.com/@FreeDocumentaryHistory)
+[**Free Documentary - History**](https://www.youtube.com/@FreeDocumentaryHistory) (Full-length historical documentaries covering ancient civilizations, wars, and significant historical events)
 
 [**Frontline PBS**](https://www.youtube.com/@frontline) (Investigative Journalism)
 
@@ -375,7 +373,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**History**](https://www.youtube.com/@HISTORY) (Clips and full episodes of History Channel Documentary Series like [Dogfights](https://www.youtube.com/playlist?list=PLob1mZcVWOaiQyIGLr2HAuCaY3SP-cHcL))
 
-[**History Hit**](https://www.youtube.com/@HistoryHit)
+[**History Hit**](https://www.youtube.com/@HistoryHit) (History documentaries, interviews with historians, and historical deep dives)
 
 [**Homemade Documentaries**](https://www.youtube.com/@JacksonTyler) (Old restored documentaries)
 
@@ -387,17 +385,17 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Kinolibrary**](https://www.youtube.com/@thekinolibrary) (Archival and restoring of high quality public domain footage)
 
-[**Look in The Past War Archives**](https://www.youtube.com/@LookinThePastWarArchives)
+[**Look in The Past War Archives**](https://www.youtube.com/@LookinThePastWarArchives) (Restored and colorized historical war footage and documentaries)
 
 [**lunarmodule5**](https://www.youtube.com/@lunarmodule5) (Historical footage related to the space program)
 
-[**Machina**](https://www.youtube.com/@Machina_Official)
+[**Machina**](https://www.youtube.com/@Machina_Official) (Documentaries about technology, engineering, and mechanical innovations)
 
 [**Mercury 7 Films**](https://www.youtube.com/@mercury7films) (Documentaries about the Apollo mission and the space race)
 
-[**Mighty**](https://www.youtube.com/@MightyTVChannel)
+[**Mighty**](https://www.youtube.com/@MightyTVChannel) (Military history documentaries and combat footage)
 
-[**Military Heroes**](https://www.youtube.com/@MilitaryHeroes/)
+[**Military Heroes**](https://www.youtube.com/@MilitaryHeroes/) (Military documentaries and historical war content)
 
 [**NASA**](https://www.youtube.com/@NASA) (live, Informative videos and some full original documentaries)
 
@@ -411,13 +409,13 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**National Geographic**](https://www.youtube.com/@NatGeo) (Full episodes and clips)
 
-[**National Geographic Animals**](https://www.youtube.com/@NatGeoAnimals)
+[**National Geographic Animals**](https://www.youtube.com/@NatGeoAnimals) (Wildlife documentaries and animal behavior content)
 
 [**National Transportation Safety Board**](https://www.youtube.com/@NTSBgov) (Videos from National Transportation Safety Board)
 
 [**NFB**](https://www.youtube.com/@nfb) (Full documentaries and trailers)
 
-[**North One**](https://www.youtube.com/@NorthOne)
+[**North One**](https://www.youtube.com/@NorthOne) (Documentaries and clips from the North One production company)
 
 [**NOVA PBS Official**](https://www.youtube.com/@NOVApbs) (Full episodes and clips from the renowned science documentary series)
 
@@ -439,9 +437,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Sen**](https://www.youtube.com/@Sen) (Earth from space in 4K | 4K Livestream of Earth from Space | Live Views from ISS)
 
-[**Smithsonian Channel**](https://www.youtube.com/@SmithsonianChannel)
+[**Smithsonian Channel**](https://www.youtube.com/@SmithsonianChannel) (Documentary and history features from the Smithsonian Institution)
 
-[**Space Oral History**](https://www.youtube.com/@spaceoralhistory8448/)
+[**Space Oral History**](https://www.youtube.com/@spaceoralhistory8448/) (Interviews and oral histories from people involved in space exploration)
 
 [**Standart**](https://www.youtube.com/channel/UCZUkQij64MCMH-3b1ycUGjg/featured) (Full documentaries)
 
@@ -449,11 +447,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Film Gate**](https://www.youtube.com/@Thefilmgate) (Stock Footage from historical films)
 
-[**The North Face**] (https://www.youtube.com/@TheNorthFace)
+[**The North Face**](https://www.youtube.com/@TheNorthFace) (Outdoor adventure documentaries and extreme sports content)
 
-[**The Modern Age**](https://www.youtube.com/@TheModernAgeHistoryChannel)
+[**The Modern Age**](https://www.youtube.com/@TheModernAgeHistoryChannel) (Modern history documentaries covering 20th and 21st century events)
 
-[**Timeline**](https://www.youtube.com/@TimelineChannel)
+[**Timeline**](https://www.youtube.com/@TimelineChannel) (Full-length history documentaries covering ancient to modern times)
 
 [**Travel Universe**](https://www.youtube.com/channel/UCBWJEa2VHKB3PXHYMpgOj1Q/featured) (Full documentaries)
 
@@ -461,7 +459,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**USCSB**](https://www.youtube.com/@USCSB) (Informative videos made by U.S. Chemical Safety and Hazard Investigation Board)
 
-[**War Stories**](https://www.youtube.com/@WarStoriesChannel)
+[**War Stories**](https://www.youtube.com/@WarStoriesChannel) (Military documentaries and war history from various conflicts)
 
 [**Wonder**](https://www.youtube.com/@WonderDocs) (Full documentaries and full episodes from Documentary-TV shows)
 
@@ -487,13 +485,13 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Avatar**](https://www.youtube.com/@AvatarOfficial) (Content related to the Avatar movies, including Blu-Ray extras and YT original extras)
 
-[**BBC**](https://www.youtube.com/@BBC)
+[**BBC**](https://www.youtube.com/@BBC) (Clips, trailers, and content from BBC programming)
 
-[**BBC Archive**](https://www.youtube.com/@BBCArchive)
+[**BBC Archive**](https://www.youtube.com/@BBCArchive) (Historical BBC broadcasts and archival content)
 
-[**BBC Comedy Greats**](https://www.youtube.com/@BBCComedyGreats)
+[**BBC Comedy Greats**](https://www.youtube.com/@BBCComedyGreats) (Classic British comedy clips and full episodes)
 
-[**BBC Global**](https://www.youtube.com/@BBC_Global)
+[**BBC Global**](https://www.youtube.com/@BBC_Global) (International BBC content and programming)
 
 [**BBC Sport**](https://www.youtube.com/@BBCSport) (Sports Documentaries and interviews)
 
@@ -511,7 +509,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Channel 4 Sport**](https://www.youtube.com/@Channel4Sport) (Clips and sports highlights, not just sports)
 
-[**Coachella**](https://www.youtube.com/@Coachella)
+[**Coachella**](https://www.youtube.com/@Coachella) (Live performances and highlights from the Coachella music festival)
 
 [**Comedy Central**](https://www.youtube.com/@ComedyCentral) (Stand-up specials, show clips, and sketches)
 
@@ -523,9 +521,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Disney On Broadway**](https://www.youtube.com/@disneymusicals) (Clips, songs and special features from Disney musicals on Broadway ([except Hamilton because it has its own YT channel](https://www.youtube.com/@HamiltonMusical)))
 
-[**Disney Parks**](https://www.youtube.com/@DisneyParks)
+[**Disney Parks**](https://www.youtube.com/@DisneyParks) (Theme park tours, ride-throughs, and behind-the-scenes at Disney destinations)
 
-[**Eurovision Song Contest**](https://www.youtube.com/@EurovisionSongContest/)
+[**Eurovision Song Contest**](https://www.youtube.com/@EurovisionSongContest/) (Official performances, highlights, and contest coverage from Eurovision)
 
 [**First We Feast**](https://www.youtube.com/@FirstWeFeast) (Home of the "Hot Ones" celebrity interview show)
 
@@ -537,11 +535,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**GOPRO**](https://www.youtube.com/gopro) (Products, POV's and awesome content)
 
-[**HBO**](https://www.youtube.com/@HBO)
+[**HBO**](https://www.youtube.com/@HBO) (Trailers, clips, and behind-the-scenes content from HBO series and films)
 
 [**HBO Max**](https://www.youtube.com/@hbomax) (Podcast episodes, clips, exclusive/extra content)
 
-[**Hong Kong Disneyland | 香港迪士尼樂園**](https://youtube.com/@hkdisneylandresort)
+[**Hong Kong Disneyland | 香港迪士尼樂園**](https://youtube.com/@hkdisneylandresort) (Park tours, ride-throughs, and special events from Hong Kong Disneyland)
 
 [**HOY 免費電視 77 台及 78 台**](https://www.youtube.com/@hkhoy) (Free HK TV channel)
 
@@ -559,9 +557,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Lionsgate Movies**](https://www.youtube.com/@LionsgateMovies) (Trailers and some extra content)
 
-[**Marvel**](https://www.youtube.com/@marvel)
+[**Marvel**](https://www.youtube.com/@marvel) (Trailers, clips, and exclusive content from the Marvel Cinematic Universe)
 
-[**MTV UK**](https://www.youtube.com/@MTVUK)
+[**MTV UK**](https://www.youtube.com/@MTVUK) (Music videos, reality show clips, and entertainment content)
 
 [**NBC**](https://www.youtube.com/@NBC) (TV show clips, extras and clips outside of tv shows)
 
@@ -583,11 +581,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Pixar**](https://www.youtube.com/@pixar/) (Trailers, Featurettes, Clips, Behind The Scenes and extra content)
 
-[**Prime Video**](https://www.youtube.com/@PrimeVideo)
+[**Prime Video**](https://www.youtube.com/@PrimeVideo) (Trailers, clips, and behind-the-scenes content from Amazon Prime Video originals)
 
-[**PublicResourceOrg**](https://www.youtube.com/@PublicResourceOrg) (Public domain)
+[**PublicResourceOrg**](https://www.youtube.com/@PublicResourceOrg) (Public domain films, government documents, and educational content)
 
-[**Rochester TV Archive**](https://www.youtube.com/@RochesterTVArchive)
+[**Rochester TV Archive**](https://www.youtube.com/@RochesterTVArchive) (Archived local television broadcasts and historical TV content)
 
 [**SBS Entertainment**](https://www.youtube.com/@SBSenter.official) (Clips and content from the SBS South Korean Channel, not related to the Australian one)
 
@@ -601,7 +599,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Sony Pictures Animation**](https://www.youtube.com/@SonyAnimation) (Clips, songs, Behind The Scenes and extra content)
 
-[**Sony Pictures at Home**](https://www.youtube.com/@sonypicsathome/)
+[**Sony Pictures at Home**](https://www.youtube.com/@sonypicsathome/) (Trailers and bonus content from Sony Pictures home entertainment releases)
 
 [**Starz**](https://www.youtube.com/@STARZ) (Trailers and clips from Starz original series)
 
@@ -617,21 +615,21 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Criterion Collection**](https://www.youtube.com/@criterioncollection) (Clips, interviews, and video essays about classic and contemporary films)
 
-[**The Royal Family Channel**](https://www.youtube.com/@royalchannel)
+[**The Royal Family Channel**](https://www.youtube.com/@royalchannel) (Official content and updates about the British Royal Family)
 
 [**The Shows Must Go On!**](https://www.youtube.com/@TheShowsMustGoOn) (Provides full-length performances of Andrew Lloyd Webber musicals and other official recordings of stage shows and concerts)
 
 [**truTV**](https://www.youtube.com/@trutv) (Clips)
 
-[**Universal Orlando Resort**](https://www.youtube.com/@UniversalOrlando)
+[**Universal Orlando Resort**](https://www.youtube.com/@UniversalOrlando) (Theme park tours, ride-throughs, and special events from Universal Orlando)
 
-[**Universal Pictures**](https://www.youtube.com/@UniversalPictures)
+[**Universal Pictures**](https://www.youtube.com/@UniversalPictures) (Movie trailers and clips from Universal Pictures films)
 
-[**Universal Pictures All-Access**](https://www.youtube.com/@UniversalPicturesAllAccess)
+[**Universal Pictures All-Access**](https://www.youtube.com/@UniversalPicturesAllAccess) (Behind-the-scenes content and exclusive features from Universal Pictures)
 
-[**Universal Studios Hollywood**](https://www.youtube.com/@universalstudioshollywood)
+[**Universal Studios Hollywood**](https://www.youtube.com/@universalstudioshollywood) (Theme park tours, attractions, and special events from Universal Studios Hollywood)
 
-[**Universal Studios Japan Official**](https://www.youtube.com/@USJ_Official)
+[**Universal Studios Japan Official**](https://www.youtube.com/@USJ_Official) (Attractions, events, and park content from Universal Studios Japan)
 
 [**Vanity Fair**](https://www.youtube.com/@vanityfair) (Celebrity interviews and video series)
 
@@ -647,11 +645,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Walt Disney Imagineering**](https://www.youtube.com/@waltdisneyimagineering/featured) (BTS Videos of Disney's parks/ [Inside look at Walt Disney Imagineering](https://www.youtube.com/playlist?list=PLZuKWjoQGMP5LFHVnDn-sxggnJCZi3d9H))
 
-[**Warner Bros Entertainment**](https://www.youtube.com/@warnerbrosentertainment)
+[**Warner Bros Entertainment**](https://www.youtube.com/@warnerbrosentertainment) (Trailers, clips, and promotional content from Warner Bros. productions)
 
-[**Warner Bros. Rewind**](https://www.youtube.com/@WarnerBrosRewind)
+[**Warner Bros. Rewind**](https://www.youtube.com/@WarnerBrosRewind) (Classic Warner Bros. content and retro clips)
 
-[**Warner Bros. TV**](https://www.youtube.com/@warnerbrostv)
+[**Warner Bros. TV**](https://www.youtube.com/@warnerbrostv) (Trailers and clips from Warner Bros. television productions)
 
 [**Warner bros Classics**](https://www.youtube.com/@warnerbrosclassics/) (Clips, compilations, remasters, from the older eras of WB)
 
@@ -677,11 +675,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**CineMo**](https://www.youtube.com/@CineMoChannel) (Full Tagalog/Filipino classic and dubbed movies)
 
-[**CineRings Productions**](https://www.youtube.com/@CineRingsproductions)
+[**CineRings Productions**](https://www.youtube.com/@CineRingsproductions) (Full-length independent films and movie content)
 
 [**Cult Cinema Classics**](https://www.youtube.com/@CultCinemaClassics) (Full-length cult classic films)
 
-[**Fastbreak Films**](https://www.youtube.com/@FastbreakFilms)
+[**Fastbreak Films**](https://www.youtube.com/@FastbreakFilms) (Sports-themed movies and basketball films)
 
 [**FilmRise**](https://www.youtube.com/@FilmRise) (A large collection of officially licensed movies and TV shows for free)
 
@@ -701,7 +699,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Harry Potter**](https://www.youtube.com/@harrypotter) (Movie recaps, deleted scenes and extras)
 
-[**James Bond 007**](https://www.youtube.com/@007)
+[**James Bond 007**](https://www.youtube.com/@007) (Official James Bond trailers, clips, and behind-the-scenes content)
 
 [**Kings of Horror**](https://www.youtube.com/user/TheKingsofHorror) (Horror)
 
@@ -715,7 +713,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Mosfilm**](https://www.youtube.com/@Mosfilm_eng) (Russian Movies and clips with English and some Spanish subtitles)
 
-[**Movie Central**](https://www.youtube.com/channel/UCGBzBkV-MinlBvHBzZawfLQ)
+[**Movie Central**](https://www.youtube.com/channel/UCGBzBkV-MinlBvHBzZawfLQ) (Full-length movies from various genres)
 
 [**New Castle After Dark**](https://www.youtube.com/channel/UC951AqujycbBI083GmKRY3A/featured) (horror)
 
@@ -729,7 +727,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Popcornflix**](https://www.youtube.com/@Popcornflix) (Officially licensed full-length movies for free)
 
-[**Public Domain Movies**](https://youtube.com/@publicdomainmovies379)
+[**Public Domain Movies**](https://youtube.com/@publicdomainmovies379) (Classic public domain films free to watch)
 
 [**Rajshri**](https://www.youtube.com/@rajshri) (Classic and new Bollywood movies)
 
@@ -745,7 +743,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Asylum**](https://www.youtube.com/@theasylum) (The official home for trailers of mockbusters and B-movies)
  
-[**Timeless Classic Movies**](https://www.youtube.com/@TimelessClassicMovies) (Public domain classic movies from the Golden Age of Hollywood
+[**Timeless Classic Movies**](https://www.youtube.com/@TimelessClassicMovies) (Public domain classic movies from the Golden Age of Hollywood)
 
 [**Universal Horror**](https://www.youtube.com/@universalhorror) (Clips and compilations from the classic Universal Monsters films)
 
@@ -799,11 +797,13 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Doctor Who**](https://www.youtube.com/@DoctorWho) (Clips, behind-the-scenes, and classic moments)
 
-[**Dr. Phil**](https://www.youtube.com/drphil)
+[**Dr. Phil**](https://www.youtube.com/drphil) (Clips and full episodes from the Dr. Phil talk show)
 
 [**Duck Dynasty**](https://www.youtube.com/@DuckDynasty) (Clips and compilations)
 
-[**Forged in Fire**](https://www.youtube.com/@ForgedInFire)
+[**Family Feud**](https://www.youtube.com/@familyfeud) (Clips and Episodes)
+
+[**Forged in Fire**](https://www.youtube.com/@ForgedInFire) (Clips and highlights from the bladesmithing competition series)
 
 [**Friends**](https://www.youtube.com/@Friends) (Only clips and compilations)
 
@@ -881,7 +881,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Grand Tour**](https://youtube.com/@thegrandtour) (Clips)
 
-[**The Monkees**](https://www.youtube.com/@themonkees)
+[**The Monkees**](https://www.youtube.com/@themonkees) (Music videos, clips, and content from The Monkees band)
 
 [**The Office**](https://www.youtube.com/@TheOffice) (Clips and Compilation)
 
@@ -905,7 +905,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Unsolved Mysteries**](https://www.youtube.com/@UnsolvedMysteriesFullEpisodes) (Full episodes of the classic series)
 
-[**Versus**](https://www.youtube.com/@versusshows) (Panel Shows)
+[**Versus**](https://www.youtube.com/@versusshows) (Comedy panel shows and game shows)
 
 [**VET Tv**](https://www.youtube.com/@vettvchannel) (Clips, trailers and full episodes)
 
@@ -923,15 +923,15 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Autodesk**](https://www.youtube.com/@Autodesk) (Software tutorials that often include professional VFX breakdowns)
 
-[**BlueBolt VFX**](https://www.youtube.com/@blueboltvfx)
+[**BlueBolt VFX**](https://www.youtube.com/@blueboltvfx) (VFX breakdowns from the BlueBolt visual effects studio)
 
 [**Cinesite**](https://www.youtube.com/@Cinesite.) (VFX and animation breakdowns)
 
-[**Crafty Apes**](https://www.youtube.com/@CraftyApesVFX)
+[**Crafty Apes**](https://www.youtube.com/@CraftyApesVFX) (Visual effects breakdowns from film and television productions)
 
-[**Digital Domain**](https://www.youtube.com/@DigitalDomainDD)
+[**Digital Domain**](https://www.youtube.com/@DigitalDomainDD) (VFX breakdowns from Digital Domain, featuring work on major films)
 
-[**DNEG**](https://www.youtube.com/@DNEGVFX)
+[**DNEG**](https://www.youtube.com/@DNEGVFX) (Visual effects breakdowns from DNEG, one of the world's leading VFX companies)
 
 [**Framestore**](https://www.youtube.com/@FramestoreOfficial) (Videos describing how VFX are made in movies as well as some BTS and interviews)
 
@@ -939,15 +939,15 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Ghost VFX**](https://www.youtube.com/@officialghostvfx) (Breakdowns for Star Wars series and other major films)
 
-[**Hybride VFX**](https://youtube.com/@hybridevfx)
+[**Hybride VFX**](https://youtube.com/@hybridevfx) (VFX breakdowns from Hybride, showcasing their work on films and TV)
 
-[**ImageEngineVFX**](https://youtube.com/@imageengine)
+[**ImageEngineVFX**](https://youtube.com/@imageengine) (VFX breakdowns from Image Engine, known for sci-fi and action films)
 
 [**Industrial Light & Magic**](https://www.youtube.com/@ILMVFX) (Podcasts and videos discussing the technical part of VFX in movies made by ILM)
 
-[**Ingenuity Studios**](https://www.youtube.com/@ingenuitystudios)
+[**Ingenuity Studios**](https://www.youtube.com/@ingenuitystudios) (VFX breakdowns from television and film projects)
 
-[**Iniflex FX**](https://www.youtube.com/@Iniflex_Fx)
+[**Iniflex FX**](https://www.youtube.com/@Iniflex_Fx) (Visual effects breakdowns and showreels)
 
 [**Luma Pictures**](https://www.youtube.com/@LumaPictures) (VFX breakdowns from Marvel films and others)
 
@@ -955,27 +955,27 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Mikros Animation**](https://www.youtube.com/@mikrosanimation) (Breakdowns for animated films)
 
-[**MPC**](https://www.youtube.com/@mpcvfx)
+[**MPC**](https://www.youtube.com/@mpcvfx) (VFX breakdowns from MPC (Moving Picture Company), featuring blockbuster films)
 
-[**PIXOMONDO**](https://youtube.com/@pixomondo)
+[**PIXOMONDO**](https://youtube.com/@pixomondo) (VFX breakdowns from Pixomondo, known for Game of Thrones and other major productions)
 
-[**ReDefine**](https://www.youtube.com/@thisisredefine/featured)
+[**ReDefine**](https://www.youtube.com/@thisisredefine/featured) (VFX breakdowns from ReDefine studio)
 
-[**RISE | Visual Effects Studios**](https://www.youtube.com/@RISE_FX)
+[**RISE | Visual Effects Studios**](https://www.youtube.com/@RISE_FX) (VFX breakdowns from RISE studio)
 
-[**Rodeo FX**](https://www.youtube.com/@Rodeo_FX)
+[**Rodeo FX**](https://www.youtube.com/@Rodeo_FX) (VFX breakdowns from Rodeo FX, featuring work on Game of Thrones and Marvel films)
 
-[**RSP VFX**](https://youtube.com/@rspvfx1500)
+[**RSP VFX**](https://youtube.com/@rspvfx1500) (Visual effects breakdowns and showreels from RSP)
 
-[**ScanlineVFX**](https://youtube.com/@scanline_vfx)
+[**ScanlineVFX**](https://youtube.com/@scanline_vfx) (VFX breakdowns from Scanline VFX, known for fluid effects and water simulations)
 
 [**SideFX**](https://www.youtube.com/@sidefx) (Creators of Houdini, with extensive tutorials and breakdowns from pros)
 
-[**Sony Pictures Imageworks - VFX**](https://www.youtube.com/@ImageworksVFX/)
+[**Sony Pictures Imageworks - VFX**](https://www.youtube.com/@ImageworksVFX/) (VFX breakdowns from Sony Pictures Imageworks, featuring Spider-Man and other major films)
 
 [**Spin VFX**](https://www.youtube.com/@SpinVFXLife) (Breakdowns for The Umbrella Academy and other shows)
 
-[**Storm Studios**](https://www.youtube.com/@stormstudios357)
+[**Storm Studios**](https://www.youtube.com/@stormstudios357) (VFX breakdowns and animation work)
 
 [**Tippett Studio**](https://www.youtube.com/@TippettStudio) (Breakdowns from the legendary studio behind Jurassic Park and Starship Troopers)
 
@@ -985,13 +985,13 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**All Elite Wrestling**](https://www.youtube.com/@AEW) (Clips, highlights, and full matches)
 
-[**Arcteryx**](https://www.youtube.com/@arcteryx)
+[**Arcteryx**](https://www.youtube.com/@arcteryx) (Outdoor adventure and climbing content)
 
 [**Badminton World Federation/BWF TV**](https://www.youtube.com/@BWF) (Official BWF channel with live matches and highlights)
 
-[**beIN SPORTS Asia**](https://www.youtube.com/@beINSPORTSAsia/)
+[**beIN SPORTS Asia**](https://www.youtube.com/@beINSPORTSAsia/) (Sports highlights and analysis from beIN SPORTS Asia)
 
-[**Big Bash League**](https://www.youtube.com/@BigBash)
+[**Big Bash League**](https://www.youtube.com/@BigBash) (Official Australian T20 cricket league highlights and matches)
 
 [**Bleacher Report**](https://www.youtube.com/@BleacherReport) (Sports news, highlights, and original animated series)
 
@@ -1001,11 +1001,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Concaf**](https://www.youtube.com/@concacaf) (Football streams, highlights and more, go to the "Live" page for streams)
 
-[**DAZN Canada**](https://www.youtube.com/@dazncanada)
+[**DAZN Canada**](https://www.youtube.com/@dazncanada) (Sports streaming highlights and content for Canadian audiences)
 
 [**Drone Racing League**](https://www.youtube.com/@thedroneracingleague) (Full races and highlights)
 
-[**ESPN**](https://www.youtube.com/@espn)
+[**ESPN**](https://www.youtube.com/@espn) (Sports news, highlights, and analysis from ESPN)
 
 [**FIA World Endurance Championship**](https://www.youtube.com/@FIAWEC) (Live, clips, highlights and extras)
 
@@ -1013,7 +1013,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**FIDE Chess**](https://www.youtube.com/@FIDE_chess) (Live, clips, highlights and extras)
 
-[**FIFA**](https://www.youtube.com/@fifa)
+[**FIFA**](https://www.youtube.com/@fifa) (Official FIFA football content, highlights, and World Cup coverage)
 
 [**fim-moto**](https://www.youtube.com/@fim-moto) (Motorcycle racing )
 
@@ -1033,7 +1033,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**International Judo Federation**](https://www.youtube.com/@judo) (Live events and highlights)
 
-[**World Heyball Tour**](https://www.youtube.com/@WorldHeyballTour)
+[**World Heyball Tour**](https://www.youtube.com/@WorldHeyballTour) (Official heyball tournament coverage and highlights)
 
 [**LaLiga**](https://www.youtube.com/@LaLiga) (Official Spanish football league channel)
 
@@ -1043,21 +1043,21 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Matchroom Pool USA**](https://www.youtube.com/@MatchroomPool1) (9-Ball Pool)
 
-[**MLB**](https://www.youtube.com/@MLB)
+[**MLB**](https://www.youtube.com/@MLB) (Official Major League Baseball highlights, game recaps, and classic games)
 
 [**MotoGP**](https://www.youtube.com/@motogp) (Race highlights, clips, and full classic races)
 
 [**NASCAR**](https://www.youtube.com/@nascar) (Clips, highlights, interviews and extras)
 
-[**NBA**](https://www.youtube.com/@NBA)
+[**NBA**](https://www.youtube.com/@NBA) (Official NBA highlights, full game recaps, and classic games)
 
-[**NBC Sports**](https://www.youtube.com/@NBCSports)
+[**NBC Sports**](https://www.youtube.com/@NBCSports) (Sports highlights, analysis, and coverage from NBC Sports)
 
-[**Netflix Sports**](https://youtube.com/@netflixsports)
+[**Netflix Sports**](https://youtube.com/@netflixsports) (Sports documentaries and content from Netflix)
 
 [**NFL**](https://www.youtube.com/@NFL) (Game highlights, full classic games, and analysis)
 
-[**NHL**](https://www.youtube.com/@NHL)
+[**NHL**](https://www.youtube.com/@NHL) (Official NHL highlights, game recaps, and classic hockey games)
 
 [**NTT INDYCAR SERIES**](https://www.youtube.com/@indycar) (Clips, highlights and extras)
 
@@ -1069,7 +1069,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**PPA Asia Tour**](https://www.youtube.com/@PPATourAsia) (The premier series of pro pickleball events in Asia)
 
-[**Premier League**](https://www.youtube.com/@premierleague)
+[**Premier League**](https://www.youtube.com/@premierleague) (Official English Premier League highlights and match analysis)
 
 [**Red Bull**](https://www.youtube.com/@redbull) (Extreme sports documentaries and clips)
 
@@ -1081,7 +1081,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Sky Sports Premiere League**](https://www.youtube.com/@skysportspremierleague) (Highlights)
 
-[**The Emirates FA Cup**](https://www.youtube.com/@thefacup)
+[**The Emirates FA Cup**](https://www.youtube.com/@thefacup) (Official FA Cup highlights and match coverage)
 
 [**UFC - Ultimate Fighting Championship**](https://www.youtube.com/@ufc) (Fight highlights, full fight replays, interviews, and press conferences)
 
@@ -1097,11 +1097,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**World Surf League**](https://www.youtube.com/@wsl) (Live surfing competitions and highlights)
 
-[**WWE**](https://www.youtube.com/@WWE)
+[**WWE**](https://www.youtube.com/@WWE) (Official WWE highlights, full matches, and exclusive content)
 
-[**WWE on Netflix**](https://youtube.com/@wweonnetflix)
+[**WWE on Netflix**](https://youtube.com/@wweonnetflix) (WWE content exclusive to Netflix)
 
-[**WWE Vault**](https://www.youtube.com/@WWEVault)
+[**WWE Vault**](https://www.youtube.com/@WWEVault) (Classic WWE matches and archival wrestling content)
 
 ### Short Films
 
@@ -1127,11 +1127,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**NOWNESS**](https://www.youtube.com/@nowness) (High-end cultural short films and documentaries)
 
-[**Omeleto**](https://www.youtube.com/@Omeleto/)
+[**Omeleto**](https://www.youtube.com/@Omeleto/) (Award-winning short films from around the world)
 
 [**Rodeo FX**](https://www.youtube.com/@Rodeo_FX) (VFX studio that also produces original animated shorts)
 
-[**Short of the Week**](https://www.youtube.com/@shortoftheweek/)
+[**Short of the Week**](https://www.youtube.com/@shortoftheweek/) (Curated award-winning short films)
 
 [**Shorts International**](https://www.youtube.com/@shortsinternational) (Curated short films from around the globe)
 
@@ -1176,58 +1176,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Tenable**](https://www.youtube.com/@Tenable) (Official channel for the creators of Nessus, focusing on vulnerability management and exposure)
 
 ---
-
-
-
-
-### Music & Concerts
-
-[**ARTE Concert**](https://www.youtube.com/@ARTEConcert) (Official channel for ARTE’s live concerts, festivals, and cultural performances from Europe. (English, French, German))
-
-[**arteconcert**](https://www.youtube.com/@arteconcert) (European arts broadcaster streaming music concerts, festival sets, and performances. (English, French, German))
-
-[**Audiotree**](https://www.youtube.com/@Audiotree) (Full-length indie band and artist live sessions filmed in studio. (English))
-
-[**BBC Music**](https://www.youtube.com/@BBCMusic) (BBC’s platform for Live Lounge, festival stage, and exclusive music performances. (English))
-
-[**Boiler Room**](https://www.youtube.com/@BoilerRoom) (Global underground music, DJ sets, real-time club and festival livestreams. (English, Multilingual))
-
-[**COLORSxSTUDIOS**](https://www.youtube.com/@COLORSxSTUDIOS) (Creative live session videos highlighting emerging and star artists in unique color-based sets. (English, Multilingual))
-
-[**CONCERTS MUSIC LIVE**](https://www.youtube.com/@CONCERTSMUSICLIVE) (Official international concert recordings spanning multiple genres and artists. (Multilingual))
-
-[**KEXP**](https://www.youtube.com/@KEXP) (High-quality live studio sessions and classic concerts with alternative and indie musicians. (English))
-
-[**La Blogotheque**](https://www.youtube.com/@LaBlogotheque) (Unique “Take Away Shows” and acoustic concerts shot live in everyday locations. (English, French, Multilingual))
-
-[**Live Rock Music Concerts**](https://www.youtube.com/@LiveRockMusicConcerts) (Rock band and music festival concert videos posted officially. (English))
-
-[**Mahogany**](https://www.youtube.com/@Mahogany) (Beautiful live acoustic and band sessions with select emerging artists. (English))
-
-[**Mixmag**](https://www.youtube.com/@Mixmag) (Official channel for club, DJ, and live dance music sets from global venues. (English))
-
-[**NPR Music**](https://www.youtube.com/@NPRMusic) (Tiny Desk Concerts and live shows featuring popular artists and bands. (English))
-
-[**Official Lives & Music Videos**](https://www.youtube.com/@OfficialLivesMusicVideos1) (Live performances and official concert events by major international artists. (English))
-
-[**Paste Magazine**](https://www.youtube.com/@PasteMagazine) (Paste Studios shares live performances, intimate sessions, and concert events. (English))
-
-[**Pinkpop**](https://www.youtube.com/@Pinkpop) (Archive of full festival performances and legendary live concerts (official uploads). (English, Multilingual))
-
-[**Red Bull Music**](https://www.youtube.com/@RedBullMusic) (Red Bull’s official hub for global music festivals, concert events, and artist performances. (English, Multilingual))
-
-[**Sofar Sounds**](https://www.youtube.com/@SofarSounds) (Stripped-down live concerts in intimate global settings; discover new acts. (English, Multilingual))
-
-[**Sony Music India**](https://www.youtube.com/@SonyMusicIndia) (Indian music label’s official channel for concert events, unplugged, and live performances. (Hindi, English, Multilingual))
-
-[**T-Series**](https://www.youtube.com/@TSeries) (India’s largest music label posting Bollywood concert events and original live sessions. (Hindi, English))
-
-[**triple j**](https://www.youtube.com/@triplej) (Australia’s Triple J “Like a Version” series with live covers and original in-studio performances. (English))
-
-[**WDR Rockpalast**](https://www.youtube.com/@WDRRockpalast) (Germany’s official Rockpalast channel with full concerts, festivals, and historic performances. (German, English))
-
-[**music etc**] (Collection of live music channels and concert feeds; see entries above.)
-
 
 # [**Archive Page**](https://web.archive.org/save/https://github.com/superlincoln953/Free-Official-Youtube-Content)
 
