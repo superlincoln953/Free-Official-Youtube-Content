@@ -4,6 +4,7 @@ Don't know how to code? Great! This project is for you! We welcome contributions
 
 ### General Contribution Guidelines:
 
+* **Read the entire list first before you contribute.**
 * **Follow the Markdown format.**
 * If a channel is in any way linked to something that you normally have to pay to see, and the channel is active and posts related content to it, then add it and write a short description of the type of content. 
 * **Fix valid issues** by opening an issue or submitting a pull request.
