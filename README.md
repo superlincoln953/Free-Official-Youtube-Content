@@ -53,6 +53,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [Tech & Security](#tech--security)
 
+[Tech & Gadgets](#tech--gadgets)
+
 ---
 
 ### Anime
@@ -1174,6 +1176,49 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Tenable**](https://www.youtube.com/@Tenable) (Official channel for the creators of Nessus, focusing on vulnerability management and exposure)
 
 ---
+
+### Tech & Gadgets
+
+[**91mobiles**](https://www.youtube.com/@91mobiles) (Smartphone and laptop reviews, hands-ons, and buying guides. Language: Hindi, English)
+
+[**CNET**](https://www.youtube.com/@CNET) (Official channel for tech news, hands-on reviews, and how-tos. Language: English)
+
+[**CodeWithHarry**](https://www.youtube.com/@CodeWithHarry) (Programming/dev tutorials in Hindi, Python, Web Dev, and more. Language: Hindi)
+
+[**Dave2D (Dave Lee)**](https://www.youtube.com/@Dave2D) (Focus on laptop, PC, and practical tech reviews. Language: English)
+
+[**Gadgets 360**](https://www.youtube.com/@Gadgets360) (From India’s Gadgets 360 site, tech news/reviews, buying tips. Language: Hindi, English)
+
+[**Geekyranjit (Ranjit Kumar)**](https://www.youtube.com/@Geekyranjit) (Unbiased English reviews of smartphones, gadgets, and consumer tech. Language: English)
+
+[**iJustine (Justine Ezarik)**](https://www.youtube.com/@ijustine) (Apple, lifestyle upgrade gadgets, and creative unboxings. Language: English)
+
+[**Linus Tech Tips (Linus Sebastian)**](https://www.youtube.com/@LinusTechTips) (PC builds, hardware reviews, deep-dive tutorials, tech experiments. Language: English)
+
+[**MKBHD (Marques Brownlee)**](https://www.youtube.com/@MKBHD) (Global leader in high-quality tech reviews, smartphones, EVs, and interviews. Language: English)
+
+[**Mrwhosetheboss (Arun Maini)**](https://www.youtube.com/@Mrwhosetheboss) (Balanced smartphone, gadget, and consumer tech reviews. Language: English)
+
+[**Sharmaji Technical**](https://www.youtube.com/@SharmajiTechnical) (Reviews, comparisons, smart gadgets, and Indian tech news. Language: Hindi)
+
+[**SuperSaf (Safwan Ahmedmia)**](https://www.youtube.com/@SuperSaf) (Smartphone and camera comparisons, flagship gadget tests. Language: English)
+
+[**TechBar**](https://www.youtube.com/@TechBar) (Cinematic unboxings and deep-dive smartphone reviews. Language: Hindi)
+
+[**Tech Burner (Shlok Srivastava)**](https://www.youtube.com/@TechBurner) (Fun unboxings, gadget experiments, and Hindi tech explainers. Language: Hindi)
+
+[**Tech Plus Gadgets (Naman Deshmukh)**] (Trending gadgets, infotainment for Indian audiences. Language: Hindi) (link pending verification)
+
+[**Technical Guruji (Gaurav Chaudhary)**](https://www.youtube.com/@TechnicalGuruji) (India's top Hindi tech channel, gadget reviews, tech news, and unboxings. Language: Hindi)
+
+[**Technology Gyan (Manoj Saru)**](https://www.youtube.com/@TechnologyGyan) (Budget gadgets, value-for-money advice, and simple tech tips. Language: Hindi)
+
+[**The Verge**](https://www.youtube.com/@TheVerge) (Official channel for Verge’s tech journalism, product showcases, and in-depth analysis. Language: English)
+
+[**Trakin Tech (Arun Prabhudesai)**](https://www.youtube.com/@TrakinTech) (Smartphone/gadget reviews, tech updates for Indian viewers. Language: Hindi)
+
+[**Unbox Therapy (Lewis Hilsenteger)**](https://www.youtube.com/@unboxtherapy) (Creative, innovative unboxings, new gadgets and accessories. Language: English)
+
 
 # [**Archive Page**](https://web.archive.org/save/https://github.com/superlincoln953/Free-Official-Youtube-Content)
 
