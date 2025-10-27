@@ -53,7 +53,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [Tech & Security](#tech--security)
 
-[Tech & Gadgets](#tech--gadgets)
+[Music & Concerts](#music--concerts)
 
 ---
 
@@ -1177,7 +1177,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 ---
 
-### Tech & Gadgets
+
 
 
 ### Music & Concerts
