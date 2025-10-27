@@ -18,8 +18,6 @@ This list will only focus on official YouTube channels who have the rights to po
 
 Buy second hand Blu-rays(1080p and lossless audio) and DVDs(480p and audio on par with streaming services) of the movies and shows you love and will watch more than once, they are cheap af, often have extra content, you can keep and watch it forever and no one can take it away.
 
-[If you want me to try out/give me 5 days of Real Debrid, use my referral link next time you renew/buy your Real Debrid subscription !](http://real-debrid.com/?id=15299096)
-
 [Original list on Rentry](https://rentry.co/Free-Official-Youtube-Content)
 
 ---
