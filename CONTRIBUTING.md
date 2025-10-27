@@ -24,7 +24,7 @@ Look for issues labeled `hacktoberfest` in the [issues section](https://github.c
 * Adding new official YouTube channels that provide free content.
 * Improving existing channel descriptions or correcting broken links.
 * Suggesting new categories for content.
-* Fixing typos or formatting issues in the `README.md`.
+* Fixing typos or formatting issues in the `README.md` and `CONTRIBUTING.md`
 
 <a href="https://github.com/superlincoln953/Free-Official-Youtube-Content/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=superlincoln953/Free-Official-Youtube-Content" />
