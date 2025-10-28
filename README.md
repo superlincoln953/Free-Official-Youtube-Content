@@ -875,8 +875,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Supernanny**](https://www.youtube.com/Supernanny) (Clips and full episodes)
 
-[**Taarak Mehta Ka Ooltah Chasmah**](https://www.youtube.com/@TaarakMehtaKaOoltahChashmah) (Clips and full episodes)
-
 [**Taskmaster**](https://www.youtube.com/@Taskmaster) (Clips, full episodes, trailers and single tasks)
 
 [**TBS**](https://www.youtube.com/@TBS) (Friends, Modern Family, Young Sheldon, The Big Bang Theory, Impractical Jokers, American Dad, AEW, Dinner and a Movie, The Cube, Miracle Workers, Friday Night Vibes, Wipeout, movies and more.)
