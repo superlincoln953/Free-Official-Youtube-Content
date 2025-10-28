@@ -699,6 +699,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Goldmines Bollywood**](https://www.youtube.com/@GoldminesBollywood) (Full movies and clips)
 
+[**Goldmines Telefilms**](https://www.youtube.com/@GoldminesTelefilms) (Full movies and clips)
+
 [**GrandpaHK Movie House**](https://www.youtube.com/@GrandpahkMovieHouse) (Full HK movies, multi subs)
 
 [**Grjngo - Western Movies**](https://www.youtube.com/@GrjngoWesternMovies) (Free western movies)
@@ -872,6 +874,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Suits Official**](https://www.youtube.com/@Suits) (Clips and recaps)
 
 [**Supernanny**](https://www.youtube.com/Supernanny) (Clips and full episodes)
+
+[**Taarak Mehta Ka Ooltah Chasmah**](https://www.youtube.com/@TaarakMehtaKaOoltahChashmah) (Clips and full episodes)
 
 [**Taskmaster**](https://www.youtube.com/@Taskmaster) (Clips, full episodes, trailers and single tasks)
 
