@@ -243,8 +243,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Dora & Friends**](https://www.youtube.com/@DoraOfficial) (Clips and full episodes)
 
-[**GoNoodle | Get Moving**](https://www.youtube.com/@GoNoodle) (Movement and mindfulness videos for kids)
-
 [**Horrid Henry**](https://www.youtube.com/@HorridHenry) (Full episodes of the British animated series)
 
 [**LEGO**](https://www.youtube.com/@LEGO) (Full episodes of LEGO series like Ninjago, music videos, and product content)
