@@ -22,6 +22,7 @@ Don't know how to code? Great! This project is for you! We welcome contributions
 
 Look for issues in the [issues section](https://github.com/vighneshb04/Free-Official-Youtube-Content/issues) or contribute by:
 * Writing short description for channels that don’t have them
+* Sorting the list by A-Z
 * Adding new official YouTube channels that provide free content.
 * Improving existing channel descriptions or correcting broken links.
 * Suggesting new categories for content.
