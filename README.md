@@ -95,6 +95,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Muse木棉花-HK**](https://www.youtube.com/channel/UCOsFUU8EtJGDd6-AouF_MwQ) (Cantonese dubbed anime and other content)
 
+[**Netflix Anime**](https://www.youtube.com/@netflixanime/) 
+
 [**Nozomi Entertainment**](https://www.youtube.com/@nozomient) (Clips and trailers for classic anime series)
 
 [**Official Yu-Gi-Oh!**](https://www.youtube.com/@yugioh) (Full episodes of various Yu-Gi-Oh! series)
