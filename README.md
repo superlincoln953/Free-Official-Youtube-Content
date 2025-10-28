@@ -227,6 +227,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Barbie**](https://www.youtube.com/@barbie) (Full episodes of Barbie series, movies, and vlogs)
 
+[**Barbie en Français**](https://youtube.com/@barbiefrancais) (Full episodes of Barbie, movies, clips and compilations, in French)
+
 [**Blippi - Educational Videos for Kids**](https://www.youtube.com/@Blippi) (Full episodes of the popular kids show)
 
 [**Bluey**](https://www.youtube.com/@BlueyOfficialChannel) (Clips and compilations)
