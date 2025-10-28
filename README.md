@@ -95,7 +95,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Muse木棉花-HK**](https://www.youtube.com/channel/UCOsFUU8EtJGDd6-AouF_MwQ) (Cantonese dubbed anime and other content)
 
-[**Netflix Anime**](https://www.youtube.com/@netflixanime/) 
+[**Netflix Anime**](https://www.youtube.com/@netflixanime/) (Trailers and clips)
 
 [**Nozomi Entertainment**](https://www.youtube.com/@nozomient) (Clips and trailers for classic anime series)
 
@@ -240,6 +240,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**CBBC**](https://www.youtube.com/CBBC) (Clips and compilations)
 
 [**Clifford the Big Red Dog Classic-Scholastic**](https://www.youtube.com/@CliffordtheBigRedDogClassic) (Full episodes, clips and compilations from various classic Clifford cartoons)
+
+[**Curious George**](https://www.youtube.com/@CuriousGeorge) (Full episodes of the popular kids show Curious George)
 
 [**Disney Channel**](https://www.youtube.com/@disneychannel) (Mostly clips and compilations but some full episodes)
 
@@ -698,6 +700,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**GEM: Film Library**](https://www.youtube.com/@gem-filmlibrary) (Full Movies)
 
 [**Goldmines Bollywood**](https://www.youtube.com/@GoldminesBollywood) (Full movies and clips)
+
+[**Goldmines Telefilms**](https://www.youtube.com/@GoldminesTelefilms) (Full movies and clips)
 
 [**GrandpaHK Movie House**](https://www.youtube.com/@GrandpahkMovieHouse) (Full HK movies, multi subs)
 
