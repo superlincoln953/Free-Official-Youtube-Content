@@ -579,7 +579,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**PeriscopeFilm**](https://www.youtube.com/@PeriscopeFilm) (Old educational films)
 
-[**Pixar**](https://www.youtube.com/@pixar/) (Trailers, Featurettes, Clips, Behind The Scenes and extra content like [Dream Productions Episode 1]((https://www.youtube.com/watch?v=mxfwOZsVOeU))
+[**Pixar**](https://www.youtube.com/@pixar/) (Trailers, Featurettes, Clips, Behind The Scenes and extra content)
 
 [**Prime Video**](https://www.youtube.com/@PrimeVideo) (Trailers, clips, and behind-the-scenes content from Amazon Prime Video originals)
 
