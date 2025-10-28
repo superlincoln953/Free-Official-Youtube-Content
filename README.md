@@ -438,10 +438,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Science Channel**](https://youtube.com/@sciencechannel) (Includes many programs and clips)
 
 [**Sen**](https://www.youtube.com/@Sen) (Earth from space in 4K | 4K Livestream of Earth from Space | Live Views from ISS)
+[**Smithsonian Channel**](https://www.youtube.com/@SmithsonianChannel) (History, science, and culture documentaries produced by the Smithsonian Institution.)
 
-[**Smithsonian Channel**](https://www.youtube.com/@SmithsonianChannel)
-
-[**Space Oral History**](https://www.youtube.com/@spaceoralhistory8448/)
+[**Space Oral History**](https://www.youtube.com/@spaceoralhistory8448/) (Interviews and oral histories from astronauts, engineers, and space program historians.)
 
 [**Standart**](https://www.youtube.com/channel/UCZUkQij64MCMH-3b1ycUGjg/featured) (Full documentaries)
 
@@ -523,9 +522,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Disney On Broadway**](https://www.youtube.com/@disneymusicals) (Clips, songs and special features from Disney musicals on Broadway ([except Hamilton because it has its own YT channel](https://www.youtube.com/@HamiltonMusical)))
 
-[**Disney Parks**](https://www.youtube.com/@DisneyParks)
+[**Disney Parks**](https://www.youtube.com/@DisneyParks) (Park tours, ride-throughs, event coverage, and behind‑the‑scenes content from Disney Parks worldwide.)
 
-[**Eurovision Song Contest**](https://www.youtube.com/@EurovisionSongContest/)
+[**Eurovision Song Contest**](https://www.youtube.com/@EurovisionSongContest/) (Official performances, highlights, and archive videos from past Eurovision contests.)
 
 [**First We Feast**](https://www.youtube.com/@FirstWeFeast) (Home of the "Hot Ones" celebrity interview show)
 
