@@ -991,6 +991,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Badminton World Federation/BWF TV**](https://www.youtube.com/@BWF) (Official BWF channel with live matches and highlights)
 
+[**Battlebots**](https://www.youtube.com/@BattleBots) 
+
 [**beIN SPORTS Asia**](https://www.youtube.com/@beINSPORTSAsia/) (Sports highlights and analysis from beIN SPORTS Asia)
 
 [**Big Bash League**](https://www.youtube.com/@BigBash) (Official Australian T20 cricket league highlights and matches)
@@ -1060,6 +1062,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**NFL**](https://www.youtube.com/@NFL) (Game highlights, full classic games, and analysis)
 
 [**NHL**](https://www.youtube.com/@NHL) (Official NHL highlights, game recaps, and classic hockey games)
+
+[**NHRl**](https://www.youtube.com/@NHRL) 
 
 [**NTT INDYCAR SERIES**](https://www.youtube.com/@indycar) (Clips, highlights and extras)
 
