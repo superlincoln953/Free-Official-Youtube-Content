@@ -149,8 +149,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Disney Channel Animation**](https://www.youtube.com/@disneychannelanimation) (Mostly Clips, compilations and extras but some full seasons like [Tangled: The Series/Rapunzel's Tangled Adventure Season 1 (TTS/RTA)](https://www.youtube.com/playlist?list=PLiv1IUQDVSNIqxjX4rzvIMw7EjwGspqGt) (Underrated Animated Series with some great songs, basically it is Tangled 2, but beware its hour-long pilot episode is Tangled: Before Ever After (TV Movie 2017) and not its episode 1 "What the Hair?!" | [TTS/RTA Episode Guide](https://www.reddit.com/r/Tangled/comments/ekn533/rapunzels_tangled_adventure_episode_guide/)) and [The Owl House Season 3](https://www.youtube.com/watch?v=Jg2i4vqSFxM) and some full episodes)
 
-[**Disney XD**](https://www.youtube.com/@disneyxd) (Mostly clips and compilations but some full episodes, might not be available in every country)
-
 [**DreamWorks Dragons**](https://www.youtube.com/@dreamworksdragons) (Clips from shows and movies and toy content.)
 
 [**DreamWorks Madagascar**](https://www.youtube.com/@DreamWorksMadagascar) (Short clips from the movies and long clips or even full episodes from the kids cartoon)
@@ -276,8 +274,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**PBS Kids**](https://www.youtube.com/@PBSKIDS) (Mostly clips, some full episodes)
 
 [**Peacock jr**](https://www.youtube.com/@peacockjr) (Clips and compilations)
-
-[**Peacock Kids/Universal Kids**](https://www.youtube.com/@PeacockKids) (Clips, songs, compilations, including clips from movies)
 
 [**Peppa Pig**](https://www.youtube.com/@PeppaPigOfficial) (Clips and full episodes)
 
@@ -653,8 +649,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Warner Bros Entertainment**](https://www.youtube.com/@warnerbrosentertainment) (Trailers, clips, and promotional content from Warner Bros. productions)
 
-[**Warner Bros. Rewind**](https://www.youtube.com/@WarnerBrosRewind) (Classic Warner Bros. content and retro clips)
-
 [**Warner Bros. TV**](https://www.youtube.com/@warnerbrostv) (Trailers and clips from Warner Bros. television productions)
 
 [**Warner bros Classics**](https://www.youtube.com/@warnerbrosclassics/) (Clips, compilations, remasters, from the older eras of WB)
@@ -672,8 +666,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Artflix - Movie Classics**](https://www.youtube.com/channel/UCNcUc5v0Kt5afE_jcbbZUBQ/featured) (General Movies)
 
 [**Blockbuster English Movies**](https://www.youtube.com/@blockbusterenglishmovies) (Full movies)
-
-[**Bondlt Media Capital/Buffalo 8**](https://www.youtube.com/@bonditmediacapitalbuffalo8) (Movies, tv shows, documentaries, trailers...)
 
 [**chn classic/經典華語老電影**](https://www.youtube.com/@chnclassic) (Full 1080p chinese movies)
 
@@ -827,8 +819,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**House M.D.**](https://www.youtube.com/@HouseM.D.) (Mostly scenes from episodes)
 
-[**Jail**](https://www.youtube.com/@JailTVShow) (Multiple languages, some clips)
-
 [**Jimmy Kimmel Live**](https://www.youtube.com/@JimmyKimmelLive) (Full interviews, monologues, and comedy sketches)
 
 [**Kitchen Nightmares**](https://www.youtube.com/@KitchenNightmares) (Clips, full episodes and full seasons)
@@ -842,8 +832,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Mayday: Air Disaster**](https://www.youtube.com/@MaydayAirDisaster) (Full Episodes and full seasons)
 
 [**Mr. Bean**](https://www.youtube.com/@MrBean) (Full episodes of the live-action series)
-
-[**Mythbusters**](https://www.youtube.com/@Mythbusterstvshow) (Clips, full episodes and compilations)
 
 [**One Chicago**](https://www.youtube.com/@nbconechicago) (Clips)
 
