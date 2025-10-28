@@ -16,6 +16,7 @@ Don't know how to code? Great! This project is for you! We welcome contributions
 * For content suggestions, **do not add YouTubers** to the list unless they focus on restoring and/or uploading **public domain content** like old movies and documentaries.
 * **Do not add region-locked channels** that require a VPN to view their content. These are outside the scope of this list.
 * **Each channel removal must be backed by a good reason in the PR, or else any PR with any channel removal not backed by a good reason will not be merged**
+* Update your fork before you open a pull request.
 
 ### For Hacktoberfest:
 
