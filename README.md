@@ -435,7 +435,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Science Channel**](https://youtube.com/@sciencechannel) (Includes many programs and clips)
 
-[**Sen**](https://www.youtube.com/@Sen) (Earth from space in 4K | 4K Livestream of Earth from Space | Live Views from ISS)
+[**Sen**](https://www.youtube.com/@Sen) (Earth from space in 4K | 4K Livestream of Earth from Space | Live Views from ISS | Videos of Earth from space in 4K)
 
 [**Smithsonian Channel**](https://www.youtube.com/@SmithsonianChannel) (History, science, and culture documentaries produced by the Smithsonian Institution.)
 
