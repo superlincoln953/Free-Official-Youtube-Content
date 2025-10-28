@@ -237,6 +237,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Clifford the Big Red Dog Classic-Scholastic**](https://www.youtube.com/@CliffordtheBigRedDogClassic) (Full episodes, clips and compilations from various classic Clifford cartoons)
 
+[**Curious George**](https://www.youtube.com/@CuriousGeorge) (Full episodes of the popular kids show Curious George)
+
 [**Disney Channel**](https://www.youtube.com/@disneychannel) (Mostly clips and compilations but some full episodes)
 
 [**Disney Jr.**](https://www.youtube.com/@disneyjr) (Mostly clips and compilations but some full episodes)
