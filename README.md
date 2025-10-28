@@ -127,6 +127,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Avatar: The Last Airbender**](https://www.youtube.com/@avatarthelastairbender) (Official clips, compilations, and full episodes)
 
+[**Ben 10**](https://www.youtube.com/@Ben10) (Official clips, compilations, and full episodes, in English)
+
 [**Bugs Bunny**](https://www.youtube.com/@looneytunes) (Classic Looney Tunes shorts and clips)
 
 [**Cartoon Hangover**](https://www.youtube.com/@CartoonHangover) (Home of Bravest Warriors and other indie animations)
