@@ -277,8 +277,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Peacock jr**](https://www.youtube.com/@peacockjr) (Clips and compilations)
 
-[**Peacock Kids/Universal Kids**](https://www.youtube.com/@PeacockKids) (Clips, songs, compilations, including clips from movies)
-
 [**Peppa Pig**](https://www.youtube.com/@PeppaPigOfficial) (Clips and full episodes)
 
 [**PJ Masks Official**](https://www.youtube.com/@PJMasks) (Full episodes, clips, and music videos)
@@ -675,7 +673,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Blockbuster English Movies**](https://www.youtube.com/@blockbusterenglishmovies) (Full movies)
 
-[**Bondlt Media Capital/Buffalo 8**](https://www.youtube.com/@bonditmediacapitalbuffalo8) (Movies, tv shows, documentaries, trailers...)
+[**Bondlt Media Capital/Buffalo 8**](https://www.youtube.com/@buffalo8moviechannel) (Movies, tv shows, documentaries, trailers...)
 
 [**chn classic/經典華語老電影**](https://www.youtube.com/@chnclassic) (Full 1080p chinese movies)
 
