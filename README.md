@@ -533,6 +533,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**First We Feast**](https://www.youtube.com/@FirstWeFeast) (Home of the "Hot Ones" celebrity interview show)
 
+[**Food Network**](https://youtube.com/@foodnetwork) (Full episodes, clips, trailers from Food Network TV shows)
+
 [**Found Footage Fest**](https://www.youtube.com/@FoundFootageFest) (Rare Movies / TV / [Website](http://www.foundfootagefest.com/))
 
 [**FX Networks**](https://www.youtube.com/@FXNetworks) (Trailers and clips from FX shows)
