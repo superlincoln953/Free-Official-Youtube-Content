@@ -149,8 +149,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Disney Channel Animation**](https://www.youtube.com/@disneychannelanimation) (Mostly Clips, compilations and extras but some full seasons like [Tangled: The Series/Rapunzel's Tangled Adventure Season 1 (TTS/RTA)](https://www.youtube.com/playlist?list=PLiv1IUQDVSNIqxjX4rzvIMw7EjwGspqGt) (Underrated Animated Series with some great songs, basically it is Tangled 2, but beware its hour-long pilot episode is Tangled: Before Ever After (TV Movie 2017) and not its episode 1 "What the Hair?!" | [TTS/RTA Episode Guide](https://www.reddit.com/r/Tangled/comments/ekn533/rapunzels_tangled_adventure_episode_guide/)) and [The Owl House Season 3](https://www.youtube.com/watch?v=Jg2i4vqSFxM) and some full episodes)
 
-[Disney Music](www.youtube.com/@DisneyMusicVEVO) (Official musical clips annd scenes from Disney animations and movies)
-
 [**Disney XD**](https://www.youtube.com/@disneyxd) (Mostly clips and compilations but some full episodes, might not be available in every country)
 
 [**DreamWorks Dragons**](https://www.youtube.com/@dreamworksdragons) (Clips from shows and movies and toy content.)
@@ -526,6 +524,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Disney**](https://www.youtube.com/@Disney/)(Clips and Trailers)
 
 [**Disney Movies Hong Kong**](https://www.youtube.com/@DisneyMoviesHongKong/) (BTS, Clips and Trailers)
+
+[**Disney Music**](https://www.youtube.com/@DisneyMusicVEVO) (Official musical clips annd scenes from Disney animations and movies)
 
 [**Disney On Broadway**](https://www.youtube.com/@disneymusicals) (Clips, songs and special features from Disney musicals on Broadway ([except Hamilton because it has its own YT channel](https://www.youtube.com/@HamiltonMusical)))
 
