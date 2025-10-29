@@ -555,6 +555,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**I Mostly Blame Myself**](https://youtube.com/@imostlyblamemyself) (Clips)
 
+[**ITV**](https://www.youtube.com/@itv) (Clips, trailers, behind-the-scenes, interviews, and exclusive content from ITV)
+
 [**ITN Archive**](https://www.youtube.com/@ITNArchive) (Archive of old TV Transmissions, news, documentaries, movies...)
 
 [**Jbuck's Retro Rewnd**](https://www.youtube.com/@jbuckretrorewind) (Retro Saturday morning cartoons and TV shows, with retro commercials)
