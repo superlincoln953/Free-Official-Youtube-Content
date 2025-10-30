@@ -665,7 +665,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**WIRED**](https://www.youtube.com/@WIRED) (Tech reviews, documentaries, and expert Q&As)
 
-[**HaveIGotNewsforYou**](https://www.youtube.com/@HaveIGotNewsforYouOfficial)(A UK BBC program that comedically addresses national and international news)
 ### Movies
 
 [**A Touch of Evil**](https://www.youtube.com/channel/UCHgm6IUmnTV2aAMMCSPq8zA/featured) (Horror)
@@ -829,6 +828,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Gordon Ramsay**](https://www.youtube.com/GordonRamsay) (Clips and full episodes from the shows he's in)
 
 [**Grjngo - Western Series**](https://www.youtube.com/@GrjngoWesternSeries) (Free western series)
+
+[**Have I Got News for You**](https://www.youtube.com/@HaveIGotNewsforYouOfficial)(A UK BBC program that comedically addresses national and international news)
 
 [**Hell's Kitchen**](https://www.youtube.com/@hellskitchen) (Clips and full episodes)
 
