@@ -709,6 +709,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Grjngo - Western Movies**](https://www.youtube.com/@GrjngoWesternMovies) (Free western movies)
 
+[**Hallmark Channel**](www.youtube.com/@HallmarkChannelUSA) (Previews, clips and full movies)
+
 [**Harry Potter**](https://www.youtube.com/@harrypotter) (Movie recaps, deleted scenes and extras)
 
 [**James Bond 007**](https://www.youtube.com/@007) (Official James Bond trailers, clips, and behind-the-scenes content)
