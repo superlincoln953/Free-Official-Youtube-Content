@@ -917,6 +917,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Walking Dead**](https://www.youtube.com/@thewalkingdead) (Clips, trailers, and behind-the-scenes content)
 
+[**The Voice Global**](https://www.youtube.com/@TheVoiceGlobal) (clips of amazing song performances from the The Voice)
+
 [**This Old House**](https://www.youtube.com/@thisoldhouse) (Full episodes and clips from the home improvement series)
 
 [**Top Gear**](https://www.youtube.com/@TopGear) (Clips)
