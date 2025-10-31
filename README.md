@@ -897,6 +897,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Carol Burnett Show**](https://www.youtube.com/@CarolBurnettShow) (Official clips and sketches)
 
+[**The Daily Show**](https://www.youtube.com/@TheDailyShow)(monologues,interviews by different hosts each week)
+
 [**The F Word**](https://www.youtube.com/@theFword) (Big clips, full episodes and extras)
 
 [**The Graham Norton Show**](https://www.youtube.com/@OfficialGrahamNorton) (Clips and compilations from the popular talk show)
