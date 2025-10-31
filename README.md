@@ -273,6 +273,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Nickelodeon**](https://www.youtube.com/@nickelodeon) (Clips, compilations, live events)
 
+[**NickRewind**](https://www.youtube.com/@NickRewind) (Clips, compilations of 2000's Nick shows and toons)
+
 [**Numberblocks**](https://www.youtube.com/@Numberblocks) (Full episodes that teach math concepts)
 
 [**PBS Kids**](https://www.youtube.com/@PBSKIDS) (Mostly clips, some full episodes)
