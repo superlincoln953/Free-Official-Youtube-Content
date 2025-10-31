@@ -18,15 +18,15 @@ Don't know how to code? Great! This project is for you! We welcome contributions
 * **Each channel removal must be backed by a good reason in the PR, or else any PR with any channel removal not backed by a good reason will not be merged**
 * Update your fork before you open a pull request.
 
-### For Hacktoberfest:
+### For Hacktoberfest/ Newcomers who want to contribute to the project:
 
 Look for issues in the [issues section](https://github.com/vighneshb04/Free-Official-Youtube-Content/issues) or contribute by:
 * Writing short description for channels that don’t have them
 * Sorting the list by A-Z
-* Adding new official YouTube channels that provide free content.
 * Improving existing channel descriptions or correcting broken links.
-* Suggesting new categories for content.
 * Fixing typos or formatting issues in the `README.md` and `CONTRIBUTING.md`
+* Adding new official YouTube channels that provide free content.
+* Suggesting new categories for content.
 
 <a href="https://github.com/superlincoln953/Free-Official-Youtube-Content/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=superlincoln953/Free-Official-Youtube-Content" />
