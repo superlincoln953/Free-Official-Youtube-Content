@@ -939,7 +939,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Young Sheldon**](https://www.youtube.com/@YoungSheldonOfficial) (Clips)
 
-
 ### VFX Breakdown
 
 [**Autodesk**](https://www.youtube.com/@Autodesk) (Software tutorials that often include professional VFX breakdowns)
