@@ -731,6 +731,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Movie Central**](https://www.youtube.com/channel/UCGBzBkV-MinlBvHBzZawfLQ) (Full-length movies from various genres)
 
+[**Movieclips**](https://www.youtube.com/@MOVIECLIPS) (Movie clips)
+
 [**New Castle After Dark**](https://www.youtube.com/channel/UC951AqujycbBI083GmKRY3A/featured) (horror)
 
 [**OSR Digital**](https://www.youtube.com/@OSRDigital) (Nepali movies)
@@ -896,8 +898,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**The Bob Ross Channel**](https://www.youtube.com/@bobross_thejoyofpainting) (Full episodes of "The Joy of Painting")
 
 [**The Carol Burnett Show**](https://www.youtube.com/@CarolBurnettShow) (Official clips and sketches)
-
-[**The Daily Show**](https://www.youtube.com/@TheDailyShow)(monologues,interviews by different hosts each week)
 
 [**The F Word**](https://www.youtube.com/@theFword) (Big clips, full episodes and extras)
 
@@ -1217,7 +1217,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 ## Contributing to this List (Hacktoberfest Friendly! 🎃)
 
-Don't know how to code? Great! This project is for you! We welcome contributions to expand and improve this list! This project is also a great way to contribute to **Hacktoberfest**. **This project doesn't need any coding skills in order to contribute**
+Don't know how to code? Great! This project is for you! We welcome contributions to expand and improve this list! This project is also a great way to contribute to **Hacktoberfest**. This project doesn't need any coding skills in order to contribute
 
 ---
 
