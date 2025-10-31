@@ -843,6 +843,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Kitchen Nightmares**](https://www.youtube.com/@KitchenNightmares) (Clips, full episodes and full seasons)
 
+[**LastWeekTonight**](https://www.youtube.com/@LastWeekTonight)(John Oliver discusses a social or international issue in depth in a comedic fashion ,the channel also has web exclusives that are not aired on television)
+
 [**Late Night With Seth Meyers**](https://www.youtube.com/@LateNightSeth)(monologues,interviews and sketches)
 
 [**Law & Order**](https://www.youtube.com/@LawAndOrderNBC) (Long clips and compilations)
