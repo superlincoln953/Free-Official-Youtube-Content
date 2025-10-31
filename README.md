@@ -937,6 +937,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Young Sheldon**](https://www.youtube.com/@YoungSheldonOfficial) (Clips)
 
+[**Late Night With Seth Meyers**](https://www.youtube.com/@LateNightSeth)(monologues,interviews and sketches)
 ### VFX Breakdown
 
 [**Autodesk**](https://www.youtube.com/@Autodesk) (Software tutorials that often include professional VFX breakdowns)
