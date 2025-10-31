@@ -205,6 +205,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Powerpuff Girls**](https://www.youtube.com/@ThePowerpuffGirls) (Clips and compilations)
 
+[**The Smurfs**](www.youtube.com/@TheSmurfsEnglish) (Official clips, compilations and full episodes)
+
 [**The Simpsons**](https://www.youtube.com/@TheSimpsons) (Official clips, compilations, and shorts)
 
 [**Transformers Official**](https://www.youtube.com/@TransformersOfficial) (Clips and full episodes from various Transformers series)
