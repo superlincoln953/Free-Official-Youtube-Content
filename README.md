@@ -547,6 +547,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**GOPRO**](https://www.youtube.com/gopro) (Products, POV's and awesome content)
 
+[**GODZILLA OFFICIAL by TOHO**](https://www.youtube.com/@GodzillaToho/) (clips)
+
 [**Harry Potter**](https://www.youtube.com/@harrypotter) (Movie recaps, deleted scenes and extras)
 
 [**HBO**](https://www.youtube.com/@HBO) (Trailers, clips, and behind-the-scenes content from HBO series and films)
