@@ -407,13 +407,13 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**NASA**](https://www.youtube.com/@NASA) (live, Informative videos and some full original documentaries)
 
+[**NASA's Ames Research Center**](https://www.youtube.com/@NASAAmes) (Clips from documentaries and tests)
+
 [**NASA Goddard**](https://www.youtube.com/@NASAGoddard) (Videos about researches and generally interesting stuff by the NASA Goddard Space Flight Center team)
 
 [**NASA Jet Propulsion Laboratory**](https://www.youtube.com/@NASAJPL) (Informative videos and recordings from conventions)
 
 [**NASA Video**](https://www.youtube.com/@nasagovvideo) (Videos from NASA, not all in English)
-
-[**NASA's Ames Research Center**](https://www.youtube.com/@NASAAmes) (Clips from documentaries and tests)
 
 [**National Geographic**](https://www.youtube.com/@NatGeo) (Full episodes and clips)
 
@@ -774,6 +774,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**WTvF! - Digital Grindhouse & Drive-In**](https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) (Exploitation)
 
 [**Wu Tang Collection**](https://www.youtube.com/channel/UCUpbgPbDccjoB9PxI-nI7oA) (Classic Martial Arts Films/ [Website](https://www.thewutangcollection.com/))
+
+[**Wicked**](https://www.youtube.com/c/wickedmovie) (musical)
 
 ### TV Shows
 
