@@ -213,6 +213,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Vivziepop/SpindleHorse**](https://www.youtube.com/@SpindleHorse) (Not suitable for kids, full episodes and related content)
 
+[**Wallace & Gromit**](https://www.youtube.com/@WallaceAndGromitOfficial) 
+
 [**WB Kids**](https://www.youtube.com/@WBKids) (A mix of clips and full episodes from the Warner Bros. animation library)
 
 [**WildBrain Max**](https://www.youtube.com/@WildBrainMax) (Compilations of full seasons, related channels with extra content)
