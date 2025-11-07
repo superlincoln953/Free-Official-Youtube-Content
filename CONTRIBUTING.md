@@ -17,6 +17,7 @@ Don't know how to code? Great! This project is for you! We welcome contributions
 * **Do not add region-locked channels** that require a VPN to view their content. These are outside the scope of this list.
 * **Each channel removal must be backed by a good reason in the PR, or else any PR with any channel removal not backed by a good reason will not be merged**
 * Update your fork before you open a pull request.
+* I would really appreciate you if you star this list/project. 
 
 ### For Hacktoberfest/ Newcomers who want to contribute to the project:
 
