@@ -675,6 +675,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**WIRED**](https://www.youtube.com/@WIRED) (Tech reviews, documentaries, and expert Q&As)
 
+[**WICKED The Musical**](https://www.youtube.com/@wicked_musical) 
+
 ### Movies
 
 [**A Touch of Evil**](https://www.youtube.com/channel/UCHgm6IUmnTV2aAMMCSPq8zA/featured) (Horror)
