@@ -613,6 +613,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**SBS On Demand**](https://www.youtube.com/@SBSOnDemand) (Trailers, movie and content from the SBS Australian channel, not related to the Korean one)
 
+[**Searchlight Pictures**](www.youtube.com/@searchlightpictures) (Official trailers, extended trailers, and clips)
+
 [**Shadow Pine Studios**](https://www.youtube.com/@shadowpineinc) (Various media: animated shows, documentaries like [Greatest Tank Battles Season 1-3](https://www.youtube.com/playlist?list=PLmlOlokCCWI_KkzCUXSsuo11PolRWGPiq)...)
 
 [**SHOWTIME**](https://www.youtube.com/@Showtime) (Clips, trailers, a few full episodes, connected to Paramount+)
