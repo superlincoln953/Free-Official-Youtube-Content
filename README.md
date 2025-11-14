@@ -555,6 +555,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Harry Potter**](https://www.youtube.com/@harrypotter) (Movie recaps, deleted scenes and extras)
 
+[**Harry Potter and the Cursed Child**](https://www.youtube.com/@CursedChildOfficial) (clips and BTS) 
+
 [**HBO**](https://www.youtube.com/@HBO) (Trailers, clips, and behind-the-scenes content from HBO series and films)
 
 [**HBO Max**](https://www.youtube.com/@hbomax) (Podcast episodes, clips, exclusive/extra content)
@@ -613,7 +615,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**SBS On Demand**](https://www.youtube.com/@SBSOnDemand) (Trailers, movie and content from the SBS Australian channel, not related to the Korean one)
 
-[**Searchlight Pictures**](www.youtube.com/@searchlightpictures) (Official trailers, extended trailers, and clips)
+[**Searchlight Pictures**](https://www.youtube.com/@searchlightpictures) (Official trailers, extended trailers, and clips)
 
 [**Shadow Pine Studios**](https://www.youtube.com/@shadowpineinc) (Various media: animated shows, documentaries like [Greatest Tank Battles Season 1-3](https://www.youtube.com/playlist?list=PLmlOlokCCWI_KkzCUXSsuo11PolRWGPiq)...)
 
