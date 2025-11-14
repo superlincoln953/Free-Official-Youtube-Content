@@ -937,6 +937,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**This Old House**](https://www.youtube.com/@thisoldhouse) (Full episodes and clips from the home improvement series)
 
+[**The Kelly Clarkson Show**](https://www.youtube.com/@kellyclarksonshow) (Full interviews, sketches, and games)
+
 [**Top Gear**](https://www.youtube.com/@TopGear) (Clips)
 
 [**Top Gear Classic**](https://www.youtube.com/@TopGearClassic) (Clips)
