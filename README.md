@@ -865,6 +865,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Law & Order**](https://www.youtube.com/@LawAndOrderNBC) (Long clips and compilations)
 
+[**LOL! Network**](https://www.youtube.com/@LOLNetwork) (U.S. comedy TV shows and a few movies)
+
 [**Master Chef UK**](https://www.youtube.com/@MasterChefUK) (Full episodes and clips)
 
 [**Master Chef World**](https://www.youtube.com/@masterchefworld) (Compilations and full episodes)
