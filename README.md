@@ -411,6 +411,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**NASA's Ames Research Center**](https://www.youtube.com/@NASAAmes) (Clips from documentaries and tests)
 
+[**NASA Armstrong Flight Research Center**](https://www.youtube.com/@NASAArmstrong) 
+
 [**NASA Goddard**](https://www.youtube.com/@NASAGoddard) (Videos about researches and generally interesting stuff by the NASA Goddard Space Flight Center team)
 
 [**NASA Jet Propulsion Laboratory**](https://www.youtube.com/@NASAJPL) (Informative videos and recordings from conventions)
