@@ -455,6 +455,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Standart**](https://www.youtube.com/channel/UCZUkQij64MCMH-3b1ycUGjg/featured) (Full documentaries)
 
+[**Steve Jobs Archive**](https://www.youtube.com/@Steve-Jobs-Archive) 
+
 [**The Emulsion Alchemist**](https://www.youtube.com/@theemulsionalchemist5688) (Restored old, obscure, informational films)
 
 [**The Film Gate**](https://www.youtube.com/@Thefilmgate) (Stock Footage from historical films)
