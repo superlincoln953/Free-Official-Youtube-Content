@@ -479,9 +479,9 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**WWII US Bombers**](https://www.youtube.com/@WWIIUSBombers) (Documentaries about WWII Bombers made in the USA)
 
-[**ZenosWarbirds**](https://www.youtube.com/@ZenosWarbirds) (Vintage military documentaries, not just on planes like the title implies)
-
 [**유용원TV/Yoo Yong-won TV**](https://www.youtube.com/@Bemil_TV) (Clips from Korean military documentaries)
+
+[**ZenosWarbirds**](https://www.youtube.com/@ZenosWarbirds) (Vintage military documentaries, not just on planes like the title implies)
 
 ### Misc/Channels
 
