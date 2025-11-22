@@ -541,6 +541,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Disney Parks**](https://www.youtube.com/@DisneyParks) (Park tours, ride-throughs, event coverage, and behind‑the‑scenes content from Disney Parks worldwide.)
 
+[**Disneyland Paris**](https://www.youtube.com/@DisneylandParis/) 
+
 [**Eurovision Song Contest**](https://www.youtube.com/@EurovisionSongContest/) (Official performances, highlights, and archive videos from past Eurovision contests.)
 
 [**First We Feast**](https://www.youtube.com/@FirstWeFeast) (Home of the "Hot Ones" celebrity interview show)
