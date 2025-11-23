@@ -445,6 +445,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Ross Kemp Extreme World**](https://www.youtube.com/@rosskempextremeworld) (Clips and full episodes)
 
+[**San Diego Air and Space Museum Archives**](https://www.youtube.com/@sdasmarchives/) 
+
 [**Science Channel**](https://youtube.com/@sciencechannel) (Includes many programs and clips)
 
 [**Sen**](https://www.youtube.com/@Sen) (Earth from space in 4K | 4K Livestream of Earth from Space | Live Views from ISS)
