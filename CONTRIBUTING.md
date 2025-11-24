@@ -35,6 +35,7 @@ Look for issues in the [issues section](https://github.com/vighneshb04/Free-Offi
 </a>
 
 Made with ❤️ by awesome people!
+
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/superlincoln953/Free-Official-Youtube-Content)
 ---
 **Follow the Markdown format**
