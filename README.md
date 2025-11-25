@@ -379,6 +379,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Frontline PBS**](https://www.youtube.com/@frontline) (Investigative Journalism)
 
+[**From the Vault of MIT**](https://www.youtube.com/@FromTheVaultofMIT) 
+
 [**Grow**](https://www.youtube.com/channel/UCCYhvWD88Mbd2M14GqpPM9A/featured) (Full documentaries)
 
 [**History**](https://www.youtube.com/@HISTORY) (Clips and full episodes of History Channel Documentary Series like [Dogfights](https://www.youtube.com/playlist?list=PLob1mZcVWOaiQyIGLr2HAuCaY3SP-cHcL))
