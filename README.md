@@ -155,6 +155,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**DreamWorks Madagascar**](https://www.youtube.com/@DreamWorksMadagascar) (Short clips from the movies and long clips or even full episodes from the kids cartoon)
 
+[**Doraemon/【公式】ドラえもん / 藤子・F・不二雄チャンネル**](https://www.youtube.com/@Doraemon_F_Channel) 
+
 [**Family guy**](https://www.youtube.com/@FamilyGuyFOX) (clips and playlists of full episodes)
 
 [**Foot 2 Rue**](https://www.youtube.com/@foot2rueextreme/videos) (All full episodes, French only)
