@@ -1143,6 +1143,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Sky Sports Premiere League**](https://www.youtube.com/@skysportspremierleague) (Highlights)
 
+[**TGL**](https://youtube.com/@tgl)
+
 [**The Emirates FA Cup**](https://www.youtube.com/@thefacup) (Official FA Cup highlights and match coverage)
 
 [**UFC - Ultimate Fighting Championship**](https://www.youtube.com/@ufc) (Fight highlights, full fight replays, interviews, and press conferences)
