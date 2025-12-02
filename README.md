@@ -257,6 +257,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Horrid Henry**](https://www.youtube.com/@HorridHenry) (Full episodes of the British animated series)
 
+[[**Jelly Jamm**](https://www.youtube.com/@JellyjammOficial) (Full episodes of Jelly Jamm in English and Spanish - some uploads contains errors - Also available officially in [ZooMoo](https://www.youtube.com/@ZooMoo) and [Vodka Capital](https://www.youtube.com/@VodkaCapital) - [Unofficial playlist](https://www.youtube.com/playlist?list=PLyhIO-4tEMIAYLuMcwg7_B3Ica0JH3_PF) of the full series in order containing only the official uploads from the previously mentioned channels)
+
 [**LEGO**](https://www.youtube.com/@LEGO) (Full episodes of LEGO series like Ninjago, music videos, and product content)
 
 [**Masha and The Bear**](https://www.youtube.com/@MashaBearEN) (Full episodes and compilations)
