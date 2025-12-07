@@ -49,3 +49,5 @@ Try to keep the links as https://www.youtube.com/@*ChannelName*
 If you don't know of any YouTube channels that fit the description but still want to contribute, you can do so by adding some small descriptions to channels without descriptions, possibly following the simple formula via a pull request, for the channels which don't have one. You can also fix inaccurate descriptions or typos via a pull request. 
 
 For people who want to suggest content, don't add YouTubers to the list, unless they focus on restoring and/or uploading public domain content like old movies and documentaries. And don't add region locked channels that require [a VPN](https://fmhy.net/privacy#vpn) to look at their content, I've had many suggested channels with lots of playlists which were hidden because they were region locked to a certain area. These are outside the scope of my list. 
+
+Always read `README.md` and `CONTRIBUTING.md` in full first before you  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/superlincoln953/Free-Official-Youtube-Content)! Contributors have worked very hard on writing and maintaining this list! 
