@@ -22,6 +22,7 @@ Don't know how to code? Great! This project is for you! We welcome contributions
 ### For Hacktoberfest/ Newcomers who want to contribute to the project:
 
 Look for issues in the [issues section](https://github.com/vighneshb04/Free-Official-Youtube-Content/issues) or contribute by:
+* Star this list/project
 * Writing short description for channels that don’t have them
 * Sorting the list by A-Z
 * Improving existing channel descriptions or correcting broken links.
