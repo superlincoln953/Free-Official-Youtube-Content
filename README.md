@@ -525,6 +525,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**British Pathé**](https://www.youtube.com/@britishpathe) (archival of very old (some a century old or more) TV transmissions, documentaries and news)
 
+[**BFI**](https://www.youtube.com/@britishfilminstitute) 
+
 [**CBC**](https://www.youtube.com/@CBC) (Clips and Trailers)
 
 [**CBS**](https://www.youtube.com/@CBS) (Clips and Trailers)
