@@ -661,6 +661,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Shows Must Go On!**](https://www.youtube.com/@TheShowsMustGoOn) (Provides full-length performances of Andrew Lloyd Webber musicals and other official recordings of stage shows and concerts)
 
+[**TIME**](https://www.youtube.com/@TIME/)
+
 [**truTV**](https://www.youtube.com/@trutv) (Clips)
 
 [**Universal Orlando Resort**](https://www.youtube.com/@UniversalOrlando) (Theme park tours, ride-throughs, and special events from Universal Orlando)
