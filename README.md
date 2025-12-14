@@ -1259,7 +1259,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 ## Contributing to this List (Hacktoberfest Friendly! 🎃)
 
-Don't know how to code? Great! This project is for you! We welcome contributions to expand and improve this list! This project is also a great way to contribute to **Hacktoberfest**. **This project doesn't need any coding skills in order to contribute**. You just need to read `CONTRIBUTING.md` in order to start contributing to the project.
+Don't know how to code? Great! This project is for you! We welcome contributions to expand and improve this list! This project is also a great way to contribute to **Hacktoberfest**. **This project doesn't need any coding skills in order to contribute**. You just need to read `CONTRIBUTING.md` and star this list/project in order to start contributing to the project.
 
 ---
 
