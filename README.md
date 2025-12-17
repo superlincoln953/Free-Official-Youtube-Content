@@ -613,6 +613,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Paramount Plus**](https://www.youtube.com/@paramountplus) (Clips and compilations)
 
+[**PBS**](https://www.youtube.com/@PBS)
+
 [**Peacock**](https://www.youtube.com/@peacock) (Clips of TV shows)
 
 [**PepperboxTV**](https://www.youtube.com/@PepperboxTV) (Exclusive clips)
