@@ -503,7 +503,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Animation World Network**](https://www.youtube.com/@AWN-AnimationWorldNetwork) (Trailers, clips and Featurettes from upcoming animated movies (including fully animated movies and CG animated movies/movies who use a lot of CGI constantly))
 
-[**Apple TV**](https://www.youtube.com/@AppleTV) (Trailers, sneak peeks, and clips for Apple TV+ original content)
+[**Apple TV**](https://www.youtube.com/@AppleTV) (Trailers, sneak peeks, and clips for Apple TV original content)
 
 [**ATV 亞洲電視**](https://www.youtube.com/@atvhongkong) (Old Free Hong Kong TV)
 
