@@ -1073,7 +1073,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**ESPN**](https://www.youtube.com/@espn) (Sports news, highlights, and analysis from ESPN)
 
-[**FIA**](https://www.youtube.com/@FIAOfficialVideo) (Live, clips, highlights and extras)
+[**Federation Internationale de l'Automobile/FIA**](https://www.youtube.com/@FIAOfficialVideo) (Live, clips, highlights and extras)
 
 [**FIA World Endurance Championship**](https://www.youtube.com/@FIAWEC) (Live, clips, highlights and extras)
 
