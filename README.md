@@ -251,7 +251,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Disney Jr.**](https://www.youtube.com/@disneyjr) (Mostly clips and compilations but some full episodes)
 
-[**Disney Kids**](https://www.youtube.com/@disneykids) (Clips, compilations and short films like [Frozen Fever](https://www.youtube.com/watch?v=Lqv0nxlbFcQ) & [Rapunzel's Tangled Adventure S2 Full Episodes](https://www.youtube.com/playlist?list=PLv042z7GzQ6vb7vF85Cw6jJg2ilphKA9G))
+[**Disney Kids**](https://www.youtube.com/@disneykids) (Clips, compilations and short films like [Frozen Fever](https://www.youtube.com/watch?v=Lqv0nxlbFcQ) & [Rapunzel's Tangled Adventure Full Episodes](https://www.youtube.com/playlist?list=PLv042z7GzQ6vb7vF85Cw6jJg2ilphKA9G))
 
 [**Dora & Friends**](https://www.youtube.com/@DoraOfficial) (Clips and full episodes)
 
