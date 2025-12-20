@@ -553,6 +553,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Disneyland Paris**](https://www.youtube.com/@DisneylandParis/) 
 
+[**Disney Research Hub**](https://youtube.com/@disneyresearchhub)
+
 [**Eurovision Song Contest**](https://www.youtube.com/@EurovisionSongContest/) (Official performances, highlights, and archive videos from past Eurovision contests.)
 
 [**First We Feast**](https://www.youtube.com/@FirstWeFeast) (Home of the "Hot Ones" celebrity interview show)
