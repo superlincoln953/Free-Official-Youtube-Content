@@ -1131,7 +1131,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**NHL**](https://www.youtube.com/@NHL) (Official NHL highlights, game recaps, and classic hockey games)
 
-[**NHRL**](https://www.youtube.com/@NHRL) 
+[**National Havoc Robot League/NHRL**](https://www.youtube.com/@NHRL) 
 
 [**NTT INDYCAR SERIES**](https://www.youtube.com/@indycar) (Clips, highlights and extras)
 
