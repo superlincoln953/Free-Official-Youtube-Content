@@ -199,7 +199,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Slugterra**](https://www.youtube.com/@Slugterra) (Full episodes and movies of the animated series)
 
+[**Smerfy • Po Polsku**](https://www.youtube.com/@Smerfy) ("The Smurfs" in Polish)
+
 [**SpongeBob SquarePants Official**](https://www.youtube.com/@SpongeBobOfficial) (Mostly clips but also full episode marathons)
+
+[**Studio Filmów Rysunkowych**](https://www.youtube.com/@studiofilmowrysunkowych) (Multiple cartoons in Polish)
 
 [**Teenage Mutant Ninja Turtles**](https://www.youtube.com/@tmnt) (Mostly clips and unrelated videos, but also has some episodes)
 
@@ -259,6 +263,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Jelly Jamm**](https://www.youtube.com/@JellyjammOficial) (Full episodes of Jelly Jamm in English and Spanish - some uploads contains errors - Also available officially in [ZooMoo](https://www.youtube.com/@ZooMoo) and [Vodka Capital](https://www.youtube.com/@VodkaCapital) - [Unofficial playlist](https://www.youtube.com/playlist?list=PLyhIO-4tEMIAYLuMcwg7_B3Ica0JH3_PF) of the full series in order containing only the official uploads from the previously mentioned channels)
 
+[**Jeżyk i Przyjaciele** (playlist)](https://www.youtube.com/playlist?list=PLLUwMT4N2rO6dlCaqxpSDGAgqEhUZwqF0) (Animation series from "Puls 2" TV channel in Polish)
+
 [**LEGO**](https://www.youtube.com/@LEGO) (Full episodes of LEGO series like Ninjago, music videos, and product content)
 
 [**Masha and The Bear**](https://www.youtube.com/@MashaBearEN) (Full episodes and compilations)
@@ -303,6 +309,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Star Wars Kids**](https://www.youtube.com/@StarWarsKids) (Mostly clips but some full episodes)
 
+[**Studio Miniatur Filmowych**](https://www.youtube.com/@StudioMiniaturF) (kids content in Polish)
+
 [**Studio100 KIDS**](https://www.youtube.com/@studio100kids) (Full episodes)
 
 [**Super Simple Songs**](https://www.youtube.com/@SuperSimpleSongs) (Original and classic nursery rhymes for young children)
@@ -318,6 +326,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Thomas & Friends**](https://www.youtube.com/@thomasandfriends) (Clips, compilations and full episodes)
 
 [**Treehouse Direct**](https://www.youtube.com/@TreehouseDirect) (Multiple cartoons)
+
+[**Treehouse Direct Polska**](https://www.youtube.com/@TreehouseDirectPolska) (Multiple cartoons in Polish)
 
 [**Universal Kids**](https://www.youtube.com/@UniversalKids) (Clips and compilations)
 
@@ -711,6 +721,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Air Bud TV**](https://www.youtube.com/@airbudtv) (All Air Bud movies plus other family movies)
 
+[**alefilmy**](https://www.youtube.com/@alefilmy) (movies in Polish, uploads one movie every week)
+
 [**Amazon MGM Studios**](https://www.youtube.com/@AmazonMGMStudios) (Clips and trailers)
 
 [**Artflix - Movie Classics**](https://www.youtube.com/channel/UCNcUc5v0Kt5afE_jcbbZUBQ/featured) (General Movies)
@@ -754,6 +766,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**James Bond 007**](https://www.youtube.com/@007) (Official James Bond trailers, clips, and behind-the-scenes content)
 
 [**Kings of Horror**](https://www.youtube.com/user/TheKingsofHorror) (Horror)
+
+[**Kino Swiat VOD**](https://www.youtube.com/@KinoSwiatVOD/videos) (movies in Polish)
 
 [**Korean Classic Film**](https://www.youtube.com/@KoreanClassicFilm) (Full classic Korean movies with English subtitles from the Korean Film Archive)
 
