@@ -231,6 +231,11 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Zig & Sharko**](https://www.youtube.com/@ZigandSharko) (Full episodes of the slapstick animated series)
 
+[**Ever After High**](https://www.youtube.com/@EverAfterHigh) (Full episodes of Ever After High and the Thronecoming movie)
+
+[**Monster High**](https://www.youtube.com/user/MonsterHigh) (Full older Monster High web-volume episodes)
+
+[**The Zelfs**](https://www.youtube.com/@moosethezelfs) (Full The Zelfs episodes)
 ### Kids Media
 
 [**Alphablocks**](https://www.youtube.com/@officialalphablocks) (Full episodes focused on teaching phonics)
@@ -259,6 +264,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Dora & Friends**](https://www.youtube.com/@DoraOfficial) (Clips and full episodes)
 
+[**Ever After High**](https://www.youtube.com/@EverAfterHigh) (Full episodes of Ever After High and the Thronecoming movie)
+
 [**Horrid Henry**](https://www.youtube.com/@HorridHenry) (Full episodes of the British animated series)
 
 [**Jelly Jamm**](https://www.youtube.com/@JellyjammOficial) (Full episodes of Jelly Jamm in English and Spanish - some uploads contains errors - Also available officially in [ZooMoo](https://www.youtube.com/@ZooMoo) and [Vodka Capital](https://www.youtube.com/@VodkaCapital) - [Unofficial playlist](https://www.youtube.com/playlist?list=PLyhIO-4tEMIAYLuMcwg7_B3Ica0JH3_PF) of the full series in order containing only the official uploads from the previously mentioned channels)
@@ -269,13 +276,15 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Me Too!**](https://www.youtube.com/@MeTooOfficialTVShow) (Clips and full episodes)
 
+[**Monster High**](https://www.youtube.com/user/MonsterHigh) (Full older Monster High web-volume episodes)
+
 [**Mother Goose Club**](https://www.youtube.com/@MotherGooseClub) (Live-action and animated nursery rhymes)
 
 [**Mr. Bean**](https://www.youtube.com/@MrBean) (Both the Live Action and the Cartoon version, but not the movies)
 
 [**My Little Pony - Official Channel**](https://www.youtube.com/@MyLittlePonyOfficial) (Full episodes, clips, and music videos from the My Little Pony franchise)
 
-[**National Geographic Kids**](https://www.youtube.com/@natgeokids) (Clips ,full episodes and compilations)
+[**National Geographic Kids**](https://www.youtube.com/@natgeokids) (Clips, full episodes and compilations)
 
 [**Netflix Family**](https://www.youtube.com/@netflixfamily) (Clips, compilations and extra content)
 
@@ -320,6 +329,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**The Pink Panther**](https://www.youtube.com/@PinkPanther) (Clips and compilations)
 
 [**The Powerpuff Girls**](https://www.youtube.com/@ThePowerpuffGirls) (Clips and compilations)
+
+[**The Zelfs**](https://www.youtube.com/@moosethezelfs) (Full The Zelfs episodes)
 
 [**Thomas & Friends**](https://www.youtube.com/@thomasandfriends) (Clips, compilations and full episodes)
 
