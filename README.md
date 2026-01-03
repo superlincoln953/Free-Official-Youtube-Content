@@ -231,11 +231,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Zig & Sharko**](https://www.youtube.com/@ZigandSharko) (Full episodes of the slapstick animated series)
 
-[**Ever After High**](https://www.youtube.com/@EverAfterHigh) (Full episodes of Ever After High and the Thronecoming movie)
-
-[**Monster High**](https://www.youtube.com/user/MonsterHigh) (Full older Monster High web-volume episodes)
-
-[**The Zelfs**](https://www.youtube.com/@moosethezelfs) (Full The Zelfs episodes)
 ### Kids Media
 
 [**Alphablocks**](https://www.youtube.com/@officialalphablocks) (Full episodes focused on teaching phonics)
