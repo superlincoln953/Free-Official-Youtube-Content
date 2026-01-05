@@ -419,6 +419,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Kinolibrary**](https://www.youtube.com/@thekinolibrary) (Archival and restoring of high quality public domain footage)
 
+[**Lawrence Livermore National Laboratory**](https://www.youtube.com/@LivermoreLab/) 
+
 [**Look in The Past War Archives**](https://www.youtube.com/@LookinThePastWarArchives) (Restored and colorized historical war footage and documentaries)
 
 [**lunarmodule5**](https://www.youtube.com/@lunarmodule5) (Historical footage related to the space program)
