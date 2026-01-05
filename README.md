@@ -688,6 +688,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**truTV**](https://www.youtube.com/@trutv) (Clips)
 
+[**Tokyo Disney Resort Official/東京ディズニーリゾート公式**](https://www.youtube.com/@TDRofficialchannel) 
+
 [**Universal Orlando Resort**](https://www.youtube.com/@UniversalOrlando) (Theme park tours, ride-throughs, and special events from Universal Orlando)
 
 [**Universal Pictures**](https://www.youtube.com/@UniversalPictures) (Movie trailers and clips from Universal Pictures films)
