@@ -1192,6 +1192,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Ultimate Pool USA**](https://www.youtube.com/@UltimatePoolUSA) (8-Ball Pool)
 
+[**UEFA**](https://www.youtube.com/@UEFA) 
+
 [**World Athletics**](https://www.youtube.com/@worldathletics) (Live track and field events and highlights)
 
 [**World Poker Tour**](https://www.youtube.com/@WorldPokerTour) (Full episodes and final table highlights from major tournaments)
