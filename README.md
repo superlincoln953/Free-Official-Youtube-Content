@@ -498,7 +498,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Travel Universe**](https://www.youtube.com/channel/UCBWJEa2VHKB3PXHYMpgOj1Q/featured) (Full documentaries)
 
-[**To Scale:**](https://www.youtube.com/@ToScale) (A series of short science films examining the most overlooked facet of universe: its astonishing scale.)
+[**To Scale:**](https://www.youtube.com/@ToScale) (A series of short science films examining the most overlooked facet of our universe: its scale.)
 
 [**Upscaled History**](https://www.youtube.com/@UpscaledHistory) (Restored documentaries from old films, some dubbed in other languages or recolored)
 
