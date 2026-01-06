@@ -336,6 +336,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Treehouse Direct Polska**](https://www.youtube.com/@TreehouseDirectPolska) (Multiple cartoons in Polish)
 
+[**Totally Spies!**](https://www.youtube.com/@TotallySpiesChannel) (Full Seasons and episodes) 
+
 [**Universal Kids**](https://www.youtube.com/@UniversalKids) (Clips and compilations)
 
 [**Wild Kratts**](https://www.youtube.com/@WildKratts) (Full episodes and clips about wildlife and biology)
