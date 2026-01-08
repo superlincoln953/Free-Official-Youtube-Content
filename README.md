@@ -68,11 +68,15 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Cartoon PowerUP**](https://www.youtube.com/@CartoonPowerUp) (Inactive, mostly anime, some cartoons)
 
+[**Chibi Maruko Channel**](https://www.youtube.com/@chibimarukochannelofficial) 
+
 [**Crunchyroll Collection**](https://www.youtube.com/@crunchyroll) (Clips, trailers, and openings/endings from popular anime)
 
 [**Crunchyroll Dubs**](https://www.youtube.com/@CrunchyrollDubs) (Clips of English dubbed anime)
 
 [**Discotek Media**](https://www.youtube.com/@DiscotekMediaOfficial) (Trailers for classic and obscure anime releases)
+
+[**Doraemon/【公式】ドラえもん / 藤子・F・不二雄チャンネル**](https://www.youtube.com/@Doraemon_F_Channel) 
 
 [**GACHIAKUTA**](https://www.youtube.com/@gachiakuta_PR) (Trailers, bts, special content for gachiakuta)
 
@@ -153,8 +157,6 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**DreamWorks Dragons**](https://www.youtube.com/@dreamworksdragons) (Clips from shows and movies and toy content.)
 
 [**DreamWorks Madagascar**](https://www.youtube.com/@DreamWorksMadagascar) (Short clips from the movies and long clips or even full episodes from the kids cartoon)
-
-[**Doraemon/【公式】ドラえもん / 藤子・F・不二雄チャンネル**](https://www.youtube.com/@Doraemon_F_Channel) 
 
 [**Family guy**](https://www.youtube.com/@FamilyGuyFOX) (clips and playlists of full episodes)
 
@@ -261,6 +263,10 @@ That's all, I'll be removing all my personal comments from the list, except the 
 [**Ever After High**](https://www.youtube.com/@EverAfterHigh) (Full episodes of Ever After High and the Thronecoming movie)
 
 [**H2O - just add water**](https://www.youtube.com/@h2o.official) (Full episodes of H2O - just add water and Mako Mermaids)
+
+[**Hello Jadoo TV**](https://www.youtube.com/hellojadooya)
+
+[**Hello Jadoo**](https://www.youtube.com/@hellojadoo-eng) 
 
 [**Horrid Henry**](https://www.youtube.com/@HorridHenry) (Full episodes of the British animated series)
 
