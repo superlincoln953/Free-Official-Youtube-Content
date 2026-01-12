@@ -642,6 +642,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**NHK WORLD-JAPAN**](https://www.youtube.com/@NHKWORLDJAPAN) (News, live and clips)
 
+[**Oscars**](https://www.youtube.com/@Oscars) 
+
 [**Paramount Movies**](https://www.youtube.com/@paramountmovies) (Only clips, i don't think it'd fit in Movies)
 
 [**Paramount Plus**](https://www.youtube.com/@paramountplus) (Clips and compilations)
