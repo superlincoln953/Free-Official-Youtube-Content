@@ -344,6 +344,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Universal Kids**](https://www.youtube.com/@UniversalKids) (Clips and compilations)
 
+[**WB Kids**](https://www.youtube.com/@WBKids) (A mix of clips and full episodes from the Warner Bros. animation library)
+
 [**Wild Kratts**](https://www.youtube.com/@WildKratts) (Full episodes and clips about wildlife and biology)
 
 [**WildBrain Kids**](https://www.youtube.com/@WildBrainKids) (Compilations and full episodes)
