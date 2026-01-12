@@ -568,6 +568,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Comedy Central**](https://www.youtube.com/@ComedyCentral) (Stand-up specials, show clips, and sketches)
 
+[**Deadline Hollywood**](https://www.youtube.com/@Deadline/)
+
 [**DC**](https://www.youtube.com/@dcofficial) (Trailers, clips, full Podcast episodes and extra content)
 
 [**Disney**](https://www.youtube.com/@Disney/)(Clips and Trailers)
