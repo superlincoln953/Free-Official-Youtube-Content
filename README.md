@@ -588,6 +588,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Eurovision Song Contest**](https://www.youtube.com/@EurovisionSongContest/) (Official performances, highlights, and archive videos from past Eurovision contests.)
 
+[**Entertainment Tonight**](https://www.youtube.com/@EntertainmentTonight/) 
+
 [**First We Feast**](https://www.youtube.com/@FirstWeFeast) (Home of the "Hot Ones" celebrity interview show)
 
 [**Food Network**](https://youtube.com/@foodnetwork) (Full episodes, clips, trailers from Food Network TV shows)
