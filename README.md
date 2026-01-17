@@ -968,6 +968,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Suits Official**](https://www.youtube.com/@Suits) (Clips and recaps)
 
+[**SurvivorOnCBS**](https://www.youtube.com/@survivor) 
+
 [**Supernanny**](https://www.youtube.com/Supernanny) (Clips and full episodes)
 
 [**Taskmaster**](https://www.youtube.com/@Taskmaster) (Clips, full episodes, trailers and single tasks)
