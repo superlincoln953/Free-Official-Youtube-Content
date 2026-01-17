@@ -3,7 +3,7 @@ If you are overwhelmed, just scroll down to read and use the list.
 
 There's many official YouTube channels that upload full content for free, be it Movies, TV Shows, Cartoons, Anime...
 
-And I wanted to make an awesome list with as many of them as possible
+And I wanted to make an awesome list with as many of them as possible.
 
 Discover free official YouTube channels for Anime like Pokemon, Cartoons like SpongeBob, Movies, TV Shows, Sports, Short Films, VFX Breakdown & More-no piracy, all legal content.
 
