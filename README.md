@@ -1090,6 +1090,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Wētā FX**](https://www.youtube.com/@weta-fx) (Breakdown and BTS of VFX in movies, with some interviews)
 
+[**Wētā Workshop**](https://www.youtube.com/@wetaworkshopnz)
+
 ### Sport
 
 [**All Elite Wrestling**](https://www.youtube.com/@AEW) (Clips, highlights, and full matches)
