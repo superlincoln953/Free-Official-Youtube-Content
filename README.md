@@ -510,6 +510,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**USCSB**](https://www.youtube.com/@USCSB) (Informative videos made by U.S. Chemical Safety and Hazard Investigation Board)
 
+[**USC Rocket Propulsion Laboratory**](https://www.youtube.com/@USCRocketLab) (Videos by The University of Southern California's Rocket Propulsion Laboratory) 
+
 [**War Stories**](https://www.youtube.com/@WarStoriesChannel) (Military documentaries and war history from various conflicts)
 
 [**Wonder**](https://www.youtube.com/@WonderDocs) (Full documentaries and full episodes from Documentary-TV shows)
