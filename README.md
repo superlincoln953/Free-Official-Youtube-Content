@@ -452,6 +452,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**NASA Video**](https://www.youtube.com/@nasagovvideo) (Videos from NASA, not all in English)
 
+[**NASA Science**](https://www.youtube.com/@NASAScience)
+
 [**National Geographic**](https://www.youtube.com/@NatGeo) (Full episodes and clips)
 
 [**National Geographic Animals**](https://www.youtube.com/@NatGeoAnimals) (Wildlife documentaries and animal behavior content)
