@@ -1110,6 +1110,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**Arcteryx**](https://www.youtube.com/@arcteryx) (Outdoor adventure and climbing content)
 
+[**Australian Open**](https://www.youtube.com/@australianopen) 
+
 [**Badminton World Federation/BWF TV**](https://www.youtube.com/@BWF) (Official BWF channel with live matches and highlights)
 
 [**Battlebots**](https://www.youtube.com/@BattleBots) 
