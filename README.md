@@ -1216,13 +1216,15 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**The Emirates FA Cup**](https://www.youtube.com/@thefacup) (Official FA Cup highlights and match coverage)
 
+[**UEFA**](https://www.youtube.com/@UEFA) 
+
 [**UFC - Ultimate Fighting Championship**](https://www.youtube.com/@ufc) (Fight highlights, full fight replays, interviews, and press conferences)
 
 [**Ultimate Pool UK**](https://www.youtube.com/@UltimatePool) (8-Ball Pool)
 
 [**Ultimate Pool USA**](https://www.youtube.com/@UltimatePoolUSA) (8-Ball Pool)
 
-[**UEFA**](https://www.youtube.com/@UEFA) 
+[**US Open Tennis Championships**](https://www.youtube.com/@usopen) 
 
 [**Wimbledon**](https://www.youtube.com/@Wimbledon) 
 
