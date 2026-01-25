@@ -1224,6 +1224,8 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [**UEFA**](https://www.youtube.com/@UEFA) 
 
+[**Wimbledon**](https://www.youtube.com/@Wimbledon) 
+
 [**World Athletics**](https://www.youtube.com/@worldathletics) (Live track and field events and highlights)
 
 [**World Poker Tour**](https://www.youtube.com/@WorldPokerTour) (Full episodes and final table highlights from major tournaments)
