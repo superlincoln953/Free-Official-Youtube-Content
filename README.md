@@ -48,7 +48,7 @@ That's all, I'll be removing all my personal comments from the list, except the 
 
 [Sport](#Sport)
 
-[Esports](#Esport)
+[Esport](#Esport)
 
 [Tech & Security](#tech--security)
 
