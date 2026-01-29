@@ -1333,7 +1333,7 @@ Buy second hand Blu-rays(1080p/4K and lossless audio) and DVDs(480p and audio on
 
 ## Contributing to this List (Hacktoberfest Friendly! 🎃)
 
-Don't know how to code? Great! This project is for you! We welcome contributions to expand and improve this list! This project is also a great way to contribute to **Hacktoberfest**. **This project doesn't need any coding skills in order to contribute**. You just need to read `CONTRIBUTING.md` and star this list/project in order to start contributing to the project.
+Don't know how to code? Great! This project is for you! We welcome contributions to expand and improve this list! This project is also a great way to contribute to **Hacktoberfest**. **This project doesn't need any coding skills in order to contribute**. You just need to **read `CONTRIBUTING.md` and star this list/project** in order to start contributing to the project.
 
 ---
 
