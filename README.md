@@ -9,24 +9,19 @@ Discover free official YouTube channels for Anime like Pokemon, Cartoons like Sp
 
 This list will only focus on official YouTube channels who have the rights to post the content online, no unofficial uploaders are allowed
 
-[Originally](https://rentry.co/Free-Official-Youtube-Content) made by [Gordon Feetman](https://github.com/GordonFeetman0), now maintained by Superlincoln
+[Originally](https://rentry.co/Free-Official-Youtube-Content) made by [Gordon Feetman](https://github.com/GordonFeetman0)
 
 💜A big thanks to [FMHY](https://fmhy.net/) for adding my page to [their list](https://fmhy.net/video#free-w-ads)💜
 
 Also a big thanks to [all the members of the FMHY Discord server](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) for suggesting me most of these channels
+
+#### If you enjoy using this list, a star on github would be greatly appreciated!
 
 This list will only focus on official YouTube channels who have the rights to post the content online, no unofficial uploaders are allowed
 
 Buy second hand Blu-rays(1080p/4K and lossless audio) and DVDs(480p and audio on par with streaming services) of the movies and shows you love and will watch more than once, they are cheap af, often have extra content, you can keep and watch it forever and no one can take it away.
 
 [Original list on Rentry](https://rentry.co/Free-Official-Youtube-Content)
-
----
-
-**Small Message**: Hi, I'm [Gordon Feetman](https://github.com/GordonFeetman0), the maker of this list, and I'm writing this short message to let y'all know that I'll no longer be maintaining this list, as it was taking a lot of my time and focus from uni, so i wanted to let all you know that I'm passing this list onto Superlincoln, which was already the biggest contributor for this list. The way this list is maintained will remain the same, or even be improved, since I'm not too good at organizing stuff.
-That's all, I'll be removing all my personal comments from the list, except the few useful ones
-
----
 
 ### Table Of Contents
 
@@ -1352,7 +1347,10 @@ A big thank you to everyone who has contributed to making this list awesome! You
 
 Made with ❤️ by awesome people
 
+#### If you enjoy using this list, a star on github would be greatly appreciated!
+
 [If you want me to try out/give me 5 days of Real Debrid, use my referral link next time you renew/buy your Real Debrid subscription !](http://real-debrid.com/?id=15299096)
 
 Awesome list of official YouTube channels offering Movies, Anime, Cartoons, Documentaries, TV Shows & More. Includes content like Frozen shorts, Disney's Parks, TV & movie clips & clip compilations, Pokemon, SpongeBob, Breaking Bad, Harry Potter, HBO, BBC, WWE, NBA, F1, UFC, NASA, NFL, Sony, Universal, MLB, Netflix, DC, FIFA, Netflix, PGA, Apple TV
+#### If you enjoy using this list, a star on github would be greatly appreciated!
 ###### Always read `README.md` and `CONTRIBUTING.md` in full first before you  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/superlincoln953/Free-Official-Youtube-Content)! Contributors have worked very hard on writing and maintaining this list! 
